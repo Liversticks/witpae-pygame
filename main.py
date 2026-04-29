@@ -11,6 +11,8 @@ settings_path = Path(__file__).resolve().parent / "options.json"
 with open(settings_path, "r") as f:
     settings = json.load(f)
 
+GRID_VISIBILITY_THRESHOLD = 0.4
+
 METERS_PER_NM = 1852
 HEX_NM = 20
 hex_size_meters = HEX_NM * METERS_PER_NM
@@ -29,8 +31,6 @@ MAP_WIDTH = settings["mapWidth"]
 px_per_meter = background_rect.width / MAP_WIDTH
 hex_radius = hex_size_meters * px_per_meter
 
-grid_surf = pygame.Surface((background_rect.width, background_rect.height), pygame.SRCALPHA)
-
 def get_hex_points(center_x, center_y, radius):
     points = []
     for i in range(6):
@@ -48,28 +48,12 @@ height_spacing = hex_radius * math.sqrt(3)
 cols = int(background_rect.width / width_spacing) + 1
 rows = int(background_rect.height / height_spacing) + 1
 
-
-for r in range(rows):
-    for c in range(cols):
-        x = c * width_spacing
-        # Offset every other column
-        y = r * height_spacing + (c % 2) * (height_spacing / 2)
-        
-        # Only draw if the center is roughly within the image bounds
-        if x < background_rect.width + hex_radius and y < background_rect.height + hex_radius:
-            pygame.draw.polygon(grid_surf, (0, 0, 0), get_hex_points(x, y, hex_radius), 1)
-
-
-# Combine Background and Grid for easier handling
-final_base_surf = background.copy()
-final_base_surf.blit(grid_surf, (0, 0))
-
 # Camera state
 cam_pos = pygame.Vector2(0,0)  # Upper left of background image
 zoom_level = 1.0
 move_speed = 10
 zoom_dirty = False
-scaled_surf = final_base_surf
+scaled_surf = background
 
 while running:
     # poll for events
@@ -89,7 +73,7 @@ while running:
             # Update zoom level
             # (how far out to zoom, how far zoomed in)
             zoom_level += event.y * 0.1
-            zoom_level = max(0.5, min(zoom_level, 2.5))
+            zoom_level = max(0.1, min(zoom_level, 2.5))
             
             # Calculate new camera position to keep mouse over the same world spot
             # New Cam Pos = (World Mouse * new_zoom) - Mouse Screen Pos
@@ -114,11 +98,31 @@ while running:
     if zoom_dirty:
         # use scale() for speed, smoothscale() for quality
         new_size = (int(background_rect.width * zoom_level), int(background_rect.height * zoom_level))
-        scaled_surf = pygame.transform.scale(final_base_surf, new_size)
+        scaled_surf = pygame.transform.scale(background, new_size)
         zoom_dirty = False
     
     # Blit the scaled image at the negative camera offset
     screen.blit(scaled_surf, -cam_pos)
+    
+    # 2. Draw the grid dynamically
+    # We apply the zoom to the radius and spacing
+    if zoom_level > GRID_VISIBILITY_THRESHOLD:
+        current_hex_radius = hex_radius * zoom_level
+        current_w_spacing = width_spacing * zoom_level
+        current_h_spacing = height_spacing * zoom_level
+        
+        for r in range(rows):
+            for c in range(cols):
+                # Calculate screen position: (World Pos * Zoom) - Camera Offset
+                # Since we already have the spacing constants, we just scale them
+                x = (c * current_w_spacing) - cam_pos.x
+                y = (r * current_h_spacing + (c % 2) * (current_h_spacing / 2)) - cam_pos.y
+            
+                # Culling: Only draw if the hex is actually on the screen
+                if -current_hex_radius < x < screen.get_width() + current_hex_radius and \
+                -current_hex_radius < y < screen.get_height() + current_hex_radius:
+                    # The '1' here ensures the border is ALWAYS 1 pixel thick
+                    pygame.draw.polygon(screen, (0, 0, 0), get_hex_points(x, y, current_hex_radius), 1)
 
     # flip() the display to put your work on screen
     pygame.display.flip()
