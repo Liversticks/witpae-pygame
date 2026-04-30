@@ -55,7 +55,7 @@ hex_map = RectHexmap(1, (cols, rows), flat=False)
 layout = Layout(size=(hex_radius, hex_radius), flat=False)
 
 print(hex_map.center())
-# <Hex: 0, 0>, <Hex: 305, 0>, <Hex: -142, 284>, <Hex: 163, 284>
+# V1: <Hex: 0, 0>, <Hex: 305, 0>, <Hex: -142, 284>, <Hex: 163, 284>
 print(hex_map.corners())
 print(f"Cols: {cols}, Rows: {rows}")
 
@@ -65,6 +65,8 @@ zoom_level = 1.0
 move_speed = 10
 zoom_dirty = False
 scaled_surf = background
+
+SHOW_GRID = True
 
 while running:
     # poll for events
@@ -109,6 +111,13 @@ while running:
             print(f"World Coordinate: ({world_x:.2f}, {world_y:.2f})")
             print(f"Hex Coordinate: q={clicked_hex.q}, r={clicked_hex.r}")
             print(hex_map.get(clicked_hex))
+
+            # 4. Convert "World Pixels" to Meters
+            # px_per_meter is calculated in your main.py as: background_rect.width / MAP_WIDTH
+            click_x_meters = world_x / px_per_meter
+            click_y_meters = world_y / px_per_meter
+
+            print(f"Clicked Location Offset (Meters): ({click_x_meters},{click_y_meters})")
             
 
     # 2. PANNING (Arrow keys)
@@ -135,7 +144,7 @@ while running:
     
     # 2. Draw the grid dynamically
     # We apply the zoom to the radius and spacing
-    if zoom_level > GRID_VISIBILITY_THRESHOLD:
+    if zoom_level > GRID_VISIBILITY_THRESHOLD and SHOW_GRID:
         current_hex_radius = hex_radius * zoom_level
         current_w_spacing = width_spacing * zoom_level
         current_h_spacing = height_spacing * zoom_level
