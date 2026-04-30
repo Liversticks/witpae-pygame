@@ -5,11 +5,13 @@ import math
 from pathlib import Path
 
 # 1. LOAD OPTIONS FROM JSON
-# Define the path to your settings file
-settings_path = Path(__file__).resolve().parent / "options.json"
+def load_settings():
+    settings_path = Path(__file__).resolve().parent / "options.json"
 
-with open(settings_path, "r") as f:
-    settings = json.load(f)
+    with open(settings_path, "r") as f:
+        return json.load(f)
+
+settings = load_settings()
 
 GRID_VISIBILITY_THRESHOLD = 0.4
 
@@ -34,19 +36,21 @@ hex_radius = hex_size_meters * px_per_meter
 def get_hex_points(center_x, center_y, radius):
     points = []
     for i in range(6):
-        angle_deg = 60 * i
+        angle_deg = 60 * i - 30
         angle_rad = math.pi / 180 * angle_deg
         px = center_x + radius * math.cos(angle_rad)
         py = center_y + radius * math.sin(angle_rad)
         points.append((px, py))
     return points
 
-# Grid math for flat-topped hexes
-width_spacing = hex_radius * 1.5
-height_spacing = hex_radius * math.sqrt(3)
+# Grid math for pointy-topped hexes
+width_spacing = hex_radius * math.sqrt(3)
+height_spacing = hex_radius * 1.5
 
 cols = int(background_rect.width / width_spacing) + 1
 rows = int(background_rect.height / height_spacing) + 1
+
+print(f"Cols: {cols}, Rows: {rows}")
 
 # Camera state
 cam_pos = pygame.Vector2(0,0)  # Upper left of background image
@@ -115,8 +119,9 @@ while running:
             for c in range(cols):
                 # Calculate screen position: (World Pos * Zoom) - Camera Offset
                 # Since we already have the spacing constants, we just scale them
-                x = (c * current_w_spacing) - cam_pos.x
-                y = (r * current_h_spacing + (c % 2) * (current_h_spacing / 2)) - cam_pos.y
+                # Pointy-top: offset every other row (r % 2) horizontally
+                x = (c * current_w_spacing + (r % 2) * (current_w_spacing / 2)) - cam_pos.x
+                y = (r * current_h_spacing) - cam_pos.y
             
                 # Culling: Only draw if the hex is actually on the screen
                 if -current_hex_radius < x < screen.get_width() + current_hex_radius and \
