@@ -51,9 +51,12 @@ height_spacing = hex_radius * 1.5
 cols = int(background_rect.width / width_spacing) + 1
 rows = int(background_rect.height / height_spacing) + 1
 
-hex_map = RectHexmap(None, (cols, rows), flat=False)
+hex_map = RectHexmap(1, (cols, rows), flat=False)
 layout = Layout(size=(hex_radius, hex_radius), flat=False)
 
+print(hex_map.center())
+# <Hex: 0, 0>, <Hex: 305, 0>, <Hex: -142, 284>, <Hex: 163, 284>
+print(hex_map.corners())
 print(f"Cols: {cols}, Rows: {rows}")
 
 # Camera state
@@ -105,8 +108,7 @@ while running:
             print(f"Clicked Screen: ({mouse_x}, {mouse_y})")
             print(f"World Coordinate: ({world_x:.2f}, {world_y:.2f})")
             print(f"Hex Coordinate: q={clicked_hex.q}, r={clicked_hex.r}")
-
-            # if (clicked_hex.q)
+            print(hex_map.get(clicked_hex))
             
 
     # 2. PANNING (Arrow keys)
