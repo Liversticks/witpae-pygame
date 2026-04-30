@@ -1,1 +1,3 @@
+geks==0.0.1
+numpy==2.4.4
 pygame-ce==2.5.7

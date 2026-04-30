@@ -3,6 +3,7 @@ import pygame
 import json
 import math
 from pathlib import Path
+from geks import RectHexmap, Layout
 
 # 1. LOAD OPTIONS FROM JSON
 def load_settings():
@@ -50,6 +51,9 @@ height_spacing = hex_radius * 1.5
 cols = int(background_rect.width / width_spacing) + 1
 rows = int(background_rect.height / height_spacing) + 1
 
+hex_map = RectHexmap(None, (cols, rows), flat=False)
+layout = Layout(size=(hex_radius, hex_radius), flat=False)
+
 print(f"Cols: {cols}, Rows: {rows}")
 
 # Camera state
@@ -84,6 +88,25 @@ while running:
             cam_pos = (world_mouse_before * zoom_level) - mouse_pos
 
             zoom_dirty = True
+
+        if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
+            # 1. Get the screen position of the click
+            mouse_x, mouse_y = event.pos
+            
+            # 2. Convert Screen Coordinates to World Coordinates (Zoom level 1.0)
+            # Formula: (Screen Pos + Camera Offset) / Zoom
+            world_x = (mouse_x + cam_pos.x) / zoom_level
+            world_y = (mouse_y + cam_pos.y) / zoom_level
+            
+            # 3. Use geks to convert the fractional world point to a hex coordinate
+            # The 'layout' object contains the base math for your pointy-top grid
+            clicked_hex = layout.pixel2hex((world_x, world_y))
+            
+            print(f"Clicked Screen: ({mouse_x}, {mouse_y})")
+            print(f"World Coordinate: ({world_x:.2f}, {world_y:.2f})")
+            print(f"Hex Coordinate: q={clicked_hex.q}, r={clicked_hex.r}")
+
+            # if (clicked_hex.q)
             
 
     # 2. PANNING (Arrow keys)
