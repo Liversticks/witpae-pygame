@@ -26,11 +26,13 @@ screen = pygame.display.set_mode((1280, 720), flags=pygame.RESIZABLE)
 clock = pygame.time.Clock()
 running = True
 
-background_location = Path(__file__).resolve().parent / settings["backgroundImagePath"]
+TESTING_MAP_INDEX = 2
+
+background_location = Path(__file__).resolve().parent / settings["maps"][TESTING_MAP_INDEX]["backgroundImagePath"]
 background = pygame.image.load(background_location).convert_alpha()
 background_rect = background.get_rect()
 
-MAP_WIDTH = settings["mapWidth"]
+MAP_WIDTH = settings["maps"][TESTING_MAP_INDEX]["mapWidth"]
 px_per_meter = background_rect.width / MAP_WIDTH
 hex_radius = hex_size_meters * px_per_meter
 

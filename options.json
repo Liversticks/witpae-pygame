@@ -1,5 +1,24 @@
 {
-    "mapWidth": 19600000,
-    "mapHeight": 14300000,
-    "backgroundImagePath": "azimuthal-15-165-v3.png"
+    "maps": [
+        {
+            "mapWidth":17500000,
+            "mapHeight":14100000,
+            "backgroundImagePath":"Maps/az-15-165-r0.png"
+        },
+        {
+            "mapWidth": 17500000,
+            "mapHeight": 13300000,
+            "backgroundImagePath": "Maps/az-15-165-r10-z200.png"
+        },
+        {
+            "mapWidth": 17500000,
+            "mapHeight": 13300000,
+            "backgroundImagePath": "Maps/az-15-165-r10-z175.png"
+        },
+        {
+            "mapWidth": 19600000,
+            "mapHeight": 14300000,
+            "backgroundImagePath": "azimuthal-15-165-v1.png"
+        }
+    ]
 }
