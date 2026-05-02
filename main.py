@@ -3,7 +3,7 @@ import pygame
 import json
 import math
 from pathlib import Path
-from geks import RectHexmap, Layout
+from strategic_map import StrategicMap
 
 # 1. LOAD OPTIONS FROM JSON
 def load_settings():
@@ -16,9 +16,7 @@ settings = load_settings()
 
 GRID_VISIBILITY_THRESHOLD = 0.4
 
-METERS_PER_NM = 1852
 HEX_NM = 20
-hex_size_meters = HEX_NM * METERS_PER_NM
 
 # pygame setup
 pygame.init()
@@ -28,13 +26,8 @@ running = True
 
 TESTING_MAP_INDEX = 2
 
-background_location = Path(__file__).resolve().parent / settings["maps"][TESTING_MAP_INDEX]["backgroundImagePath"]
-background = pygame.image.load(background_location).convert_alpha()
-background_rect = background.get_rect()
-
 MAP_WIDTH = settings["maps"][TESTING_MAP_INDEX]["mapWidth"]
-px_per_meter = background_rect.width / MAP_WIDTH
-hex_radius = hex_size_meters * px_per_meter
+strat_map = StrategicMap(str(Path(__file__).resolve().parent / settings["maps"][TESTING_MAP_INDEX]["backgroundImagePath"]), MAP_WIDTH, HEX_NM)
 
 def get_hex_points(center_x, center_y, radius):
     points = []
@@ -46,27 +39,12 @@ def get_hex_points(center_x, center_y, radius):
         points.append((px, py))
     return points
 
-# Grid math for pointy-topped hexes
-width_spacing = hex_radius * math.sqrt(3)
-height_spacing = hex_radius * 1.5
-
-cols = int(background_rect.width / width_spacing) + 1
-rows = int(background_rect.height / height_spacing) + 1
-
-hex_map = RectHexmap(1, (cols, rows), flat=False)
-layout = Layout(size=(hex_radius, hex_radius), flat=False)
-
-print(hex_map.center())
-# V1: <Hex: 0, 0>, <Hex: 305, 0>, <Hex: -142, 284>, <Hex: 163, 284>
-print(hex_map.corners())
-print(f"Cols: {cols}, Rows: {rows}")
-
 # Camera state
 cam_pos = pygame.Vector2(0,0)  # Upper left of background image
 zoom_level = 1.0
 move_speed = 10
 zoom_dirty = False
-scaled_surf = background
+scaled_surf = strat_map.get_background()
 
 SHOW_GRID = True
 
@@ -104,22 +82,15 @@ while running:
             # Formula: (Screen Pos + Camera Offset) / Zoom
             world_x = (mouse_x + cam_pos.x) / zoom_level
             world_y = (mouse_y + cam_pos.y) / zoom_level
-            
-            # 3. Use geks to convert the fractional world point to a hex coordinate
-            # The 'layout' object contains the base math for your pointy-top grid
-            clicked_hex = layout.pixel2hex((world_x, world_y))
-            
             print(f"Clicked Screen: ({mouse_x}, {mouse_y})")
             print(f"World Coordinate: ({world_x:.2f}, {world_y:.2f})")
-            print(f"Hex Coordinate: q={clicked_hex.q}, r={clicked_hex.r}")
-            print(hex_map.get(clicked_hex))
-
-            # 4. Convert "World Pixels" to Meters
+            # 3. Convert "World Pixels" to Meters
             # px_per_meter is calculated in your main.py as: background_rect.width / MAP_WIDTH
-            click_x_meters = world_x / px_per_meter
-            click_y_meters = world_y / px_per_meter
-
+            click_x_meters = world_x / strat_map.get_px_per_m()
+            click_y_meters = world_y / strat_map.get_px_per_m()
             print(f"Clicked Location Offset (Meters): ({click_x_meters},{click_y_meters})")
+
+            strat_map.on_click_hex((world_x, world_y))
             
 
     # 2. PANNING (Arrow keys)
@@ -137,8 +108,8 @@ while running:
     # Scale the image based on zoom level
     if zoom_dirty:
         # use scale() for speed, smoothscale() for quality
-        new_size = (int(background_rect.width * zoom_level), int(background_rect.height * zoom_level))
-        scaled_surf = pygame.transform.scale(background, new_size)
+        new_size = (int(strat_map.get_rect().width * zoom_level), int(strat_map.get_rect().height * zoom_level))
+        scaled_surf = pygame.transform.scale(strat_map.get_background(), new_size)
         zoom_dirty = False
     
     # Blit the scaled image at the negative camera offset
@@ -147,12 +118,12 @@ while running:
     # 2. Draw the grid dynamically
     # We apply the zoom to the radius and spacing
     if zoom_level > GRID_VISIBILITY_THRESHOLD and SHOW_GRID:
-        current_hex_radius = hex_radius * zoom_level
-        current_w_spacing = width_spacing * zoom_level
-        current_h_spacing = height_spacing * zoom_level
+        current_hex_radius = strat_map.get_hex_radius_px() * zoom_level
+        current_w_spacing = strat_map.get_width_spacing() * zoom_level
+        current_h_spacing = strat_map.get_height_spacing() * zoom_level
         
-        for r in range(rows):
-            for c in range(cols):
+        for r in range(strat_map.get_rows()):
+            for c in range(strat_map.get_cols()):
                 # Calculate screen position: (World Pos * Zoom) - Camera Offset
                 # Since we already have the spacing constants, we just scale them
                 # Pointy-top: offset every other row (r % 2) horizontally
