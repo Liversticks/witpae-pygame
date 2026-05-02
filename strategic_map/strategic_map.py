@@ -1,47 +1,63 @@
-from .grid import HexGrid
-from .view import HexView
+import pygame
+from math import sqrt
+from geks import RectHexmap, Layout
+
+METERS_PER_NM = 1852
 
 class StrategicMap:
     def __init__(self, background_file_path: str, background_width: int, hex_radius_nm: int):
-        # Initialize the two components
-        self.view = HexView(background_file_path, background_width, hex_radius_nm)
-        self.grid = HexGrid(self.view.cols, self.view.rows)
+        self.background = pygame.image.load(background_file_path).convert_alpha()
+        self.rect = self.background.get_rect()
+        
+        # Spatial math
+        self.px_per_meter = self.rect.width / background_width
+        self.hex_size_meters = hex_radius_nm * METERS_PER_NM
+        self.hex_radius_px = self.hex_size_meters * self.px_per_meter
+        
+        # Spacing constants for pointy-topped hexes
+        self.width_spacing = self.hex_radius_px * sqrt(3)
+        self.height_spacing = self.hex_radius_px * 1.5
+        
+        # Grid dimensions derived from image size and hex spacing
+        self.cols = int(self.rect.width / self.width_spacing) + 1
+        self.rows = int(self.rect.height / self.height_spacing) + 1
+        
+        self.hex_map = RectHexmap(1, (self.cols, self.rows), flat=False)
+        self.layout = Layout(size=(self.hex_radius_px, self.hex_radius_px), flat=False)
 
     def get_background(self):
-        return self.view.background
+        return self.background
 
     def get_rect(self):
-        return self.view.rect
+        return self.rect
     
     def get_rows(self) -> int:
-        return self.grid.rows
+        return self.rows
     
     def get_cols(self) -> int:
-        return self.grid.cols
+        return self.cols
     
     def get_px_per_m(self) -> int:
-        return self.view.px_per_meter
+        return self.px_per_meter
     
     def get_hex_radius_m(self) -> int:
-        return self.view.hex_size_meters
+        return self.hex_size_meters
     
     def get_hex_radius_px(self) -> int:
-        return self.view.hex_radius_px
+        return self.hex_radius_px
     
     def get_width_spacing(self) -> float:
-        return self.view.width_spacing
+        return self.width_spacing
     
     def get_height_spacing(self) -> float:
-        return self.view.height_spacing
+        return self.height_spacing
     
     def on_click_hex(self, coordinates: tuple[int, int]):
-        # Delegate coordinate conversion to view, data lookup to grid
-        clicked_hex = self.view.layout.pixel2hex(coordinates)
-        
+        clicked_hex = self.layout.pixel2hex(coordinates)
         print(f"Hex Coordinate: q={clicked_hex.q}, r={clicked_hex.r}")
-        print(self.grid.hex_map.get(clicked_hex))
+        print(self.hex_map.get(clicked_hex))
     
     def debug_print_map_initalization(self):
-        print(self.grid.hex_map.center())
-        print(self.grid.hex_map.corners())
-        print(f"Cols: {self.grid.cols}, Rows: {self.grid.rows}")
+        print(self.hex_map.center())
+        print(self.hex_map.corners())
+        print(f"Cols: {self.cols}, Rows: {self.rows}")
