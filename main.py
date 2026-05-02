@@ -1,8 +1,12 @@
 # Example file showing a basic pygame "game loop"
-import pygame
 import json
 import math
 from pathlib import Path
+
+import pygame
+import pygame_gui
+from pygame_gui.elements import UIPanel
+
 from strategic_map import StrategicMap
 
 # 1. LOAD OPTIONS FROM JSON
@@ -23,6 +27,21 @@ pygame.init()
 screen = pygame.display.set_mode((1280, 720), flags=pygame.RESIZABLE)
 clock = pygame.time.Clock()
 running = True
+
+manager = pygame_gui.UIManager((1280, 720))
+# Create the menu bar
+# We use anchors to ensure it stays pinned to the top and stretches to the full width
+menu_bar = UIPanel(
+    relative_rect=pygame.Rect(0, 0, screen.get_width(), 40),
+    manager=manager,
+    starting_height=1,  # Ensures it draws above other UI elements in the same layer
+    anchors={
+        'top': 'top',
+        'bottom': 'top',
+        'left': 'left',
+        'right': 'right'
+    }
+)
 
 TESTING_MAP_INDEX = 2
 
@@ -51,9 +70,13 @@ SHOW_GRID = True
 while running:
     # poll for events
     # pygame.QUIT event means the user clicked X to close your window
+    time_delta = clock.tick(60) / 1000.0
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
+
+        if event.type == pygame.VIDEORESIZE:
+            manager.set_window_resolution(event.size)
 
         if event.type == pygame.MOUSEWHEEL:
             mouse_pos = pygame.Vector2(pygame.mouse.get_pos())
@@ -75,23 +98,27 @@ while running:
             zoom_dirty = True
 
         if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
-            # 1. Get the screen position of the click
-            mouse_x, mouse_y = event.pos
-            
-            # 2. Convert Screen Coordinates to World Coordinates (Zoom level 1.0)
-            # Formula: (Screen Pos + Camera Offset) / Zoom
-            world_x = (mouse_x + cam_pos.x) / zoom_level
-            world_y = (mouse_y + cam_pos.y) / zoom_level
-            print(f"Clicked Screen: ({mouse_x}, {mouse_y})")
-            print(f"World Coordinate: ({world_x:.2f}, {world_y:.2f})")
-            # 3. Convert "World Pixels" to Meters
-            # px_per_meter is calculated in your main.py as: background_rect.width / MAP_WIDTH
-            click_x_meters = world_x / strat_map.get_px_per_m()
-            click_y_meters = world_y / strat_map.get_px_per_m()
-            print(f"Clicked Location Offset (Meters): ({click_x_meters},{click_y_meters})")
+            if not manager.get_hovering_any_element():
+                # 1. Get the screen position of the click
+                mouse_x, mouse_y = event.pos
+                
+                # 2. Convert Screen Coordinates to World Coordinates (Zoom level 1.0)
+                # Formula: (Screen Pos + Camera Offset) / Zoom
+                world_x = (mouse_x + cam_pos.x) / zoom_level
+                world_y = (mouse_y + cam_pos.y) / zoom_level
+                print(f"Clicked Screen: ({mouse_x}, {mouse_y})")
+                print(f"World Coordinate: ({world_x:.2f}, {world_y:.2f})")
+                # 3. Convert "World Pixels" to Meters
+                # px_per_meter is calculated in your main.py as: background_rect.width / MAP_WIDTH
+                click_x_meters = world_x / strat_map.get_px_per_m()
+                click_y_meters = world_y / strat_map.get_px_per_m()
+                print(f"Clicked Location Offset (Meters): ({click_x_meters},{click_y_meters})")
 
-            strat_map.on_click_hex((world_x, world_y))
-            
+                strat_map.on_click_hex((world_x, world_y))
+
+        manager.process_events(event)
+
+    manager.update(time_delta)
 
     # 2. PANNING (Arrow keys)
     keys = pygame.key.get_pressed()
@@ -136,9 +163,9 @@ while running:
                     # The '1' here ensures the border is ALWAYS 1 pixel thick
                     pygame.draw.polygon(screen, (0, 0, 0), get_hex_points(x, y, current_hex_radius), 1)
 
+    manager.draw_ui(screen)
+
     # flip() the display to put your work on screen
     pygame.display.flip()
-
-    clock.tick(60)  # limits FPS to 60
 
 pygame.quit()

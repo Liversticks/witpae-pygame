@@ -1,0 +1,1331 @@
+Name,Type,Owner,Region,Location,Supply,Fuel,Port,Port_SPS,P Exp,Airbase,Airbase_SPS,A Exp,Forts,F Exp,Eng,Nav,Air S (P),AV,Garrison,Troop Cap,HQ,Japan VP,Allied VP,ID,Troop Cap Max
+Akita,Base,0,Japan,"117,55",2130,9200,1,1,,1,7,0,0,9,0,74 (74),86 (0),0,0,1713,General Defence Army,3 (1),150 (50),222,unlim
+Ominato,Base,0,Japan,"119,54",18930,37300,5,6,0,1,7,0,0,9,62,443 (0),40 (26),49,0,15865,General Defence Army,7 (1),350 (50),223,unlim
+Asahikawa,Airfield,0,Japan,"121,51",3555,0,0,0,,1,7,0,0,9,48,0 (0),0 (0),412,0,13726,General Defence Army,2 (1),100 (50),224,unlim
+Fukuoka,Base,0,Japan,"103,57",76020,176400,10,7,,2,7,0,0,9,11,56 (56),107 (9),8,0,3460,General Defence Army,14 (1),700 (50),225,unlim
+Hakodate,Base,0,Japan,"119,53",33690,27200,6,4,,2,7,0,0,9,0,112 (112),0 (0),0,0,3748,General Defence Army,10 (1),500 (50),226,unlim
+Hamamatsu,Base,0,Japan,"111,61",2250,900,1,1,,1,7,0,0,9,23,28 (28),131 (0),8,0,3462,General Defence Army,3 (1),150 (50),227,unlim
+Hiroshima/Kure,Base,0,Japan,"106,58",350421,631200,9,9,,10,7,,1,,67,601 (0),103 (18),37,0,14934,General Defence Army,29 (1),1450 (50),228,unlim
+Kagoshima,Base,0,Japan,"102,60",33690,2400,4,5,0,4,5,0,0,9,18,37 (37),22 (27),274,0,11456,General Defence Army,12 (1),600 (50),229,unlim
+Kanazawa,Base,0,Japan,"111,57",5190,0,1,1,,1,7,0,0,9,59,54 (54),24 (0),396,0,14680,General Defence Army,3 (1),150 (50),230,unlim
+Kobe,Base,0,Japan,"108,59",210660,180500,10,9,,10,7,,0,9,59,56 (56),107 (0),448,0,25829,General Defence Army,30 (1),1500 (50),231,unlim
+Kochi,Base,0,Japan,"106,60",13155,500,3,2,,2,6,0,0,9,0,74 (74),0 (0),0,0,0,General Defence Army,7 (1),350 (50),232,unlim
+Kofu,Beach,0,Japan,"113,60",20,0,0,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,General Defence Army,0 (1),0 (50),233,unlim
+Kumamoto,Base,0,Japan,"102,59",13215,500,3,2,,2,7,0,0,9,11,44 (44),107 (0),8,0,3212,General Defence Army,7 (1),350 (50),234,unlim
+Kushiro,Base,0,Japan,"123,53",13155,500,3,2,,2,6,0,0,9,0,37 (37),0 (0),0,0,0,General Defence Army,7 (1),350 (50),235,unlim
+Maebashi,Airfield,0,Japan,"113,59",8430,0,0,0,,4,3,,0,9,0,0 (0),0 (0),0,0,1020,General Defence Army,8 (1),400 (50),236,unlim
+Maizuru,Base,0,Japan,"110,58",127050,157300,5,6,0,6,6,,1,,66,266 (44),45 (4),57,0,9949,General Defence Army,17 (1),850 (50),237,unlim
+Matsue,Base,0,Japan,"107,57",2100,0,1,1,,1,6,0,0,9,12,74 (74),23 (0),0,0,1238,General Defence Army,3 (1),150 (50),238,unlim
+Matsuyama,Base,0,Japan,"105,59",8430,500,3,1,,1,4,0,0,9,0,225 (225),0 (0),0,0,0,General Defence Army,5 (1),250 (50),239,unlim
+Muroran,Base,0,Japan,"120,52",13155,2800,3,4,0,2,7,0,0,9,0,74 (74),0 (0),31,0,1296,General Defence Army,7 (1),350 (50),240,unlim
+Nagaoka,Base,0,Japan,"114,58",2130,0,1,1,,1,6,0,0,9,0,52 (52),0 (0),0,0,136,General Defence Army,3 (1),150 (50),241,unlim
+Nagasaki/Sasebo,Base,0,Japan,"102,58",105960,145600,7,6,,3,7,0,1,,107,236 (44),129 (28),498,0,30557,General Defence Army,13 (1),650 (50),242,unlim
+Nagoya,Base,0,Japan,"111,60",76350,120700,9,9,,3,7,0,0,9,23,68 (32),75 (18),8,0,5807,General Defence Army,15 (1),750 (50),243,unlim
+Niigata,Base,0,Japan,"114,57",18960,18800,5,4,,1,7,0,0,9,0,54 (54),0 (0),0,0,368,General Defence Army,7 (1),350 (50),244,unlim
+Okayama,Base,0,Japan,"108,58",52560,2400,4,8,0,6,7,0,0,9,11,74 (74),21 (27),8,0,1563,General Defence Army,16 (1),800 (50),245,unlim
+Osaka/Kyoto,Base,0,Japan,"109,59",172950,303300,10,7,,8,7,,0,9,142,146 (44),21 (18),883,0,37727,General Defence Army,26 (1),3900 (150),246,unlim
+Sapporo,Base,0,Japan,"120,51",19080,19200,5,6,0,1,7,0,0,9,0,56 (56),0 (0),0,0,3120,General Defence Army,7 (1),350 (50),247,unlim
+Sendai,Base,0,Japan,"117,58",3347,11400,3,5,0,1,7,0,0,9,62,44 (44),0 (0),252,0,10736,General Defence Army,5 (1),250 (50),248,unlim
+Shimizu,Base,0,Japan,"112,61",13245,3400,4,4,,1,6,0,0,9,12,24 (24),24 (0),9,0,1255,General Defence Army,6 (1),300 (50),249,unlim
+Shimonoseki,Base,0,Japan,"104,57",88845,143700,9,6,,4,7,0,0,9,0,74 (74),0 (0),35,0,2131,General Defence Army,17 (1),850 (50),250,unlim
+Takamatsu,Base,0,Japan,"107,59",33690,3400,4,6,0,4,7,0,0,9,12,74 (74),24 (12),9,0,1255,General Defence Army,12 (1),600 (50),251,unlim
+Tokyo,Base,0,Japan,"114,60",213360,339200,10,9,,10,7,,0,9,34,106 (46),152 (53),266,0,24556,General Defence Army,30 (1),7500 (250),252,unlim
+Toyama,Base,0,Japan,"112,57",8460,500,3,1,,1,7,0,0,9,12,52 (52),23 (0),9,0,1255,General Defence Army,5 (1),250 (50),253,unlim
+Tsu,Base,0,Japan,"110,60",33630,2400,4,5,0,4,7,0,0,9,12,37 (37),86 (0),0,0,1779,General Defence Army,12 (1),600 (50),254,unlim
+Wakayama,Base,0,Japan,"109,60",4815,11500,2,1,,1,5,0,0,9,0,44 (44),0 (0),235,0,7328,General Defence Army,4 (1),200 (50),255,unlim
+Wakkanai,Base,0,Japan,"122,48",8400,20500,3,4,0,1,6,0,0,9,12,32 (32),0 (0),35,0,1992,General Defence Army,5 (1),250 (50),256,unlim
+Yokohama/Yokosuka,Base,0,Japan,"113,61",151860,82100,7,6,,5,7,0,1,,69,163 (44),233 (100),62,0,21322,General Defence Army,17 (1),850 (50),257,unlim
+Yamagata,Airfield,0,Japan,"116,57",1455,2600,0,0,,1,5,0,0,9,0,0 (0),0 (0),157,0,5144,General Defence Army,2 (1),100 (50),258,unlim
+Iwaki,Base,0,Japan,"116,59",13125,2800,3,1,,2,7,0,0,9,11,37 (37),107 (0),49,0,3600,General Defence Army,7 (1),350 (50),259,unlim
+Hirosaki/Aomori,Base,0,Japan,"118,54",25785,47300,5,3,,2,7,0,0,9,0,112 (112),0 (0),0,0,412,General Defence Army,9 (1),450 (50),260,unlim
+Aogashima,Base,0,Japan,"112,65",525,0,1,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,1 (1),20 (20),263,6K
+Chichi-jima,Base,0,Japan,"111,74",1386,0,1,1,,2,0,,0,9,11,71 (0),17 (0),46,0,4428,4th Fleet,5 (1),100 (20),264,30K
+Fukue-jima,Base,0,Japan,"101,58",8400,0,2,2,,2,4,0,0,9,0,37 (37),0 (0),0,0,0,General Defence Army,6 (1),120 (20),265,unlim
+Hachijo-jima,Base,0,Japan,"113,64",525,0,1,0,,0,1,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,1 (1),20 (20),266,30K
+Iwo-jima,Base,0,Japan,"108,77",525,0,1,1,,0,1,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,1 (1),20 (20),267,30K
+Izu Oshima,Base,0,Japan,"113,62",2100,0,1,0,,1,2,0,0,9,0,22 (22),0 (0),0,0,0,4th Fleet,3 (1),60 (20),268,60K
+Koshiki-jima Retto,Base,0,Japan,"101,60",525,0,1,0,,0,4,0,0,9,0,32 (32),0 (0),0,0,0,General Defence Army,1 (1),20 (20),269,unlim
+Kuroshima,Base,0,Japan,"100,61",525,0,1,0,,0,0,,0,9,0,28 (28),0 (0),0,0,0,Southern Army,1 (1),20 (20),270,6K
+Miyake-jima,Base,0,Japan,"112,63",525,0,1,0,,0,2,0,0,9,0,22 (22),0 (0),0,0,0,4th Fleet,1 (1),20 (20),271,60K
+Nakadori-jima,Base,0,Japan,"101,57",4725,0,2,0,,1,4,0,0,9,0,37 (37),0 (0),0,0,0,General Defence Army,4 (1),80 (20),272,unlim
+Oki Shoto,Base,0,Japan,"108,56",4725,0,2,1,,1,3,0,0,9,0,56 (56),0 (0),0,0,0,General Defence Army,4 (1),80 (20),273,60K
+Sadogashima,Base,0,Japan,"114,56",4755,0,2,1,,1,4,0,0,9,0,54 (54),0 (0),0,0,0,General Defence Army,4 (1),80 (20),274,unlim
+Tokara Retto,Base,0,Japan,"100,62",525,0,1,0,,0,2,0,0,9,0,24 (24),0 (0),0,0,0,Southern Army,1 (1),20 (20),275,30K
+Torishima,Beach,0,Japan,"111,68",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (20),276,6K
+Tsushima,Base,0,Japan,"103,56",58800,500,3,1,,1,5,0,6,,0,44 (44),0 (0),35,0,6944,General Defence Army,5 (1),100 (20),277,unlim
+Yakushima,Base,0,Japan,"101,62",525,0,1,0,,0,3,0,0,9,0,28 (28),0 (0),0,0,0,Southern Army,1 (1),20 (20),278,unlim
+Amami Oshima,Base,0,Japan,"98,64",1137,15500,3,2,,0,3,0,0,9,0,0 (0),0 (0),56,0,2336,Southern Army,3 (1),9 (3),281,unlim
+Daito Shoto,Base,0,Japan,"98,69",525,0,1,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),3 (3),282,60K
+Iriomote,Base,0,Japan,"89,65",525,0,1,0,,0,2,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),3 (3),283,unlim
+Ishigaki,Base,0,Japan,"90,66",1275,0,1,1,,0,4,0,0,9,0,0 (0),0 (0),35,0,1632,Southern Army,1 (1),3 (3),284,unlim
+Kume-jima,Base,0,Japan,"94,65",525,0,1,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),3 (3),285,60K
+Miyako-jima,Base,0,Japan,"91,66",525,0,1,1,,0,4,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),3 (3),286,unlim
+Nago,Base,0,Japan,"95,65",8400,0,1,1,,3,3,,0,9,0,0 (0),0 (0),35,0,1776,Southern Army,7 (1),630 (90),287,unlim
+Naha,Base,0,Japan,"95,66",25725,40500,3,3,,4,5,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,11 (1),990 (90),288,unlim
+Okinoerabushima,Base,0,Japan,"96,65",525,0,1,0,,0,2,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),3 (3),289,30K
+Tanegashima,Base,0,Japan,"102,62",4725,500,3,1,,0,4,0,0,9,0,32 (32),0 (0),0,0,0,Southern Army,3 (1),9 (3),290,unlim
+Tokunoshima,Base,0,Japan,"97,65",525,0,1,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),3 (3),291,60K
+Etorofu,Base,0,Japan,"128,52",4725,9500,3,1,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,5th Fleet,3 (1),9 (3),294,unlim
+Ketoi-jima,Base,0,Japan,"134,50",525,0,1,1,,0,2,0,0,9,0,0 (0),0 (0),0,0,0,5th Fleet,1 (1),3 (3),295,60K
+Kunashiri,Base,0,Japan,"125,52",525,0,1,1,,0,5,0,0,9,0,28 (28),0 (0),0,0,0,5th Fleet,1 (1),3 (3),296,unlim
+Onnekotan-jima,Base,0,Japan,"136,48",525,0,1,1,,0,4,0,0,9,0,0 (0),0 (0),0,0,0,5th Fleet,1 (1),3 (3),297,unlim
+Paramushiro-jima,Base,0,Japan,"137,47",1275,0,1,1,,0,4,0,0,9,12,0 (0),0 (0),35,0,2078,5th Fleet,1 (1),3 (3),298,unlim
+Shikuka,Base,0,Japan,"126,43",26250,32400,4,6,0,1,6,0,1,,15,0 (0),0 (0),0,0,360,5th Fleet,6 (1),270 (45),299,unlim
+Shimushiri-jima,Base,0,Japan,"132,51",525,0,1,1,,0,4,0,0,9,0,0 (0),0 (0),0,0,0,5th Fleet,1 (1),3 (3),300,unlim
+Toyohara,Base,0,Japan,"124,46",9960,500,3,1,,1,6,0,0,9,26,22 (22),0 (0),226,0,8104,5th Fleet,5 (1),225 (45),301,unlim
+Uruppu-jima,Base,0,Japan,"130,52",525,0,1,1,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,5th Fleet,1 (1),3 (3),302,unlim
+Chinnampo,Base,0,Korea,"102,47",2355,2800,3,2,,0,7,0,0,9,0,0 (0),0 (0),0,0,0,Kwantung Army,3 (1),6 (2),305,unlim
+Rashin,Base,0,Korea,"110,46",9450,4500,3,4,0,3,7,0,0,9,44,72 (0),43 (0),150,0,8545,Kwantung Army,9 (1),18 (2),306,unlim
+Fusan,Base,0,Korea,"103,55",12915,62400,4,5,0,3,7,0,0,9,24,44 (44),29 (0),35,0,7822,Kwantung Army,10 (1),20 (2),307,unlim
+Genzan,Base,0,Korea,"105,48",1050,0,1,1,,1,5,0,0,9,24,0 (0),23 (0),35,0,3528,Kwantung Army,3 (1),6 (2),308,unlim
+Gunzan,Base,0,Korea,"102,52",2355,0,2,2,,1,7,0,0,9,0,28 (28),0 (0),0,0,0,Kwantung Army,4 (1),8 (2),309,unlim
+Heijo,Airfield,0,Korea,"103,47",5910,4600,0,0,,2,7,0,1,,48,0 (0),0 (0),534,0,18936,Kwantung Army,4 (1),200 (50),310,unlim
+Kaishu,Base,0,Korea,"102,48",1050,0,2,2,,0,6,0,0,9,0,0 (0),0 (0),126,0,3636,Kwantung Army,2 (1),4 (2),311,unlim
+Keijo,Base,0,Korea,"103,50",13395,32000,4,3,,1,7,0,1,,53,24 (24),0 (0),337,0,13578,Kwantung Army,6 (1),300 (50),312,unlim
+Seishin,Base,0,Korea,"109,46",1050,0,1,1,,1,5,0,0,9,0,0 (0),0 (0),41,0,1168,Kwantung Army,3 (1),6 (2),313,unlim
+Kanko,Base,0,Korea,"105,47",9450,9500,3,6,0,3,5,0,0,9,22,0 (0),64 (0),127,0,6861,Kwantung Army,9 (1),18 (2),314,unlim
+Taiden,Airfield,0,Korea,"103,52",255,0,0,0,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Kwantung Army,2 (1),4 (2),315,unlim
+Taikyu,Airfield,0,Korea,"103,53",285,0,0,0,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Kwantung Army,2 (1),4 (2),316,unlim
+Masan,Base,0,Korea,"102,54",1050,0,1,1,,1,6,0,0,9,11,32 (32),0 (0),32,0,2724,Kwantung Army,3 (1),6 (2),317,unlim
+Moppo,Base,0,Korea,"100,54",9450,500,3,6,0,3,7,0,0,9,0,24 (24),0 (0),0,0,0,Kwantung Army,9 (1),18 (2),318,unlim
+Saishu To,Base,0,Korea,"99,55",255,0,1,0,,0,3,0,0,9,0,24 (24),0 (0),0,0,0,Kwantung Army,1 (1),2 (2),319,unlim
+Ulleungdo,Base,0,Korea,"107,52",255,0,1,0,,0,1,0,0,9,0,32 (32),0 (0),0,0,0,Kwantung Army,1 (1),2 (2),320,60K
+Hengchun,Base,0,Formosa,"84,67",47355,0,1,0,,2,3,0,0,9,11,0 (0),21 (36),8,0,1015,General Defence Army,5 (1),75 (15),324,unlim
+Karenko,Base,0,Formosa,"87,64",255,0,1,1,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,General Defence Army,1 (1),15 (15),325,unlim
+Orchid Island,Base,0,Formosa,"85,67",255,0,1,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,General Defence Army,1 (1),15 (15),326,60K
+Pescadores,Base,0,Formosa,"84,63",99246,37300,5,3,,3,4,0,3,,181,71 (0),91 (3),478,0,26377,General Defence Army,11 (1),165 (15),327,unlim
+Taichu,Base,0,Formosa,"86,64",51255,6400,4,2,,5,7,0,0,9,16,0 (0),31 (63),0,0,1836,General Defence Army,14 (1),210 (15),328,unlim
+Taihoku,Base,0,Formosa,"87,63",24510,2400,4,2,,2,7,0,0,9,12,0 (0),24 (0),44,0,3237,General Defence Army,8 (1),120 (15),329,unlim
+Takao,Base,0,Formosa,"84,65",147225,57400,4,4,,8,7,,0,9,372,490 (0),541 (360),448,0,44222,General Defence Army,20 (1),300 (15),330,unlim
+Anshan,Airfield,0,Manchukuo,"102,43",2385,2600,0,0,,1,7,0,1,,15,0 (0),0 (0),210,60,8828,Kwantung Army,2 (1),10 (5),334,unlim
+Arshaan,Airfield,0,Manchukuo,"105,33",4725,0,0,0,,3,5,0,1,,11,0 (0),0 (0),70,0,3136,Kwantung Army,6 (1),30 (5),335,unlim
+Changchun,Airfield,0,Manchukuo,"106,41",9645,900,0,0,,1,7,0,1,,132,0 (0),21 (33),889,120,41350,Kwantung Army,2 (1),10 (5),336,unlim
+Chihfeng,Airfield,0,Manchukuo,"100,38",4725,0,0,0,,3,6,0,1,,0,0 (0),0 (0),33,0,1160,Kwantung Army,6 (1),30 (5),337,unlim
+Chinchow,Beach,0,Manchukuo,"101,41",0,0,0,0,,0,7,0,1,,0,0 (0),0 (0),37,20,1584,Kwantung Army,0 (1),0 (5),338,unlim
+Fuchin,Airfield,0,Manchukuo,"115,41",525,0,0,0,,1,3,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,2 (1),10 (5),339,unlim
+Fushun,Airfield,0,Manchukuo,"105,42",1455,0,0,0,,1,6,0,1,,14,0 (0),0 (0),110,60,7916,Kwantung Army,2 (1),10 (5),340,unlim
+Fusin,Airfield,0,Manchukuo,"102,40",525,0,0,0,,1,6,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,2 (1),10 (5),341,unlim
+Hailar,Airfield,0,Manchukuo,"107,30",25800,0,0,0,,4,7,0,3,,90,0 (0),21 (90),583,0,24789,Kwantung Army,8 (1),40 (5),342,unlim
+Hailun,Airfield,0,Manchukuo,"111,37",1275,0,0,0,,1,6,0,1,,0,0 (0),0 (0),144,0,4834,Kwantung Army,2 (1),10 (5),343,unlim
+Harbin,Airfield,0,Manchukuo,"109,39",47370,3800,0,0,,6,7,0,4,,51,0 (0),84 (33),604,120,24045,Kwantung Army,12 (1),60 (5),344,unlim
+Heiho,Airfield,0,Manchukuo,"113,33",7350,0,0,0,,2,7,0,6,,11,0 (0),0 (0),131,20,5080,Kwantung Army,4 (1),20 (5),345,unlim
+Jehol,Airfield,0,Manchukuo,"97,39",4725,0,0,0,,3,6,0,1,,0,0 (0),0 (0),163,20,5436,Kwantung Army,6 (1),30 (5),346,unlim
+Kiamusze,Airfield,0,Manchukuo,"113,40",25800,0,0,0,,4,7,0,3,,164,0 (0),149 (99),509,20,25669,Kwantung Army,8 (1),40 (5),347,unlim
+Kirin,Airfield,0,Manchukuo,"108,42",6555,0,0,0,,1,7,0,1,,47,0 (0),0 (0),576,40,22906,Kwantung Army,2 (1),10 (5),348,unlim
+Liaoyuan,Airfield,0,Manchukuo,"105,40",555,0,0,0,,1,7,0,1,,0,0 (0),0 (0),33,30,2324,Kwantung Army,2 (1),10 (5),349,unlim
+Linhsi,Airfield,0,Manchukuo,"100,36",4725,0,0,0,,3,5,0,1,,0,0 (0),0 (0),32,0,1160,Kwantung Army,6 (1),30 (5),350,unlim
+Mishan,Airfield,0,Manchukuo,"114,42",8100,0,0,0,,2,6,0,1,,209,0 (0),0 (0),569,0,27466,Kwantung Army,4 (1),20 (5),351,unlim
+Moho,Beach,0,Manchukuo,"112,27",0,0,0,0,,0,6,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,0 (1),0 (5),352,unlim
+Mukden,Airfield,0,Manchukuo,"104,42",38040,4600,0,0,,6,7,0,3,,96,0 (0),43 (69),533,200,21049,Kwantung Army,12 (1),900 (75),353,unlim
+Mutankiang,Airfield,0,Manchukuo,"111,42",25800,0,0,0,,4,6,0,3,,127,0 (0),85 (127),458,20,21907,Kwantung Army,8 (1),40 (5),354,unlim
+Nunkiang,Airfield,0,Manchukuo,"111,34",525,0,0,0,,1,7,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,2 (1),10 (5),355,unlim
+Port Arthur,Base,0,Manchukuo,"99,44",177570,134500,9,9,,4,7,0,3,,36,80 (0),47 (0),131,120,10283,Kwantung Army,17 (1),85 (5),356,unlim
+Shanhaiguan,Base,0,Manchukuo,"99,42",2100,0,1,1,,1,6,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,3 (1),15 (5),357,unlim
+Sunwu,Airfield,0,Manchukuo,"113,34",16530,0,0,0,,3,7,0,6,,93,0 (0),0 (0),570,0,23733,Kwantung Army,6 (1),30 (5),358,unlim
+Taonan,Airfield,0,Manchukuo,"107,38",1275,0,0,0,,1,7,0,1,,11,0 (0),21 (0),184,20,6559,Kwantung Army,2 (1),10 (5),359,unlim
+Tsitsihar,Airfield,0,Manchukuo,"109,36",15555,0,0,0,,1,7,0,1,,59,0 (0),21 (27),619,40,23958,Kwantung Army,2 (1),10 (5),360,unlim
+Yingkow,Base,0,Manchukuo,"101,43",4755,0,2,2,,1,7,0,1,,0,0 (0),0 (0),32,20,1160,Kwantung Army,4 (1),20 (5),361,unlim
+Amoy,Base,0,China,"83,61",32145,80500,3,5,,4,7,,4,,75,62 (0),40 (3),274,60,13413,China Expeditionary Army,11 (1),33 (3),365,unlim
+Anking,Base,0,China,"88,52",4725,0,2,1,,1,6,,3,,50,0 (0),40 (0),395,40,17330,China Expeditionary Army,4 (1),12 (3),366,unlim
+Antung,Base,0,China,"102,45",2355,0,2,1,,1,7,,1,,0,0 (0),0 (0),56,50,1584,China Expeditionary Army,4 (1),12 (3),367,unlim
+Anyang,Beach,0,China,"89,43",1200,0,0,0,,0,6,,1,,13,0 (0),0 (0),245,40,8720,China Expeditionary Army,0 (1),0 (3),368,unlim
+Canton,Base,0,China,"77,59",21315,158200,5,6,,4,7,,1,,110,99 (0),55 (93),668,360,29892,China Expeditionary Army,13 (1),39 (3),369,unlim
+Chaochow,Base,0,China,"81,61",2355,0,2,2,,1,6,,1,,0,0 (0),0 (0),38,20,1156,China Expeditionary Army,4 (1),12 (3),370,unlim
+Chefoo,Base,0,China,"98,46",2355,0,2,2,,1,6,,1,,11,36 (0),0 (0),65,60,2845,China Expeditionary Army,4 (1),12 (3),371,unlim
+Chengting,Airfield,0,China,"92,40",4725,0,0,0,,3,7,,3,,32,0 (0),0 (0),516,120,18792,China Expeditionary Army,6 (1),18 (3),372,unlim
+Foochow,Base,1,China,"86,60",0,0,3,5,,3,6,,,,,,,,120,,,9 (1),27 (3),373,unlim
+Haichow,Base,0,China,"93,48",6555,0,2,1,,3,6,,1,,3,0 (0),0 (0),39,20,1336,China Expeditionary Army,8 (1),24 (3),374,unlim
+Hangchow,Base,0,China,"90,55",10500,9500,3,5,,1,7,,4,,40,0 (0),0 (0),342,160,13346,China Expeditionary Army,5 (1),15 (3),375,unlim
+Hankow,Base,0,China,"85,50",65655,2400,4,2,,6,7,,4,,224,60 (0),39 (55),752,220,37938,China Expeditionary Army,16 (1),48 (3),376,unlim
+Hwainan,Airfield,0,China,"89,50",555,0,0,0,,1,7,,1,,3,0 (0),0 (0),81,60,2456,China Expeditionary Army,2 (1),6 (3),377,unlim
+Ichang,Airfield,0,China,"83,48",3525,0,0,0,,1,7,,3,,52,0 (0),0 (0),531,20,16782,China Expeditionary Army,2 (1),6 (3),378,unlim
+Kaifeng,Airfield,0,China,"89,44",4725,0,0,0,,3,7,,3,,49,0 (0),24 (0),507,100,16956,China Expeditionary Army,6 (1),18 (3),379,unlim
+Kalgan,Airfield,0,China,"95,37",2355,0,0,0,,3,5,,1,,14,0 (0),7 (10),190,60,8356,China Expeditionary Army,6 (1),18 (3),380,unlim
+Kaoping,Beach,0,China,"89,42",1000,0,0,0,,0,5,,1,,11,0 (0),0 (0),179,0,6264,China Expeditionary Army,0 (1),0 (3),381,unlim
+Kiangtu,Base,0,China,"91,51",5700,500,3,0,,1,6,,1,,0,0 (0),0 (0),63,40,1832,China Expeditionary Army,5 (1),15 (3),382,unlim
+Kiukiang,Base,0,China,"85,53",4725,0,2,0,,1,4,,3,,46,0 (0),0 (0),444,20,15478,China Expeditionary Army,4 (1),12 (3),383,unlim
+Kweisui,Airfield,0,China,"92,35",2145,0,0,0,,1,5,,4,,0,0 (0),0 (0),64,40,1848,China Expeditionary Army,2 (1),6 (3),384,unlim
+Luchow,Airfield,0,China,"88,51",1275,0,0,0,,1,7,,3,,0,0 (0),0 (0),123,40,3852,China Expeditionary Army,2 (1),6 (3),385,unlim
+Mangan,Airfield,0,China,"95,33",705,0,0,0,,1,7,0,1,,0,0 (0),0 (0),22,0,700,China Expeditionary Army,2 (1),6 (3),386,unlim
+Nanchang,Airfield,0,China,"85,54",13395,0,0,0,,3,7,,4,,32,0 (0),41 (24),372,100,15150,China Expeditionary Army,6 (1),18 (3),387,unlim
+Nanking,Base,0,China,"91,52",32175,3400,4,2,,3,7,,4,,56,0 (0),0 (0),749,280,29885,China Expeditionary Army,10 (1),30 (3),388,unlim
+Tungchow,Base,0,China,"92,53",2355,0,2,3,,1,6,,1,,0,0 (0),0 (0),78,60,2458,China Expeditionary Army,4 (1),12 (3),389,unlim
+Ningpo,Base,0,China,"92,56",1050,0,1,1,,1,6,,1,,4,110 (110),0 (0),52,40,1336,China Expeditionary Army,3 (1),9 (3),390,unlim
+Paoting,Airfield,0,China,"94,40",3255,0,0,0,,1,7,,1,,42,0 (0),0 (0),402,80,14650,China Expeditionary Army,2 (1),6 (3),391,unlim
+Peiping,Airfield,0,China,"95,39",16260,900,0,0,,4,7,,1,,12,0 (0),0 (0),435,380,16894,China Expeditionary Army,8 (1),800 (100),392,unlim
+Shanghai,Base,0,China,"92,55",79575,230200,7,7,,4,7,,4,,96,284 (0),49 (9),782,720,33692,China Expeditionary Army,15 (1),1500 (100),393,unlim
+Shaohing,Base,0,China,"91,56",2355,0,2,2,,1,7,,1,,6,0 (0),0 (0),112,40,3556,China Expeditionary Army,4 (1),12 (3),394,unlim
+Sinyang,Airfield,0,China,"86,48",2145,0,0,0,,1,7,,4,,41,0 (0),7 (0),257,0,9793,China Expeditionary Army,2 (1),6 (3),395,unlim
+Soochow,Airfield,0,China,"92,54",3255,2000,0,0,,1,7,,1,,46,0 (0),0 (0),399,120,14754,China Expeditionary Army,2 (1),6 (3),396,unlim
+Suchow,Airfield,0,China,"91,47",2505,0,0,0,,1,7,,1,,44,0 (0),0 (0),390,100,14034,China Expeditionary Army,2 (1),6 (3),397,unlim
+Swatow,Base,0,China,"81,62",23625,40500,3,5,,3,6,,4,,13,0 (0),0 (0),202,80,7600,China Expeditionary Army,9 (1),27 (3),398,unlim
+Taichow,Airfield,0,China,"92,52",1005,0,0,0,,1,6,,1,,3,0 (0),0 (0),79,40,2592,China Expeditionary Army,2 (1),6 (3),399,unlim
+Tangshan,Base,0,China,"96,41",2355,0,2,1,,1,6,,1,,40,0 (0),0 (0),361,60,14103,China Expeditionary Army,4 (1),12 (3),400,unlim
+Tatung,Airfield,0,China,"93,37",2025,0,0,0,,1,5,,3,,53,0 (0),0 (0),426,20,13292,China Expeditionary Army,2 (1),6 (3),401,unlim
+Tientsin,Base,0,China,"95,41",23685,55200,5,5,,1,7,,4,,42,0 (0),0 (0),408,320,15574,China Expeditionary Army,7 (1),21 (3),402,unlim
+Tsinan,Airfield,0,China,"93,44",2145,0,0,0,,1,7,,4,,10,0 (0),0 (0),173,160,8604,China Expeditionary Army,2 (1),6 (3),403,unlim
+Tsinkiang,Base,0,China,"84,61",2355,0,2,2,,1,7,,1,,0,0 (0),0 (0),32,30,1078,China Expeditionary Army,4 (1),12 (3),404,unlim
+Tsingtao,Base,0,China,"95,47",42030,47400,4,5,,4,7,,4,,41,64 (0),41 (3),244,200,11762,China Expeditionary Army,12 (1),36 (3),405,unlim
+Weihsien,Airfield,0,China,"95,46",705,0,0,0,,1,7,,1,,0,0 (0),0 (0),44,40,1120,China Expeditionary Army,2 (1),6 (3),406,unlim
+Wuchang,Base,0,China,"84,51",10530,0,1,0,,3,7,,4,,135,0 (0),0 (0),1244,200,47722,China Expeditionary Army,7 (1),21 (3),407,unlim
+Wuhu,Base,0,China,"89,53",600,0,0,0,,0,7,,1,,3,0 (0),0 (0),54,50,1680,China Expeditionary Army,0 (1),0 (3),408,unlim
+Wusih,Base,0,China,"91,53",1050,0,1,0,,1,7,,1,,0,0 (0),0 (0),70,60,2122,China Expeditionary Army,3 (1),9 (3),409,unlim
+Taiyuan,Airfield,0,China,"91,40",3255,0,0,0,,1,2,,1,,21,0 (0),21 (0),344,60,14443,China Expeditionary Army,2 (1),6 (3),410,unlim
+Kiungshan,Base,0,Indochina,"71,61",32355,0,1,1,,2,7,0,1,,8,0 (0),14 (0),0,0,384,Southern Army,5 (1),15 (3),413,unlim
+Samah,Base,0,Indochina,"69,63",84098,35100,3,3,,4,7,0,1,,245,351 (0),70 (22),297,0,23931,Southern Army,11 (1),33 (3),414,unlim
+Battambang,Airfield,0,Indochina,"58,65",5355,0,0,0,,3,7,0,0,9,106,0 (0),0 (0),687,0,24412,Southern Army,6 (1),6 (1),417,unlim
+Bien Hoa,Airfield,0,Indochina,"61,70",6555,0,0,0,,5,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,10 (1),10 (1),418,unlim
+Cam Ranh Bay,Base,0,Indochina,"64,72",87903,157300,5,6,0,4,5,0,1,,97,342 (0),66 (9),333,0,17731,Southern Army,13 (1),13 (1),419,unlim
+Dalat,Airfield,0,Indochina,"63,71",1050,0,0,0,,2,5,0,0,9,15,0 (0),28 (0),8,0,1207,Southern Army,4 (1),4 (1),420,unlim
+Tourane,Base,0,Indochina,"66,65",4725,0,2,1,,1,7,0,1,,4,0 (0),7 (12),0,0,192,Southern Army,4 (1),4 (1),421,unlim
+Haiphong,Base,0,Indochina,"68,57",57855,92400,4,6,0,3,7,0,0,9,12,0 (0),0 (0),27,20,1251,Southern Army,10 (1),10 (1),422,unlim
+Hanoi,Airfield,0,Indochina,"68,56",4050,0,0,0,,1,7,0,3,,14,0 (0),7 (0),107,20,4723,Southern Army,2 (1),2 (1),423,unlim
+Hue,Base,0,Indochina,"66,64",255,0,0,1,0,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,2 (1),2 (1),424,unlim
+Kompong Chhnang,Airfield,0,Indochina,"59,68",11700,0,0,0,,4,7,0,0,9,60,0 (0),137 (53),32,0,6246,Southern Army,8 (1),8 (1),425,unlim
+Kompong Trach,Base,0,Indochina,"57,70",18450,10000,2,2,,4,7,0,0,9,77,0 (0),215 (122),56,0,8845,Southern Army,10 (1),10 (1),426,unlim
+Kratie,Airfield,0,Indochina,"61,69",2355,0,0,0,,3,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,6 (1),6 (1),427,unlim
+Lang Son,Airfield,0,Indochina,"70,56",1800,0,0,0,,1,7,0,3,,15,0 (0),0 (0),112,0,3936,Southern Army,2 (1),2 (1),428,unlim
+Lao Cai,Beach,0,Indochina,"68,53",0,0,0,0,,0,4,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,0 (1),0 (1),429,unlim
+Luangprabang,Airfield,0,Indochina,"63,55",255,0,0,0,,1,2,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,2 (1),2 (1),430,unlim
+Pakse,Airfield,0,Indochina,"63,64",255,0,0,0,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,2 (1),2 (1),431,unlim
+Phnom Penh,Airfield,0,Indochina,"58,69",19230,0,0,0,,4,7,0,0,9,39,0 (0),67 (79),8,10,3369,Southern Army,8 (1),8 (1),432,unlim
+Quinhon,Base,0,Indochina,"65,69",4725,0,2,1,,1,7,0,1,,0,56 (56),0 (0),0,0,0,Southern Army,4 (1),4 (1),433,unlim
+Rachgia,Base,0,Indochina,"57,71",2355,0,2,1,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,4 (1),4 (1),434,unlim
+Saigon,Base,0,Indochina,"60,71",52560,98200,5,6,0,5,7,0,1,,101,123 (45),179 (163),98,60,18166,Southern Army,15 (1),375 (25),435,unlim
+Siem Reap,Airfield,0,Indochina,"59,65",5505,0,0,0,,1,7,0,0,9,11,0 (0),21 (39),8,0,1015,Southern Army,2 (1),2 (1),436,unlim
+Soc Trang,Base,0,Indochina,"58,73",34200,0,2,1,,2,7,0,0,9,24,0 (0),46 (33),0,0,2204,Southern Army,6 (1),6 (1),437,unlim
+Vientiane,Beach,0,Indochina,"62,57",0,0,0,0,,0,5,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,0 (1),0 (1),438,unlim
+Vinh,Base,0,Indochina,"65,59",4725,0,2,1,,1,7,0,1,,0,0 (0),0 (0),0,0,0,Southern Army,4 (1),4 (1),439,unlim
+Ayuthia,Airfield,0,Thailand,"56,61",255,0,0,0,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,2 (1),2 (1),442,unlim
+Bangkok,Base,0,Thailand,"56,62",16890,38900,4,4,,4,7,0,0,9,4,0 (0),36 (0),182,50,10356,Southern Army,12 (1),12 (1),443,unlim
+Chanthaburi,Base,0,Thailand,"56,65",1050,0,1,1,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,3 (1),3 (1),444,unlim
+Chiang Mai,Airfield,0,Thailand,"58,53",2550,0,0,0,,1,4,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,2 (1),2 (1),445,unlim
+Nakhon Ratchasima,Airfield,0,Thailand,"58,61",1005,0,0,0,,1,7,0,0,9,4,0 (0),0 (0),137,20,5556,Southern Army,2 (1),2 (1),446,unlim
+Patani,Base,0,Thailand,"51,73",4200,0,1,1,,3,7,0,0,9,0,0 (0),0 (3),123,0,3852,Southern Army,7 (1),7 (1),447,unlim
+Pisanuloke,Airfield,0,Thailand,"58,57",1005,0,0,0,,1,6,0,0,9,4,0 (0),0 (0),137,10,5556,Southern Army,2 (1),2 (1),448,unlim
+Rahaeng,Airfield,0,Thailand,"58,56",1050,0,0,0,,2,6,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,4 (1),4 (1),449,unlim
+Singora,Base,0,Thailand,"51,72",5700,0,2,2,,2,6,0,0,9,52,0 (0),0 (89),224,0,6567,Southern Army,6 (1),6 (1),450,unlim
+Surat Thani,Base,0,Thailand,"51,68",1050,0,1,1,,1,6,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,3 (1),3 (1),451,unlim
+Ubon,Airfield,0,Thailand,"62,63",1005,0,0,0,,1,7,0,0,9,3,0 (0),0 (0),137,10,5424,Southern Army,2 (1),2 (1),452,unlim
+Udon Thani,Airfield,0,Thailand,"61,59",1005,0,0,0,,1,7,0,0,9,3,0 (0),0 (0),137,10,5424,Southern Army,2 (1),2 (1),453,unlim
+Uttaradit,Beach,0,Thailand,"59,56",0,0,0,0,,0,6,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,0 (1),0 (1),454,unlim
+Agrihan,Base,0,Marianas,"111,88",0,0,0,0,,0,2,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),457,60K
+Almagan,Base,0,Marianas,"110,90",0,0,0,0,,0,1,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),458,30K
+Anatahan,Base,0,Marianas,"109,91",0,0,0,0,,0,2,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),459,60K
+Pagan,Base,0,Marianas,"110,89",2355,0,1,1,,2,2,,0,9,12,0 (0),23 (0),0,0,1102,4th Fleet,5 (1),5 (1),460,60K
+Rota,Base,0,Marianas,"107,95",255,0,1,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,1 (1),1 (1),461,60K
+Saipan,Base,0,Marianas,"108,93",62250,9500,3,1,,3,4,0,4,,36,118 (0),94 (8),39,0,7158,4th Fleet,9 (1),225 (25),462,unlim
+Tinian,Base,0,Marianas,"108,94",8400,0,1,1,,3,4,0,1,,12,0 (0),23 (0),0,0,1102,4th Fleet,7 (1),175 (25),463,unlim
+Babeldaob,Base,0,Caroline Islands,"90,97",86563,30250,3,2,,3,4,0,1,,235,118 (0),62 (24),489,0,26300,Southern Army,9 (1),9 (1),466,unlim
+Kusaie Island,Base,0,Caroline Islands,"125,118",0,500,0,1,0,0,3,0,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,0 (1),0 (1),467,unlim
+Peleliu,Base,0,Caroline Islands,"90,98",1755,0,0,0,,1,2,0,0,9,4,0 (0),7 (9),9,0,641,Southern Army,2 (1),2 (1),468,30K
+Ponape,Base,0,Caroline Islands,"119,113",4725,700,1,1,,2,3,0,1,,0,0 (0),0 (0),9,0,1088,Southeast Area Fleet,5 (1),5 (1),469,unlim
+Satawal,Beach,0,Caroline Islands,"105,105",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,0 (1),0 (1),470,6K
+Truk,Base,0,Caroline Islands,"112,108",199525,217200,6,4,,5,2,,3,,86,428 (0),46 (11),105,0,16564,Southeast Area Fleet,16 (1),80 (5),471,60K
+Ulithi,Base,0,Caroline Islands,"98,97",2355,700,3,3,,0,0,,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,3 (1),3 (1),472,6K
+Woleai,Base,0,Caroline Islands,"101,103",2355,1000,1,1,,2,0,,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,5 (1),5 (1),473,6K
+Yap,Base,0,Caroline Islands,"96,97",2355,1000,1,1,,2,3,0,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,5 (1),5 (1),474,60K
+Ailinglaplap,Base,0,Marshall Islands,"133,117",0,0,0,0,,0,2,0,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),477,30K
+Ailuk,Beach,0,Marshall Islands,"136,114",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),478,6K
+Bikini,Beach,0,Marshall Islands,"131,110",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),479,6K
+Ebon,Beach,0,Marshall Islands,"132,122",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),480,6K
+Eniwetok,Base,0,Marshall Islands,"127,108",4200,1200,3,2,,1,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,5 (1),5 (1),481,6K
+Jaluit,Base,0,Marshall Islands,"134,120",3167,2500,3,1,,0,0,,2,,17,0 (0),23 (8),128,0,4979,4th Fleet,3 (1),3 (1),482,6K
+Kwajalein Island,Base,0,Marshall Islands,"132,115",26600,21500,3,2,,1,0,,4,,0,224 (0),70 (14),0,0,4990,4th Fleet,5 (1),5 (1),483,6K
+Likiep,Beach,0,Marshall Islands,"135,114",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),484,6K
+Majuro,Base,0,Marshall Islands,"136,119",255,500,1,1,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,1 (1),1 (1),485,6K
+Maloelap,Base,0,Marshall Islands,"136,117",19680,600,1,1,,4,1,,2,,17,0 (0),23 (26),18,0,2256,4th Fleet,9 (1),9 (1),486,6K
+Mili,Base,0,Marshall Islands,"136,121",2025,500,0,1,0,1,2,0,1,,8,0 (0),0 (0),9,0,1398,4th Fleet,2 (1),2 (1),487,30K
+Namorik,Beach,0,Marshall Islands,"132,120",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),488,6K
+Namu,Beach,0,Marshall Islands,"133,116",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),489,6K
+Roi-Namur,Base,0,Marshall Islands,"132,114",18900,0,2,0,,4,1,,1,,28,229 (112),31 (46),34,0,4414,4th Fleet,10 (1),10 (1),490,6K
+Rongelap,Beach,0,Marshall Islands,"132,111",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),491,6K
+Taongi,Beach,0,Marshall Islands,"136,107",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),492,6K
+Wotje,Base,0,Marshall Islands,"135,115",8400,200,1,1,,3,0,,1,,5,0 (0),0 (0),9,0,971,4th Fleet,7 (1),7 (1),493,6K
+Marcus Island,Base,0,Marshall Islands,"123,85",1050,500,1,0,,1,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,3 (1),9 (3),496,6K
+Astoria,Base,1,United States,"211,55",0,0,2,2,,3,7,,,,,,,,0,,,160 (20),8 (1),500,unlim
+Boise,Airfield,1,United States,"218,55",0,0,0,0,,4,7,,,,,,,,0,,,800 (100),8 (1),501,unlim
+Butte,Airfield,1,United States,"220,48",0,0,0,0,,1,3,,,,,,,,20,,,40 (20),2 (1),502,unlim
+Eureka,Base,1,United States,"214,65",0,0,2,1,,1,5,,,,,,,,0,,,80 (20),4 (1),503,unlim
+Fresno,Airfield,1,United States,"221,71",0,0,0,0,,2,7,,,,,,,,20,,,80 (20),4 (1),504,unlim
+Great Falls,Airfield,1,United States,"219,44",0,0,0,0,,1,7,,,,,,,,0,,,40 (20),2 (1),505,unlim
+Los Angeles,Base,1,United States,"225,76",0,0,8,9,,10,7,,,,,,,,360,,,2800 (100),28 (1),506,unlim
+March Field,Airfield,1,United States,"225,75",0,0,0,0,,4,3,,,,,,,,0,,,160 (20),8 (1),507,unlim
+Mare Island,Base,1,United States,"218,69",0,0,5,5,,2,7,,,,,,,,0,,,180 (20),9 (1),508,unlim
+Mojave,Airfield,1,United States,"225,74",0,0,0,0,,1,7,,,,,,,,0,,,40 (20),2 (1),509,unlim
+Oak Harbor,Base,1,United States,"210,51",0,0,2,2,,0,7,,,,,,,,0,,,40 (20),2 (1),510,unlim
+Pendleton,Airfield,1,United States,"215,53",0,0,0,0,,2,7,,,,,,,,0,,,80 (20),4 (1),511,unlim
+Port Hueneme,Base,1,United States,"224,76",0,0,1,4,,0,7,,,,,,,,0,,,20 (20),1 (1),512,unlim
+Portland,Base,1,United States,"213,56",0,0,5,4,,7,7,,,,,,,,100,,,1900 (100),19 (1),513,unlim
+Sacramento,Airfield,1,United States,"219,68",0,0,0,0,,5,7,,,,,,,,40,,,1000 (100),10 (1),514,unlim
+Fort Ord,Airfield,1,United States,"220,72",0,0,0,0,,2,5,,,,,,,,0,,,80 (20),4 (1),515,unlim
+Ogden,Airfield,1,United States,"225,57",0,0,0,0,,8,6,,,,,,,,0,,,320 (20),16 (1),516,unlim
+San Clemente Island,Base,1,United States,"225,78",0,0,1,0,,0,4,,,,,,,,0,,,20 (20),1 (1),517,unlim
+San Diego,Base,1,United States,"227,78",0,0,7,6,,7,7,,,,,,,,80,,,2100 (100),21 (1),518,unlim
+San Francisco,Base,1,United States,"218,70",0,0,9,9,,10,7,,,,,,,,180,,,2900 (100),29 (1),519,unlim
+Santa Ana,Base,1,United States,"226,76",0,0,1,1,,2,7,,,,,,,,20,,,100 (20),5 (1),520,unlim
+Santa Barbara,Base,1,United States,"223,76",0,0,1,0,,1,7,,,,,,,,20,,,60 (20),3 (1),521,unlim
+Santa Catalina Is,Base,1,United States,"224,77",0,0,1,0,,0,4,,,,,,,,0,,,20 (20),1 (1),522,unlim
+Channel Islands,Base,1,United States,"222,77",0,0,1,0,,0,4,,,,,,,,0,,,20 (20),1 (1),523,unlim
+Seattle,Base,1,United States,"212,52",0,0,6,8,,7,5,,,,,,,,120,,,2000 (100),20 (1),524,unlim
+Spokane,Airfield,1,United States,"215,48",0,0,0,0,,4,7,,,,,,,,40,,,800 (100),8 (1),525,unlim
+Stockton,Base,1,United States,"219,69",0,0,3,2,,2,7,,,,,,,,20,,,700 (100),7 (1),526,unlim
+Tacoma,Base,1,United States,"211,53",0,0,5,6,,2,7,,,,,,,,40,,,180 (20),9 (1),527,unlim
+Tillamook,Base,1,United States,"211,57",0,0,1,0,,1,7,,,,,,,,0,,,60 (20),3 (1),528,unlim
+Wendover Field,Airfield,1,United States,"225,60",0,0,0,0,,4,7,,,,,,,,0,,,160 (20),8 (1),529,unlim
+Adak Island,Base,1,Alaska,"162,52",0,0,1,5,,0,4,,,,,,,,0,,,5 (5),1 (1),532,unlim
+Agattu Island,Base,1,Alaska,"154,50",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),533,unlim
+Akutan Island,Base,1,Alaska,"171,49",0,0,1,1,,0,1,,,,,,,,0,,,5 (5),1 (1),534,unlim
+Amchitka Island,Base,1,Alaska,"158,52",0,0,1,1,,0,4,,,,,,,,0,,,5 (5),1 (1),535,unlim
+Anchorage,Base,1,Alaska,"181,36",0,0,2,1,,6,7,,,,,,,,0,,,350 (25),140 (10),536,unlim
+Annette Island,Base,1,Alaska,"198,42",0,0,1,1,,2,4,,,,,,,,0,,,25 (5),5 (1),537,unlim
+Atka Island,Base,1,Alaska,"164,52",0,0,1,2,,0,0,,,,,,,,0,,,5 (5),1 (1),538,unlim
+Attu Island,Base,1,Alaska,"153,49",0,0,1,1,,0,1,,,,,,,,0,,,5 (5),1 (1),539,unlim
+Bethel,Base,1,Alaska,"173,38",0,0,1,0,,0,5,,,,,,,,0,,,5 (5),1 (1),540,unlim
+Buldir Island,Base,1,Alaska,"156,50",0,0,0,0,,0,4,,,,,,,,0,,,0 (5),0 (1),541,unlim
+Chirikof Island,Base,1,Alaska,"179,46",0,0,0,0,,0,4,,,,,,,,0,,,0 (5),0 (1),542,unlim
+Chuginadak Island,Base,1,Alaska,"168,52",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),543,unlim
+Cold Bay,Base,1,Alaska,"174,48",0,0,1,1,,1,2,,,,,,,,0,,,15 (5),3 (1),544,unlim
+Cordova,Base,1,Alaska,"184,36",0,0,1,1,,0,1,,,,,,,,0,,,5 (5),1 (1),545,unlim
+Dutch Harbor,Base,1,Alaska,"171,50",0,0,3,3,,0,0,,,,,,,,0,,,15 (5),3 (1),546,unlim
+Fairbanks,Airfield,1,Alaska,"179,29",0,0,0,0,,4,7,,,,,,,,0,,,80 (10),8 (1),547,unlim
+Great Sitkin Island,Base,1,Alaska,"163,52",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),548,unlim
+Gulkana,Beach,1,Alaska,"182,33",0,0,0,0,,0,7,,,,,,,,0,,,0 (5),0 (1),549,unlim
+Juneau,Base,1,Alaska,"193,37",0,0,3,3,,1,0,,,,,,,,0,,,500 (100),5 (1),550,unlim
+Kiska Island,Base,1,Alaska,"157,51",0,0,0,1,,0,2,,,,,,,,0,,,0 (5),0 (1),551,unlim
+Kodiak,Base,1,Alaska,"181,42",0,0,3,3,,3,3,,,,,,,,0,,,45 (5),9 (1),552,unlim
+Nagai Island,Base,1,Alaska,"176,48",0,0,0,0,,0,4,,,,,,,,0,,,0 (5),0 (1),553,unlim
+Nome,Base,1,Alaska,"169,32",0,0,3,2,,2,4,,,,,,,,0,,,35 (5),7 (1),554,unlim
+Port Heiden,Base,1,Alaska,"176,45",0,0,0,1,,0,2,,,,,,,,0,,,0 (5),0 (1),555,unlim
+Galena,Airfield,1,Alaska,"175,30",0,0,0,0,,1,5,,,,,,,,0,,,10 (5),2 (1),556,unlim
+Sagigik Island,Base,1,Alaska,"165,52",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),557,unlim
+Sanak Island,Base,1,Alaska,"173,49",0,0,0,0,,0,1,,,,,,,,0,,,0 (5),0 (1),558,unlim
+Seguam Island,Base,1,Alaska,"166,52",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),559,unlim
+Semisopochnoi Island,Base,1,Alaska,"159,52",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),560,unlim
+Seward,Base,1,Alaska,"182,38",0,0,3,3,,0,2,,,,,,,,0,,,30 (10),3 (1),561,unlim
+Sitka,Base,1,Alaska,"193,39",0,0,3,3,,0,0,,,,,,,,0,,,15 (5),3 (1),562,unlim
+Sitkinak Island,Base,1,Alaska,"180,45",0,0,0,0,,0,4,,,,,,,,0,,,0 (5),0 (1),563,unlim
+Skagway,Base,1,Alaska,"191,35",0,0,2,2,,1,0,,,,,,,,0,,,100 (25),4 (1),564,unlim
+Tugidak Island,Base,1,Alaska,"179,45",0,0,0,0,,0,4,,,,,,,,0,,,0 (5),0 (1),565,unlim
+Ulak Island,Base,1,Alaska,"160,53",0,0,1,0,,0,2,,,,,,,,0,,,5 (5),1 (1),566,30K
+Umnak Island,Base,1,Alaska,"169,51",0,0,1,0,,0,5,,,,,,,,0,,,5 (5),1 (1),567,unlim
+Valdez,Base,1,Alaska,"183,35",0,0,2,1,,0,3,,,,,,,,0,,,20 (10),2 (1),568,unlim
+Whittier,Base,1,Alaska,"182,36",0,0,1,3,,0,1,,,,,,,,0,,,10 (10),1 (1),569,unlim
+Yakutat,Base,1,Alaska,"189,36",0,0,1,2,,2,1,,,,,,,,0,,,25 (5),5 (1),570,unlim
+Yunaska Island,Base,1,Alaska,"167,52",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (1),571,unlim
+French Frigate Shoal,Beach,1,Hawaii,"170,101",0,0,0,0,,0,0,,,,,,,,0,,,0 (3),0 (1),574,6K
+Hilo,Base,1,Hawaii,"183,111",0,0,2,2,,1,5,,,,,,,,0,,,40 (10),4 (1),575,unlim
+Kona,Base,1,Hawaii,"182,111",0,0,2,1,,1,5,,,,,,,,0,,,40 (10),4 (1),576,unlim
+Lahaina,Base,1,Hawaii,"182,108",0,0,4,2,,3,7,,,,,,,,0,,,100 (10),10 (1),577,unlim
+Lanai,Base,1,Hawaii,"181,109",0,0,0,0,,0,2,,,,,,,,0,,,0 (10),0 (1),578,unlim
+Laysan Island,Beach,1,Hawaii,"164,96",0,0,0,0,,0,0,,,,,,,,0,,,0 (3),0 (1),579,6K
+Lihue,Base,1,Hawaii,"178,106",0,0,2,1,,1,3,,,,,,,,0,,,40 (10),4 (1),580,unlim
+Midway Island,Base,1,Hawaii,"158,91",0,0,1,1,,4,1,,,,,,,,0,,,27 (3),9 (1),581,6K
+Molokai,Base,1,Hawaii,"181,108",0,0,1,1,,0,3,,,,,,,,0,,,10 (10),1 (1),582,unlim
+Niihau,Base,1,Hawaii,"177,106",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),583,unlim
+Pearl Harbor,Base,1,Hawaii,"180,107",0,0,7,5,,10,7,,,,,,,,80,,,2970 (110),540 (20),584,unlim
+Jarvis Island,Beach,1,Hawaii,"170,144",0,0,0,0,,0,0,,,,,,,,0,,,0 (25),0 (1),587,6K
+Palmyra,Base,1,Hawaii,"170,133",0,0,1,2,,2,0,,,,,,,,0,,,250 (50),5 (1),588,6K
+Funafuti,Base,1,Tuvalu,"138,147",0,0,1,1,,0,0,,,,,,,,0,,,3 (3),1 (1),591,6K
+Nanumea,Beach,1,Tuvalu,"136,141",0,0,0,0,,0,0,,,,,,,,0,,,0 (3),0 (1),592,6K
+Nukufetau,Base,1,Tuvalu,"138,146",0,0,0,1,,0,0,,,,,,,,0,,,0 (3),0 (1),593,6K
+Vaitupu,Base,1,Tuvalu,"138,145",0,0,1,0,,0,0,,,,,,,,0,,,3 (3),1 (1),594,6K
+Canton Island,Base,1,Japan,"153,143",0,0,2,2,,2,0,,,,,,,,0,,,30 (5),6 (1),597,6K
+Enderbury Island,Beach,1,Japan,"154,143",0,0,0,0,,0,0,,,,,,,,0,,,0 (5),0 (1),598,6K
+Gardner Island,Beach,1,Japan,"149,144",0,0,0,0,,0,0,,,,,,,,0,,,0 (5),0 (1),599,6K
+Sydney Island,Beach,1,Japan,"153,145",0,0,0,0,,0,0,,,,,,,,0,,,0 (5),0 (1),600,6K
+Pago Pago,Base,1,Japan,"148,161",0,0,2,2,,1,4,,,,,,,,0,,,100 (25),4 (1),603,unlim
+Ta'u,Base,1,Japan,"150,161",0,0,1,1,,0,2,,,,,,,,0,,,5 (5),1 (1),604,60K
+Baker Island,Base,1,Japan,"149,136",0,0,0,0,,1,0,,,,,,,,0,,,2 (1),2 (1),607,6K
+Guam,Base,1,Marianas,"106,95",0,0,2,2,,1,5,,,,,,,,0,,,12 (3),100 (25),608,unlim
+Howland Island,Beach,1,Japan,"148,135",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),609,6K
+Johnston Island,Base,1,Japan,"164,112",0,0,1,0,,2,0,,,,,,,,0,,,250 (50),5 (1),610,6K
+Wake Island,Base,1,Japan,"136,98",0,0,1,0,,3,0,,,,,,,,0,,,21 (3),7 (1),611,6K
+Kure Island,Beach,1,Japan,"157,90",0,0,0,0,,0,0,,,,,,,,0,,,0 (3),0 (1),612,6K
+Cristobal,Base,1,Off-map,"228,101",0,0,4,4,,4,7,,,,,,,,0,,,12 (1),12 (1),614,unlim
+Eastern USA,Base,1,Off-map,"227,27",0,0,10,10,,10,7,,,,,,,,0,,,30 (1),30 (1),615,unlim
+Balboa,Base,1,Off-map,"229,102",0,0,3,1,,4,7,,,,,,,,0,,,11 (1),11 (1),616,unlim
+Aparri,Base,1,Philippines,"82,73",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),620,unlim
+Bataan,Base,1,Philippines,"78,77",0,0,2,1,,1,6,,,,,,,,0,,,8 (2),8 (2),621,unlim
+Batangas,Base,1,Philippines,"79,78",0,0,3,2,,1,7,,,,,,,,0,,,10 (2),10 (2),622,unlim
+Bayombong,Beach,1,Philippines,"80,75",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),623,unlim
+Clark Field,Base,1,Philippines,"79,76",0,0,2,0,,5,8,,,,,,,,0,,,24 (2),300 (25),624,unlim
+Iba,Base,1,Philippines,"78,75",0,0,2,0,,2,5,,,,,,,,0,,,12 (2),12 (2),625,unlim
+Mauban,Base,1,Philippines,"80,78",0,0,1,1,,0,7,,,,,,,,0,,,2 (2),2 (2),626,unlim
+Laoag,Base,1,Philippines,"81,72",0,0,1,1,,2,7,,,,,,,,0,,,10 (2),10 (2),627,unlim
+Legaspi,Base,1,Philippines,"82,82",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),628,unlim
+Lingayen,Base,1,Philippines,"79,75",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),629,unlim
+Lucena,Base,1,Philippines,"79,79",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),630,unlim
+Manila,Base,1,Philippines,"79,77",0,0,5,6,,3,7,,,,,,,,140,,,550 (50),1100 (100),631,unlim
+Naga,Base,1,Philippines,"81,81",0,0,2,3,,1,7,,,,,,,,0,,,8 (2),8 (2),632,unlim
+San Fernando,Base,1,Philippines,"80,74",0,0,1,1,,3,6,,,,,,,,0,,,14 (2),14 (2),633,unlim
+Tuguegarao,Airfield,1,Philippines,"82,74",0,0,0,0,,2,7,,,,,,,,0,,,8 (2),8 (2),634,unlim
+Vigan,Base,1,Philippines,"80,73",0,0,1,1,,2,6,,,,,,,,0,,,10 (2),10 (2),635,unlim
+Butuan,Base,1,Philippines,"80,89",0,0,3,1,,1,6,,,,,,,,0,,,10 (2),10 (2),638,unlim
+Cagayan,Base,1,Philippines,"79,89",0,0,2,2,,4,6,,,,,,,,20,,,20 (2),20 (2),639,unlim
+Cotabato,Base,1,Philippines,"78,90",0,0,1,1,,2,7,,,,,,,,20,,,10 (2),10 (2),640,unlim
+Dadjangas,Base,1,Philippines,"78,93",0,0,2,2,,0,5,,,,,,,,0,,,4 (2),4 (2),641,unlim
+Davao,Base,1,Philippines,"79,91",0,0,3,3,,2,5,,,,,,,,20,,,14 (2),14 (2),642,unlim
+Dumanquilas,Base,1,Philippines,"77,89",0,0,2,3,,0,5,,,,,,,,0,,,4 (2),4 (2),643,unlim
+Babuyan,Base,1,Philippines,"84,71",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),646,30K
+Bacolod,Base,1,Philippines,"79,85",0,0,2,1,,0,4,,,,,,,,20,,,4 (2),4 (2),647,unlim
+Balabac,Base,1,Philippines,"70,84",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),648,unlim
+Basilan,Base,1,Philippines,"75,90",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),649,unlim
+Batan Island,Base,1,Philippines,"85,70",0,0,1,1,,2,2,,,,,,,,0,,,10 (2),10 (2),650,30K
+Boac,Base,1,Philippines,"80,80",0,0,1,2,,0,6,,,,,,,,0,,,2 (2),2 (2),651,unlim
+Burias,Base,1,Philippines,"80,81",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),652,unlim
+Busuanga,Base,1,Philippines,"77,80",0,0,3,2,,0,5,,,,,,,,0,,,6 (2),6 (2),653,unlim
+Calapan,Base,1,Philippines,"78,79",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),654,unlim
+Calayan,Base,1,Philippines,"83,71",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),655,unlim
+Camiguin,Base,1,Philippines,"84,72",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),656,unlim
+Catanduanes,Base,1,Philippines,"82,81",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),657,unlim
+Catbalogan,Base,1,Philippines,"82,84",0,0,2,0,,0,6,,,,,,,,0,,,4 (2),4 (2),658,unlim
+Cebu,Base,1,Philippines,"80,86",0,0,2,1,,1,6,,,,,,,,40,,,8 (2),8 (2),659,unlim
+Culion,Base,1,Philippines,"76,80",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),660,unlim
+Dinagat,Base,1,Philippines,"81,87",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),661,unlim
+Dumaguete,Base,1,Philippines,"78,86",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (2),662,unlim
+Guiuan,Base,1,Philippines,"82,85",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),663,unlim
+Iloilo,Base,1,Philippines,"79,84",0,0,2,1,,2,7,,,,,,,,20,,,12 (2),12 (2),664,unlim
+Itbayat Island,Base,1,Philippines,"84,69",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),2 (2),665,60K
+Jolo,Base,1,Philippines,"74,90",0,0,2,1,,3,5,,,,,,,,0,,,16 (2),16 (2),666,unlim
+Lubang,Base,1,Philippines,"78,78",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),667,unlim
+Masbate,Base,1,Philippines,"80,83",0,0,1,0,,0,6,,,,,,,,0,,,2 (2),2 (2),668,unlim
+Baybay,Base,1,Philippines,"81,86",0,0,2,1,,0,6,,,,,,,,20,,,4 (2),4 (2),669,unlim
+Oroquieta,Base,1,Philippines,"78,88",0,0,1,0,,1,4,,,,,,,,0,,,6 (2),6 (2),670,unlim
+Polillo,Base,1,Philippines,"81,78",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),671,unlim
+Puerto Princesa,Base,1,Philippines,"73,83",0,0,2,2,,0,4,,,,,,,,0,,,4 (2),4 (2),672,unlim
+Roxas,Base,1,Philippines,"79,83",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),673,unlim
+San Jose,Base,1,Philippines,"78,84",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),674,unlim
+Siargao,Base,1,Philippines,"82,88",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),675,unlim
+Sibuyan,Base,1,Philippines,"80,82",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),676,unlim
+Siquijor,Base,1,Philippines,"78,87",0,0,2,1,,1,4,,,,,,,,0,,,8 (2),8 (2),677,unlim
+Tablas,Base,1,Philippines,"79,81",0,0,2,2,,0,5,,,,,,,,0,,,4 (2),4 (2),678,unlim
+Tacloban,Base,1,Philippines,"81,85",0,0,1,2,,0,6,,,,,,,,0,,,2 (2),2 (2),679,unlim
+Tagbilaran,Base,1,Philippines,"79,87",0,0,1,0,,0,6,,,,,,,,0,,,2 (2),2 (2),680,unlim
+Tapul,Base,1,Philippines,"73,90",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),681,60K
+Tawi Tawi,Base,1,Philippines,"72,90",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),682,unlim
+Taytay,Base,1,Philippines,"75,82",0,0,1,2,,1,5,,,,,,,,0,,,6 (2),6 (2),683,unlim
+Zamboanga,Base,1,Philippines,"75,89",0,0,2,2,,1,4,,,,,,,,40,,,8 (2),8 (2),684,unlim
+Colombo,Base,1,Ceylon,"29,48",0,0,9,6,,4,7,,,,,,,,80,,,425 (25),34 (2),688,unlim
+Kandy,Airfield,1,Ceylon,"30,48",0,0,0,0,,1,7,,,,,,,,0,,,4 (2),4 (2),689,unlim
+Jaffna,Base,1,Ceylon,"31,45",0,0,3,2,,1,7,,,,,,,,0,,,10 (2),10 (2),690,unlim
+Koggala,Base,1,Ceylon,"29,50",0,0,1,0,,1,7,,,,,,,,0,,,6 (2),6 (2),691,unlim
+Trincomalee,Base,1,Ceylon,"31,47",0,0,6,6,,3,7,,,,,,,,0,,,300 (25),24 (2),692,unlim
+Akyab,Base,1,Burma,"54,45",0,0,0,1,,3,6,,,,,,,,0,,,12 (2),12 (2),695,unlim
+Bassein,Airfield,1,Burma,"54,52",0,0,0,0,,1,6,,,,,,,,0,,,4 (2),4 (2),696,unlim
+Bhamo,Beach,1,Burma,"63,44",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),697,unlim
+Katha,Beach,1,Burma,"61,43",0,0,0,0,,0,6,,,,,,,,0,,,0 (2),0 (2),698,unlim
+Lashio,Airfield,1,Burma,"62,46",0,0,0,0,,2,4,,,,,,,,0,,,8 (2),8 (2),699,unlim
+Magwe,Airfield,1,Burma,"57,47",0,0,0,0,,3,7,,,,,,,,0,,,12 (2),12 (2),700,unlim
+Mandalay,Airfield,1,Burma,"59,46",0,0,0,0,,2,7,,,,,,,,20,,,8 (2),40 (10),701,unlim
+Meiktila,Airfield,1,Burma,"58,47",0,0,0,0,,1,7,,,,,,,,0,,,4 (2),4 (2),702,unlim
+Moulmein,Base,1,Burma,"55,55",0,0,1,1,,4,7,,,,,,,,20,,,18 (2),18 (2),703,unlim
+Myitkyina,Airfield,1,Burma,"64,42",0,0,0,0,,2,4,,,,,,,,0,,,8 (2),8 (2),704,unlim
+Prome,Airfield,1,Burma,"55,50",0,0,0,0,,1,7,,,,,,,,0,,,4 (2),4 (2),705,unlim
+Rangoon,Base,1,Burma,"54,53",0,0,4,6,,4,7,,,,,,,,120,,,240 (20),1200 (100),706,unlim
+Taung Gyi,Airfield,1,Burma,"59,48",0,0,0,0,,1,5,,,,,,,,0,,,4 (2),4 (2),707,unlim
+Tavoy,Base,1,Burma,"54,60",0,0,2,1,,4,5,,,,,,,,0,,,20 (2),20 (2),708,unlim
+Toungoo,Airfield,1,Burma,"57,50",0,0,0,0,,1,7,,,,,,,,0,,,4 (2),4 (2),709,unlim
+Victoria Point,Base,1,Burma,"51,66",0,0,1,1,,4,6,,,,,,,,0,,,18 (2),18 (2),710,unlim
+Warazup,Beach,1,Burma,"63,41",0,0,0,0,,0,6,,,,,,,,0,,,0 (2),0 (2),711,unlim
+Alor Star,Base,1,Malaya,"49,73",0,0,1,1,,4,6,,,,,,,,0,,,18 (2),18 (2),714,unlim
+Georgetown,Base,1,Malaya,"49,74",0,0,4,3,,4,7,,,,,,,,20,,,24 (2),24 (2),715,unlim
+Johore Bahru,Base,1,Malaya,"50,83",0,0,2,2,,4,7,,,,,,,,0,,,20 (2),20 (2),716,unlim
+Kota Bharu,Base,1,Malaya,"51,75",0,0,1,1,,4,6,,,,,,,,0,,,18 (2),18 (2),717,unlim
+Kuala Lumpur,Airfield,1,Malaya,"49,79",0,0,0,0,,2,7,,,,,,,,20,,,8 (2),8 (2),718,unlim
+Kuantan,Base,1,Malaya,"51,79",0,0,1,1,,4,6,,,,,,,,0,,,18 (2),18 (2),719,unlim
+Malacca,Base,1,Malaya,"49,81",0,0,2,2,,1,7,,,,,,,,0,,,8 (2),8 (2),720,unlim
+Mersing,Base,1,Malaya,"51,82",0,0,1,1,,0,7,,,,,,,,0,,,2 (2),2 (2),721,unlim
+Singapore,Base,1,Malaya,"50,84",0,0,9,8,,6,7,,,,,,,,60,,,420 (20),1890 (90),722,unlim
+Taiping,Base,1,Malaya,"49,75",0,0,0,0,,3,7,,,,,,,,0,,,12 (2),12 (2),723,unlim
+Banggi,Base,1,Malaya,"69,85",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),726,unlim
+Brunei,Base,1,Malaya,"65,87",0,0,3,3,,0,5,,,,,,,,0,,,6 (2),6 (2),727,unlim
+Jesselton,Base,1,Malaya,"68,86",0,0,2,2,,1,6,,,,,,,,0,,,8 (2),8 (2),728,unlim
+Kuching,Base,1,Malaya,"58,88",0,0,2,1,,2,5,,,,,,,,0,,,12 (2),12 (2),729,unlim
+Kudat,Base,1,Malaya,"69,86",0,0,1,1,,0,6,,,,,,,,0,,,2 (2),2 (2),730,unlim
+Miri,Base,1,Malaya,"64,87",0,0,2,0,,2,5,,,,,,,,0,,,12 (2),12 (2),731,unlim
+Sandakan,Base,1,Malaya,"70,88",0,0,1,1,,0,2,,,,,,,,0,,,2 (2),2 (2),732,unlim
+Tawau,Base,1,Malaya,"69,90",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),733,unlim
+Addu,Base,1,Japan,"16,52",0,0,1,2,,1,0,,,,,,,,0,,,6 (2),3 (1),736,6K
+North Male,Base,1,Japan,"20,45",0,0,0,0,,1,0,,,,,,,,0,,,4 (2),2 (1),737,6K
+Auki,Base,1,Solomon Islands,"115,136",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),740,unlim
+Choiseul Bay,Base,1,Solomon Islands,"111,132",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),741,unlim
+Kirakira,Base,1,Solomon Islands,"116,140",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),742,unlim
+Lunga,Base,1,Solomon Islands,"114,138",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),743,unlim
+Munda,Base,1,Solomon Islands,"111,134",0,0,0,2,,0,3,,,,,,,,0,,,0 (2),0 (2),744,unlim
+Panggoe,Base,1,Solomon Islands,"111,133",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),745,unlim
+Rekata Bay,Base,1,Solomon Islands,"113,134",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),746,unlim
+Rennell Island,Base,1,Solomon Islands,"113,140",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),747,unlim
+Russell Islands,Base,1,Solomon Islands,"113,136",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (2),748,unlim
+Shortlands,Base,1,Solomon Islands,"110,132",0,0,1,3,,0,3,,,,,,,,0,,,2 (2),2 (2),749,60K
+Stewart Island,Beach,1,Solomon Islands,"116,139",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (2),750,6K
+Tassafaronga,Base,1,Solomon Islands,"113,137",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),751,unlim
+Thousand Ships Bay,Base,1,Solomon Islands,"114,136",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),752,unlim
+Tulagi,Base,1,Solomon Islands,"114,137",0,0,1,3,,0,2,,,,,,,,0,,,2 (2),2 (2),753,unlim
+Vella Lavella,Base,1,Solomon Islands,"110,133",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),754,unlim
+Gau Island,Base,1,Fiji,"133,161",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),1 (1),757,unlim
+Kabara,Base,1,Fiji,"136,162",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),758,60K
+Kandavu Island,Base,1,Fiji,"132,162",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),1 (1),759,unlim
+Koro Island,Base,1,Fiji,"134,160",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),760,60K
+Lakeba,Base,1,Fiji,"135,161",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),761,60K
+Moala,Base,1,Fiji,"134,162",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),762,60K
+Nadi,Base,1,Fiji,"131,160",0,0,1,1,,1,7,,,,,,,,0,,,75 (25),3 (1),763,unlim
+Savusavu,Base,1,Fiji,"134,159",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (1),764,unlim
+Suva,Base,1,Fiji,"132,160",0,0,3,2,,2,7,,,,,,,,0,,,525 (75),7 (1),765,unlim
+Taveuni Island,Base,1,Fiji,"135,159",0,0,1,0,,0,2,,,,,,,,0,,,2 (2),1 (1),766,unlim
+Vanua Balavu,Base,1,Fiji,"136,160",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),767,60K
+Yasawa Islands,Base,1,Fiji,"131,158",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),768,60K
+Abemama,Base,1,Gilbert Islands,"136,130",0,0,0,1,,0,2,,,,,,,,0,,,0 (2),0 (2),771,30K
+Arorae,Base,1,Gilbert Islands,"138,137",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),772,30K
+Beru,Base,1,Gilbert Islands,"138,134",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),773,30K
+Kuria,Base,1,Gilbert Islands,"135,131",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),774,30K
+Maiana,Base,1,Gilbert Islands,"135,129",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),775,30K
+Makin,Base,1,Gilbert Islands,"136,125",0,0,0,1,,0,2,,,,,,,,0,,,0 (2),0 (2),776,30K
+Nikunau,Base,1,Gilbert Islands,"139,134",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),777,30K
+Nonouti,Base,1,Gilbert Islands,"136,133",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),778,30K
+Onotoa,Base,1,Gilbert Islands,"137,135",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),779,30K
+Tabiteuea,Base,1,Gilbert Islands,"137,134",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),780,60K
+Tarawa,Base,1,Gilbert Islands,"136,128",0,0,1,1,,0,2,,,,,,,,0,,,25 (25),2 (2),781,30K
+Caroline Island,Beach,1,Japan,"178,164",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (1),784,6K
+Christmas Island,Base,1,Japan,"174,141",0,0,2,1,,1,5,,,,,,,,0,,,40 (10),4 (1),785,unlim
+Fanning Island,Base,1,Japan,"172,137",0,0,0,0,,0,3,,,,,,,,0,,,0 (10),0 (1),786,60K
+Flint Island,Beach,1,Japan,"175,166",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (1),787,6K
+Malden Island,Base,1,Japan,"175,152",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),788,60K
+Starbuck Island,Base,1,Japan,"173,154",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),789,30K
+Washington Island,Beach,1,Japan,"171,135",0,0,0,0,,0,0,,,,,,,,0,,,0 (10),0 (1),790,6K
+Ndeni,Base,1,Santa Cruz Islands,"120,143",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (1),793,unlim
+Reef Islands,Base,1,Santa Cruz Islands,"121,142",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),794,30K
+Utupua,Base,1,Santa Cruz Islands,"121,144",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),795,60K
+Vanikoro,Base,1,Santa Cruz Islands,"121,145",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (1),796,unlim
+Eua,Base,1,Japan,"138,169",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),1 (1),799,60K
+Late Island,Base,1,Japan,"140,165",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),800,30K
+Lifuka,Base,1,Japan,"140,167",0,0,0,1,,0,2,,,,,,,,0,,,0 (2),0 (1),801,30K
+Niuafo'ou,Base,1,Japan,"141,160",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),802,60K
+Niuatoputapu,Base,1,Japan,"143,161",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),803,30K
+Tofua,Base,1,Japan,"139,167",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),804,60K
+Tongatapu,Base,1,Japan,"138,168",0,0,1,2,,0,4,,,,,,,,0,,,10 (10),1 (1),805,unlim
+Vava'u,Base,1,Japan,"141,165",0,0,1,3,,0,4,,,,,,,,0,,,2 (2),1 (1),806,unlim
+Diego Garcia,Base,1,Japan,"11,62",0,0,1,2,,0,3,,,,,,,,0,,,2 (2),10 (10),809,60K
+Hong Kong,Base,1,Japan,"77,61",0,0,8,8,,4,7,,,,,,,,0,,,160 (10),640 (40),810,unlim
+Nauru Island,Base,1,Japan,"127,128",0,0,2,0,,0,2,,,,,,,,0,,,4 (2),2 (1),811,30K
+Ocean Island,Base,1,Japan,"130,130",0,0,2,0,,0,0,,,,,,,,0,,,4 (2),2 (1),812,6K
+Aden,Base,1,Off-map,"20,3",0,0,7,7,,3,6,,,,,,,,0,,,13 (1),13 (1),815,unlim
+Cape Town,Base,1,Off-map,"2,67",0,0,7,6,,6,7,,,,,,,,0,,,19 (1),19 (1),816,unlim
+Mombasa,Base,1,Off-map,"2,57",0,0,3,2,,4,6,,,,,,,,0,,,11 (1),11 (1),817,unlim
+Port Stanley,Base,1,Off-map,"229,190",0,0,3,2,,0,5,,,,,,,,0,,,3 (1),3 (1),818,unlim
+United Kingdom,Base,1,Off-map,"228,3",0,0,10,10,,10,7,,,,,,,,0,,,30 (1),30 (1),819,unlim
+Agra,Airfield,1,India,"50,19",0,0,0,0,,1,7,,,,,,,,30,,,10 (5),2 (1),822,unlim
+Ajmer,Airfield,1,India,"48,16",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),823,unlim
+Ahmedabad,Airfield,1,India,"41,18",0,0,0,0,,1,7,,,,,,,,60,,,10 (5),2 (1),824,unlim
+Aligarh,Airfield,1,India,"51,19",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),825,unlim
+Allahabad,Airfield,1,India,"51,26",0,0,0,0,,1,7,,,,,,,,30,,,10 (5),2 (1),826,unlim
+Ambala,Airfield,1,India,"54,15",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),827,unlim
+Amritsar,Airfield,1,India,"55,11",0,0,0,0,,2,7,,,,,,,,30,,,20 (5),4 (1),828,unlim
+Asansol,Airfield,1,India,"53,34",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),829,unlim
+Bangalore,Airfield,1,India,"32,37",0,0,0,0,,1,5,,,,,,,,30,,,10 (5),2 (1),830,unlim
+Bareilly,Airfield,1,India,"53,19",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),831,unlim
+Benares,Airfield,1,India,"51,27",0,0,0,0,,1,7,,,,,,,,30,,,10 (5),2 (1),832,unlim
+Jessore,Airfield,1,India,"53,37",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),833,unlim
+Bhaunagar,Base,1,India,"39,19",0,0,2,2,,1,7,,,,,,,,0,,,20 (5),4 (1),834,unlim
+Bhopal,Airfield,1,India,"45,24",0,0,0,0,,1,5,,,,,,,,0,,,10 (5),2 (1),835,unlim
+Bikaner,Airfield,1,India,"49,13",0,0,0,0,,1,3,,,,,,,,0,,,10 (5),2 (1),836,unlim
+Bombay,Base,1,India,"36,24",0,0,6,6,,4,7,,,,,,,,240,,,350 (25),14 (1),837,unlim
+Calcutta,Base,1,India,"52,37",0,0,5,3,,4,7,,,,,,,,360,,,650 (50),13 (1),838,unlim
+Calicut,Base,1,India,"29,38",0,0,3,2,,2,7,,,,,,,,0,,,35 (5),7 (1),839,unlim
+Cawnpore,Airfield,1,India,"51,23",0,0,0,0,,1,7,,,,,,,,60,,,10 (5),2 (1),840,unlim
+Chittagong,Base,1,India,"55,41",0,0,4,5,,1,7,,,,,,,,30,,,30 (5),6 (1),841,unlim
+Cocanada,Base,1,India,"41,37",0,0,1,2,,0,7,,,,,,,,0,,,5 (5),1 (1),842,unlim
+Cochin,Base,1,India,"28,40",0,0,4,6,,1,6,,,,,,,,0,,,30 (5),6 (1),843,unlim
+Cox's Bazar,Base,1,India,"54,43",0,0,1,0,,0,6,,,,,,,,0,,,2 (2),1 (1),844,unlim
+Coimbatore,Airfield,1,India,"29,39",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),845,unlim
+Cuttack,Airfield,1,India,"48,37",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),846,unlim
+Dacca,Airfield,1,India,"56,38",0,0,0,0,,4,6,,,,,,,,30,,,200 (25),8 (1),847,unlim
+Delhi,Airfield,1,India,"52,17",0,0,0,0,,4,7,,,,,,,,120,,,400 (50),8 (1),848,unlim
+Diamond Harbour,Base,1,India,"52,38",0,0,1,2,,1,6,,,,,,,,0,,,15 (5),3 (1),849,unlim
+Dimapur,Airfield,1,India,"62,38",0,0,0,0,,2,7,,,,,,,,0,,,20 (5),4 (1),850,unlim
+Ranchi,Airfield,1,India,"51,32",0,0,0,0,,2,7,,,,,,,,0,,,20 (5),4 (1),851,unlim
+Goa,Base,1,India,"32,29",0,0,4,4,,1,6,,,,,,,,0,,,30 (5),6 (1),852,unlim
+Gorakhpur,Airfield,1,India,"54,26",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),853,unlim
+Gwalior,Airfield,1,India,"49,21",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),854,unlim
+Howrah,Airfield,1,India,"52,36",0,0,0,0,,2,7,,,,,,,,30,,,20 (5),4 (1),855,unlim
+Hyderabad,Airfield,1,India,"39,32",0,0,0,0,,3,7,,,,,,,,90,,,30 (5),6 (1),856,unlim
+Hyderabad (Sindh),Airfield,1,India,"42,10",0,0,0,0,,4,7,,,,,,,,0,,,40 (5),8 (1),857,unlim
+Imphal,Airfield,1,India,"60,40",0,0,0,0,,3,5,,,,,,,,0,,,30 (5),6 (1),858,unlim
+Indore,Airfield,1,India,"43,22",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),859,unlim
+Jaipur,Airfield,1,India,"48,17",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),860,unlim
+Jamshedpur,Airfield,1,India,"51,34",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),861,unlim
+Jodphur,Airfield,1,India,"45,14",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),862,unlim
+Jorhat,Airfield,1,India,"63,38",0,0,0,0,,2,6,,,,,,,,0,,,20 (5),4 (1),863,unlim
+Jubbulpore,Airfield,1,India,"46,27",0,0,0,0,,1,5,,,,,,,,0,,,10 (5),2 (1),864,unlim
+Karachi,Base,1,India,"40,8",0,0,5,6,,3,7,,,,,,,,60,,,275 (25),11 (1),865,unlim
+Kohima,Airfield,1,India,"61,39",0,0,0,0,,1,5,,,,,,,,0,,,10 (5),2 (1),866,unlim
+Lahore,Airfield,1,India,"55,10",0,0,0,0,,1,7,,,,,,,,90,,,10 (5),2 (1),867,unlim
+Ledo,Airfield,1,India,"65,38",0,0,0,0,,3,6,,,,,,,,0,,,30 (5),6 (1),868,unlim
+Lucknow,Airfield,1,India,"52,23",0,0,0,0,,3,7,,,,,,,,30,,,30 (5),6 (1),869,unlim
+Ludhiana,Beach,1,India,"55,12",0,0,0,0,,0,7,,,,,,,,0,,,0 (5),0 (1),870,unlim
+Madras,Base,1,India,"35,40",0,0,5,6,,4,7,,,,,,,,90,,,325 (25),13 (1),871,unlim
+Madurai,Airfield,1,India,"30,42",0,0,0,0,,1,7,,,,,,,,30,,,10 (5),2 (1),872,unlim
+Mangalore,Base,1,India,"30,34",0,0,3,2,,1,7,,,,,,,,0,,,25 (5),5 (1),873,unlim
+Meerut,Airfield,1,India,"53,18",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),874,unlim
+Moradabad,Airfield,1,India,"54,18",0,0,0,0,,1,7,,,,,,,,30,,,10 (5),2 (1),875,unlim
+Multan,Airfield,1,India,"50,9",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),876,unlim
+Mysore,Airfield,1,India,"31,37",0,0,0,0,,2,5,,,,,,,,0,,,20 (5),4 (1),877,unlim
+Nagpur,Airfield,1,India,"44,28",0,0,0,0,,1,7,,,,,,,,30,,,10 (5),2 (1),878,unlim
+Patna,Airfield,1,India,"54,30",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),879,unlim
+Poona,Airfield,1,India,"36,26",0,0,0,0,,1,6,,,,,,,,30,,,10 (5),2 (1),880,unlim
+Raipur,Airfield,1,India,"45,31",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),881,unlim
+Rangpur,Beach,1,India,"58,34",0,0,0,0,,0,6,,,,,,,,0,,,0 (5),0 (1),882,unlim
+Rawalpindi,Airfield,1,India,"58,6",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),883,unlim
+Salem,Airfield,1,India,"32,39",0,0,0,0,,1,4,,,,,,,,0,,,10 (5),2 (1),884,unlim
+Sholapur,Beach,1,India,"36,29",0,0,0,0,,0,7,,,,,,,,30,,,0 (5),0 (1),885,unlim
+Sialkot,Airfield,1,India,"56,9",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),886,unlim
+Srinagar,Airfield,1,India,"60,8",0,0,0,0,,1,2,,,,,,,,30,,,10 (5),2 (1),887,unlim
+Surat,Base,1,India,"39,20",0,0,3,2,,2,6,,,,,,,,0,,,35 (5),7 (1),888,unlim
+Tanjore,Airfield,1,India,"32,42",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),889,unlim
+Trichinopoly,Airfield,1,India,"31,41",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),890,unlim
+Trivandrum,Base,1,India,"27,43",0,0,1,1,,1,6,,,,,,,,0,,,15 (5),3 (1),891,unlim
+Vizagapatnam,Base,1,India,"42,37",0,0,1,2,,1,7,,,,,,,,0,,,15 (5),3 (1),892,unlim
+Katmandu,Beach,1,India,"57,28",0,0,0,0,,0,2,,,,,,,,0,,,0 (5),0 (1),895,unlim
+Little Andaman,Base,1,India,"44,59",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),898,unlim
+Great Nicobar,Base,1,India,"43,66",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),899,unlim
+Port Blair,Base,1,India,"46,58",0,0,2,1,,1,5,,,,,,,,0,,,8 (2),4 (1),900,unlim
+Trinkat,Base,1,India,"44,64",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (1),901,unlim
+Adelaide,Base,1,Australia,"75,163",0,0,5,4,,4,7,,,,,,,,120,,,650 (50),13 (1),905,unlim
+Albany,Base,1,Australia,"51,153",0,0,3,5,,1,7,,,,,,,,0,,,50 (10),5 (1),906,unlim
+Alice Springs,Airfield,1,Australia,"74,143",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),2 (1),907,unlim
+Bathurst,Airfield,1,Australia,"88,166",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),908,unlim
+Bathurst Island,Base,1,Australia,"76,123",0,0,0,1,,0,5,,,,,,,,0,,,0 (10),0 (1),909,unlim
+Birdsville,Beach,1,Australia,"81,148",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),910,unlim
+Bowen,Base,1,Australia,"94,146",0,0,1,2,,0,7,,,,,,,,0,,,10 (10),1 (1),911,unlim
+Bourke,Beach,1,Australia,"86,160",0,0,0,0,,0,7,,,,,,,,0,,,0 (10),0 (1),912,unlim
+Brisbane,Base,1,Australia,"96,160",0,0,5,4,,4,7,,,,,,,,120,,,650 (50),13 (1),913,unlim
+Broken Hill,Airfield,1,Australia,"80,160",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),914,unlim
+Broome,Base,1,Australia,"62,127",0,0,1,2,,3,6,,,,,,,,0,,,70 (10),7 (1),915,unlim
+Bundaberg,Base,1,Australia,"96,155",0,0,2,3,,1,7,,,,,,,,0,,,40 (10),4 (1),916,unlim
+Cairns,Base,1,Australia,"92,140",0,0,2,2,,2,5,,,,,,,,0,,,60 (10),6 (1),917,unlim
+Canberra,Airfield,1,Australia,"87,169",0,0,0,0,,2,6,,,,,,,,0,,,400 (100),120 (30),918,unlim
+Carnarvon,Base,1,Australia,"49,133",0,0,1,0,,0,6,,,,,,,,0,,,10 (10),1 (1),919,unlim
+Ceduna,Base,1,Australia,"71,156",0,0,1,1,,0,6,,,,,,,,0,,,10 (10),1 (1),920,unlim
+Charleville,Airfield,1,Australia,"88,154",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),921,unlim
+Charters Towers,Airfield,1,Australia,"91,145",0,0,0,0,,4,7,,,,,,,,0,,,80 (10),8 (1),922,unlim
+Cloncurry,Airfield,1,Australia,"84,142",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),923,unlim
+Coen,Beach,1,Australia,"90,134",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),924,unlim
+Cooktown,Base,1,Australia,"92,137",0,0,1,2,,1,6,,,,,,,,0,,,30 (10),3 (1),925,unlim
+Corunna Downs,Beach,1,Australia,"57,131",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),926,unlim
+Daly Waters,Airfield,1,Australia,"76,131",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),927,unlim
+Darwin,Base,1,Australia,"76,124",0,0,3,3,,3,7,,,,,,,,0,,,90 (10),9 (1),928,unlim
+Derby,Base,1,Australia,"64,127",0,0,1,2,,1,6,,,,,,,,0,,,30 (10),3 (1),929,unlim
+Emerald,Beach,1,Australia,"91,151",0,0,0,0,,0,7,,,,,,,,0,,,0 (10),0 (1),930,unlim
+Exmouth,Base,1,Australia,"50,129",0,0,0,1,,0,5,,,,,,,,0,,,0 (10),0 (1),931,unlim
+Fenton,Beach,1,Australia,"76,126",0,0,0,0,,0,7,,,,,,,,0,,,0 (10),0 (1),932,unlim
+Geelong,Base,1,Australia,"81,170",0,0,1,1,,3,7,,,,,,,,20,,,70 (10),7 (1),933,unlim
+Geraldton,Base,1,Australia,"49,141",0,0,1,1,,2,7,,,,,,,,0,,,50 (10),5 (1),934,unlim
+Gove,Base,1,Australia,"82,127",0,0,0,2,,0,5,,,,,,,,0,,,0 (10),0 (1),935,unlim
+Groote Eylandt,Base,1,Australia,"82,130",0,0,0,1,,0,5,,,,,,,,0,,,0 (10),0 (1),936,unlim
+Hughenden,Beach,1,Australia,"88,145",0,0,0,0,,0,7,,,,,,,,0,,,0 (10),0 (1),937,unlim
+Kalgoorlie,Airfield,1,Australia,"56,147",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),938,unlim
+Katherine,Airfield,1,Australia,"76,128",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),939,unlim
+Kingscote,Base,1,Australia,"73,163",0,0,1,1,,1,7,,,,,,,,0,,,30 (10),3 (1),940,unlim
+Meekatharra,Beach,1,Australia,"54,139",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),941,unlim
+Melbourne,Base,1,Australia,"82,170",0,0,7,7,,8,7,,,,,,,,280,,,2300 (100),23 (1),942,unlim
+Mildura,Airfield,1,Australia,"80,164",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),943,unlim
+Newcastle,Base,1,Australia,"92,166",0,0,4,2,,3,7,,,,,,,,40,,,100 (10),10 (1),944,unlim
+Normanton,Base,1,Australia,"86,138",0,0,1,1,,0,4,,,,,,,,0,,,10 (10),1 (1),945,unlim
+Oodnadatta,Beach,1,Australia,"74,149",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),946,unlim
+Perth,Base,1,Australia,"49,147",0,0,5,4,,4,7,,,,,,,,80,,,650 (50),13 (1),947,unlim
+Port Augusta,Base,1,Australia,"75,159",0,0,2,3,,1,7,,,,,,,,0,,,40 (10),4 (1),948,unlim
+Port Hedland,Base,1,Australia,"57,129",0,0,2,3,,0,6,,,,,,,,0,,,20 (10),2 (1),949,unlim
+Port Kembla,Base,1,Australia,"90,168",0,0,3,3,,3,7,,,,,,,,20,,,90 (10),9 (1),950,unlim
+Portland,Base,1,Australia,"77,169",0,0,1,2,,1,7,,,,,,,,0,,,30 (10),3 (1),951,unlim
+Portland Roads,Base,1,Australia,"91,132",0,0,0,1,,0,6,,,,,,,,0,,,0 (10),0 (1),952,unlim
+Rockhampton,Base,1,Australia,"95,152",0,0,3,4,,3,7,,,,,,,,0,,,225 (25),9 (1),953,unlim
+Sale,Base,1,Australia,"84,172",0,0,2,2,,2,7,,,,,,,,0,,,60 (10),6 (1),954,unlim
+Sydney,Base,1,Australia,"90,167",0,0,8,9,,8,7,,,,,,,,320,,,2400 (100),24 (1),955,unlim
+Tamworth,Airfield,1,Australia,"91,163",0,0,0,0,,2,6,,,,,,,,0,,,40 (10),4 (1),956,unlim
+Tennant Creek,Airfield,1,Australia,"76,137",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),957,unlim
+Tocumwal,Beach,1,Australia,"83,167",0,0,0,0,,0,7,,,,,,,,0,,,0 (10),0 (1),958,unlim
+Toowoomba,Airfield,1,Australia,"94,159",0,0,0,0,,2,5,,,,,,,,0,,,40 (10),4 (1),959,unlim
+Townsville,Base,1,Australia,"92,144",0,0,3,4,,3,7,,,,,,,,0,,,90 (10),9 (1),960,unlim
+Wagga Wagga,Airfield,1,Australia,"85,167",0,0,0,0,,2,7,,,,,,,,0,,,40 (10),4 (1),961,unlim
+Whyalla,Base,1,Australia,"74,159",0,0,2,1,,1,7,,,,,,,,0,,,40 (10),4 (1),962,unlim
+Winton,Beach,1,Australia,"86,147",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),963,unlim
+Wyndham,Base,1,Australia,"70,127",0,0,1,2,,1,3,,,,,,,,0,,,30 (10),3 (1),964,unlim
+Burnie,Base,1,Australia,"81,176",0,0,3,3,,1,7,,,,,,,,0,,,50 (10),5 (1),967,unlim
+Hobart,Base,1,Australia,"81,179",0,0,4,3,,3,7,,,,,,,,20,,,100 (10),10 (1),968,unlim
+Launceston,Base,1,Australia,"82,176",0,0,2,3,,1,7,,,,,,,,20,,,40 (10),4 (1),969,unlim
+Queenstown,Base,1,Australia,"80,177",0,0,2,1,,0,4,,,,,,,,0,,,20 (10),2 (1),970,unlim
+Aitape,Base,1,Papua,"95,118",0,0,1,2,,0,5,,,,,,,,0,,,2 (2),2 (2),973,unlim
+Buna,Base,1,Papua,"99,129",0,0,1,1,,0,6,,,,,,,,0,,,2 (2),2 (2),974,unlim
+Dagua,Base,1,Papua,"95,119",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),975,unlim
+Finschhafen,Base,1,Papua,"100,126",0,0,1,2,,1,3,,,,,,,,0,,,6 (2),6 (2),976,unlim
+Hansa Bay,Base,1,Papua,"97,121",0,0,0,1,,0,6,,,,,,,,0,,,0 (2),0 (2),977,unlim
+Lae,Base,1,Papua,"99,126",0,0,2,0,,1,4,,,,,,,,0,,,8 (2),8 (2),978,unlim
+Madang,Base,1,Papua,"97,123",0,0,1,2,,1,4,,,,,,,,0,,,6 (2),6 (2),979,unlim
+Milne Bay,Base,1,Papua,"101,133",0,0,0,3,,0,5,,,,,,,,0,,,0 (2),0 (2),980,unlim
+Port Moresby,Base,1,Papua,"98,130",0,0,1,2,,3,6,,,,,,,,0,,,280 (40),14 (2),981,unlim
+Saidor,Base,1,Papua,"99,124",0,0,0,2,,0,3,,,,,,,,0,,,0 (2),0 (2),982,unlim
+Salamaua,Base,1,Papua,"98,127",0,0,1,1,,1,3,,,,,,,,0,,,6 (2),6 (2),983,unlim
+Wau,Airfield,1,Papua,"98,126",0,0,0,0,,1,3,,,,,,,,0,,,4 (2),4 (2),984,unlim
+Wewak,Base,1,Papua,"96,119",0,0,1,1,,0,2,,,,,,,,0,,,2 (2),2 (2),985,unlim
+Arawe,Base,1,Papua,"102,126",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),989,unlim
+Cape Gloucester,Base,1,Papua,"101,125",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),990,unlim
+Gasmata,Base,1,Papua,"103,127",0,0,1,1,,1,3,,,,,,,,0,,,6 (2),6 (2),991,unlim
+Rabaul,Base,1,Papua,"106,125",0,0,3,4,,3,6,,,,,,,,0,,,180 (20),18 (2),992,unlim
+Talasea,Base,1,Papua,"103,125",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),993,unlim
+Emirau Island,Base,1,Papua,"105,121",0,0,0,2,,0,0,,,,,,,,0,,,0 (2),0 (2),996,6K
+Feni Islands,Base,1,Papua,"108,126",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),997,60K
+Green Island,Base,1,Papua,"108,127",0,0,0,1,,0,2,,,,,,,,0,,,0 (2),0 (2),998,30K
+Kavieng,Base,1,Papua,"106,122",0,0,1,3,,0,6,,,,,,,,0,,,2 (2),2 (2),999,unlim
+Lihir,Base,1,Papua,"108,124",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1000,60K
+Manus,Base,1,Papua,"101,119",0,0,1,4,,0,5,,,,,,,,0,,,2 (2),2 (2),1001,unlim
+Mussau Island,Base,1,Papua,"105,120",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1002,unlim
+Namatanai,Base,1,Papua,"107,125",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1003,unlim
+New Hanover Island,Base,1,Papua,"105,122",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1004,unlim
+Tabar Island,Base,1,Papua,"107,123",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1005,60K
+Deboyne Islands,Base,1,Papua,"103,135",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1008,60K
+Fergusson Island,Base,1,Papua,"102,132",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1009,unlim
+Goodenough Island,Base,1,Papua,"101,131",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1010,unlim
+Kiriwina Island,Base,1,Papua,"102,131",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (2),1011,unlim
+Normanby Island,Base,1,Papua,"102,133",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1012,unlim
+Rossel Island,Base,1,Papua,"105,137",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (2),1013,unlim
+Woodlark Island,Base,1,Papua,"104,133",0,0,0,2,,0,5,,,,,,,,0,,,0 (2),0 (2),1014,unlim
+Buka,Base,1,Papua,"109,128",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1017,unlim
+Torokina,Base,1,Papua,"109,130",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1018,unlim
+Christmas Island IO,Base,1,Japan,"45,104",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),1 (1),1022,60K
+Cocos Islands,Base,1,Japan,"33,101",0,0,1,0,,0,2,,,,,,,,0,,,2 (2),1 (1),1023,30K
+King Island,Base,1,Japan,"79,173",0,0,1,0,,1,3,,,,,,,,0,,,6 (2),3 (1),1024,unlim
+Horn Island,Base,1,Japan,"91,128",0,0,1,1,,1,3,,,,,,,,0,,,6 (2),3 (1),1025,60K
+Lord Howe Island,Base,1,Japan,"100,169",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),1 (1),1026,60K
+Mornington Island,Base,1,Japan,"84,135",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),1027,unlim
+Norfolk Island,Base,1,Japan,"113,170",0,0,0,0,,1,3,,,,,,,,0,,,4 (2),2 (1),1028,60K
+Wessel Islands,Base,1,Japan,"83,126",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (1),1029,unlim
+Auckland,Base,1,New Zealand,"115,185",0,0,5,6,,6,7,,,,,,,,80,,,850 (50),170 (10),1033,unlim
+Blenheim,Base,1,New Zealand,"111,191",0,0,1,1,,1,7,,,,,,,,0,,,30 (10),3 (1),1034,unlim
+Christchurch,Base,1,New Zealand,"108,193",0,0,3,3,,3,7,,,,,,,,60,,,90 (10),9 (1),1035,unlim
+Dunedin,Base,1,New Zealand,"104,195",0,0,2,4,,3,7,,,,,,,,40,,,80 (10),8 (1),1036,unlim
+Gisborne,Base,1,New Zealand,"117,189",0,0,1,1,,1,7,,,,,,,,0,,,30 (10),3 (1),1037,unlim
+Greymouth,Base,1,New Zealand,"107,191",0,0,1,1,,1,4,,,,,,,,0,,,30 (10),3 (1),1038,unlim
+Hamilton,Airfield,1,New Zealand,"115,187",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),1039,unlim
+Invercargill,Base,1,New Zealand,"102,194",0,0,2,2,,2,7,,,,,,,,0,,,60 (10),6 (1),1040,unlim
+Nelson NZ,Airfield,1,New Zealand,"110,191",0,0,0,0,,2,5,,,,,,,,0,,,40 (10),4 (1),1041,unlim
+Palmerston North,Base,1,New Zealand,"114,190",0,0,2,0,,1,7,,,,,,,,0,,,40 (10),4 (1),1042,unlim
+Waipapakauri,Base,1,New Zealand,"115,182",0,0,1,1,,1,6,,,,,,,,0,,,30 (10),3 (1),1043,unlim
+Wellington,Base,1,New Zealand,"112,191",0,0,5,4,,3,7,,,,,,,,80,,,220 (20),11 (1),1044,unlim
+Aitutaki,Base,1,Japan,"159,174",0,0,1,1,,0,2,,,,,,,,0,,,2 (2),1 (1),1047,30K
+Atiu,Base,1,Japan,"160,176",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),1048,60K
+Mangaia,Base,1,Japan,"159,180",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),1 (1),1049,60K
+Manihiki,Beach,1,Japan,"163,160",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (1),1050,6K
+Manuae,Base,1,Japan,"159,175",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),1051,30K
+Mauke,Base,1,Japan,"161,177",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),1052,30K
+Mitiaro,Base,1,Japan,"161,176",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),1053,30K
+Penrhyn Island,Base,1,Japan,"168,159",0,0,1,1,,0,0,,,,,,,,0,,,2 (2),1 (1),1054,6K
+Pukapuka,Beach,1,Japan,"157,158",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (1),1055,6K
+Rarotonga,Base,1,Japan,"157,177",0,0,1,1,,0,1,,,,,,,,0,,,2 (2),1 (1),1056,60K
+Savaii,Base,1,Japan,"146,159",0,0,1,2,,1,3,,,,,,,,0,,,6 (2),3 (1),1059,unlim
+Upolu,Base,1,Japan,"147,160",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),1 (1),1060,unlim
+Niue,Base,1,Japan,"146,168",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),1 (1),1063,unlim
+Alliford Bay,Base,1,Canada,"199,46",0,0,1,1,,0,5,,,,,,,,0,,,10 (10),1 (1),1066,unlim
+Bella Bella,Base,1,Canada,"203,46",0,0,1,0,,0,3,,,,,,,,0,,,10 (10),1 (1),1067,unlim
+Calgary,Airfield,1,Canada,"214,40",0,0,0,0,,4,7,,,,,,,,40,,,80 (10),8 (1),1068,unlim
+Coal Harbour,Base,1,Canada,"204,49",0,0,1,0,,1,3,,,,,,,,0,,,30 (10),3 (1),1069,unlim
+Edmonton,Airfield,1,Canada,"210,35",0,0,0,0,,6,7,,,,,,,,40,,,120 (10),12 (1),1070,unlim
+Fort Nelson,Beach,1,Canada,"199,31",0,0,0,0,,0,5,,,,,,,,0,,,0 (10),0 (1),1071,unlim
+Fort St. John,Airfield,1,Canada,"203,34",0,0,0,0,,3,7,,,,,,,,0,,,60 (10),6 (1),1072,unlim
+Nelson,Airfield,1,Canada,"214,44",0,0,0,0,,2,3,,,,,,,,0,,,40 (10),4 (1),1073,unlim
+Prince Rupert,Base,1,Canada,"199,43",0,0,3,7,,2,4,,,,,,,,0,,,70 (10),7 (1),1074,unlim
+Regina,Airfield,1,Canada,"220,34",0,0,0,0,,6,7,,,,,,,,20,,,120 (10),12 (1),1075,unlim
+Terrace,Beach,1,Canada,"200,41",0,0,0,0,,0,1,,,,,,,,0,,,0 (10),0 (1),1076,unlim
+Vancouver,Base,1,Canada,"209,49",0,0,8,6,,8,5,,,,,,,,100,,,480 (20),24 (1),1077,unlim
+Victoria,Base,1,Canada,"209,51",0,0,6,6,,4,5,,,,,,,,20,,,140 (10),14 (1),1078,unlim
+Whitehorse,Airfield,1,Canada,"190,33",0,0,0,0,,3,2,,,,,,,,0,,,60 (10),6 (1),1079,unlim
+Winnipeg,Airfield,1,Canada,"224,28",0,0,0,0,,8,7,,,,,,,,80,,,320 (20),16 (1),1080,unlim
+Canada,Base,1,Off-map,"227,5",0,0,10,10,,10,7,,,,,,,,0,,,30 (1),30 (1),1083,unlim
+Changsha,Airfield,1,China,"82,52",0,0,0,0,,3,7,,,,,,,,160,,,60 (10),60 (10),1086,unlim
+Changteh,Airfield,1,China,"81,50",0,0,0,0,,1,7,,,,,,,,40,,,20 (10),2 (1),1087,unlim
+Chengchow,Airfield,1,China,"88,44",0,0,0,0,,1,7,,,,,,,,80,,,20 (10),2 (1),1088,unlim
+Chengtu,Airfield,1,China,"75,41",0,0,0,0,,1,7,,,,,,,,120,,,200 (100),2 (1),1089,unlim
+Chihkiang,Airfield,1,China,"78,50",0,0,0,0,,1,5,,,,,,,,0,,,20 (10),2 (1),1090,unlim
+Chungking,Airfield,1,China,"76,45",0,0,0,0,,4,7,,,,,,,,160,,,1600 (200),800 (100),1091,unlim
+Hami,Airfield,1,China,"81,17",0,0,0,0,,3,7,,,,,,,,0,,,60 (10),6 (1),1092,unlim
+Hengyang,Airfield,1,China,"80,53",0,0,0,0,,3,7,,,,,,,,60,,,60 (10),6 (1),1093,unlim
+Loyang,Airfield,1,China,"87,43",0,0,0,0,,1,7,,,,,,,,20,,,20 (10),2 (1),1094,unlim
+Hwaiyin,Beach,1,China,"92,50",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),1095,unlim
+Kanhsien,Airfield,1,China,"81,57",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),1096,unlim
+Kashgar,Airfield,1,China,"71,6",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),1097,unlim
+Kiuchuan,Airfield,1,China,"82,26",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),1098,unlim
+Kukong,Airfield,1,China,"79,57",0,0,0,0,,1,7,,,,,,,,20,,,20 (10),2 (1),1099,unlim
+Kungchang,Airfield,1,China,"81,36",0,0,0,0,,1,3,,,,,,,,0,,,20 (10),2 (1),1100,unlim
+Kunming,Airfield,1,China,"69,48",0,0,0,0,,3,3,,,,,,,,80,,,150 (25),30 (5),1101,unlim
+Kweilin,Airfield,1,China,"76,54",0,0,0,0,,3,7,,,,,,,,20,,,60 (10),6 (1),1102,unlim
+Kweiteh,Beach,1,China,"90,46",0,0,0,0,,0,7,,,,,,,,20,,,0 (10),0 (1),1103,unlim
+Kweiyang,Airfield,1,China,"74,49",0,0,0,0,,3,6,,,,,,,,60,,,60 (10),6 (1),1104,unlim
+Lanchow,Airfield,1,China,"81,34",0,0,0,0,,3,5,,,,,,,,20,,,300 (50),6 (1),1105,unlim
+Liuchow,Airfield,1,China,"74,55",0,0,0,0,,1,7,,,,,,,,60,,,20 (10),2 (1),1106,unlim
+Mengtze,Beach,1,China,"68,50",0,0,0,0,,0,2,,,,,,,,0,,,0 (10),0 (1),1107,unlim
+Nanning,Airfield,1,China,"72,55",0,0,0,0,,3,7,,,,,,,,20,,,60 (10),6 (1),1108,unlim
+Nanyang,Airfield,1,China,"85,45",0,0,0,0,,1,7,,,,,,,,20,,,20 (10),2 (1),1109,unlim
+Neikiang,Airfield,1,China,"75,44",0,0,0,0,,1,7,,,,,,,,40,,,20 (10),2 (1),1110,unlim
+Pakhoi,Base,1,China,"72,58",0,0,3,3,,1,6,,,,,,,,20,,,50 (10),5 (1),1111,unlim
+Paoshan,Airfield,1,China,"65,45",0,0,0,0,,2,2,,,,,,,,20,,,40 (10),4 (1),1112,unlim
+Patung,Beach,1,China,"81,46",0,0,0,0,,0,5,,,,,,,,0,,,0 (10),0 (1),1113,unlim
+Pengpu,Beach,0,China,"90,50",600,0,0,0,,0,7,,1,,11,0 (0),0 (0),181,20,6264,China Expeditionary Army,0 (1),0 (3),1114,unlim
+Pucheng,Beach,1,China,"86,57",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),1115,unlim
+Shaoyang,Airfield,1,China,"80,52",0,0,0,0,,1,7,,,,,,,,40,,,20 (10),2 (1),1116,unlim
+Sian,Airfield,1,China,"83,41",0,0,0,0,,1,7,,,,,,,,80,,,20 (10),2 (1),1117,unlim
+Siangtan,Airfield,1,China,"81,52",0,0,0,0,,1,7,,,,,,,,40,,,20 (10),2 (1),1118,unlim
+Sining,Airfield,1,China,"80,32",0,0,0,0,,3,2,,,,,,,,40,,,300 (50),6 (1),1119,unlim
+Tienshui,Beach,1,China,"81,38",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1120,unlim
+Tsiaotso,Beach,1,China,"88,42",0,0,0,0,,0,5,,,,,,,,40,,,0 (10),0 (1),1121,unlim
+Tsuyung,Airfield,1,China,"68,46",0,0,0,0,,2,3,,,,,,,,0,,,100 (25),4 (1),1122,unlim
+Tuyun,Airfield,1,China,"74,51",0,0,0,0,,1,5,,,,,,,,0,,,20 (10),2 (1),1123,unlim
+Urumchi,Airfield,1,China,"79,11",0,0,0,0,,3,7,,,,,,,,20,,,60 (10),6 (1),1124,unlim
+Wasu,Airfield,1,China,"79,8",0,0,0,0,,1,5,,,,,,,,0,,,20 (10),2 (1),1125,unlim
+Wenchow,Base,1,China,"89,58",0,0,3,5,,3,5,,,,,,,,80,,,90 (10),9 (1),1126,unlim
+Wuchow,Airfield,1,China,"76,57",0,0,0,0,,1,6,,,,,,,,20,,,20 (10),2 (1),1127,unlim
+Yenan,Airfield,1,China,"88,37",0,0,0,0,,1,5,,,,,,,,20,,,20 (10),2 (1),1128,unlim
+Bengkalis,Base,1,Dutch East Indies,"48,82",0,0,2,0,,0,2,,,,,,,,0,,,4 (2),4 (2),1132,unlim
+Benkoelen,Base,1,Dutch East Indies,"45,91",0,0,1,1,,1,6,,,,,,,,0,,,6 (2),6 (2),1133,unlim
+Djambi,Airfield,1,Dutch East Indies,"48,88",0,0,0,0,,1,7,,,,,,,,0,,,4 (2),4 (2),1134,unlim
+Lahat,Beach,1,Dutch East Indies,"47,92",0,0,0,0,,0,7,,,,,,,,0,,,0 (2),0 (2),1135,unlim
+Langsa,Base,1,Dutch East Indies,"46,74",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),1136,unlim
+Medan,Base,1,Dutch East Indies,"46,76",0,0,3,1,,2,7,,,,,,,,0,,,14 (2),14 (2),1137,unlim
+Muntok,Base,1,Dutch East Indies,"50,90",0,0,1,1,,0,7,,,,,,,,0,,,2 (2),2 (2),1138,unlim
+Padang,Base,1,Dutch East Indies,"44,85",0,0,1,1,,1,5,,,,,,,,0,,,6 (2),6 (2),1139,unlim
+Palembang,Base,1,Dutch East Indies,"48,91",0,0,4,1,,4,4,,,,,,,,20,,,24 (2),24 (2),1140,unlim
+Pakanbaroe,Beach,1,Dutch East Indies,"46,83",0,0,0,0,,0,6,,,,,,,,0,,,0 (2),0 (2),1141,unlim
+Sabang,Base,1,Dutch East Indies,"44,70",0,0,1,2,,1,7,,,,,,,,0,,,6 (2),6 (2),1142,unlim
+Sawahloento,Beach,1,Dutch East Indies,"45,85",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1143,unlim
+Sibolga,Base,1,Dutch East Indies,"44,79",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),1144,unlim
+Tandjoengbalai,Base,1,Dutch East Indies,"47,78",0,0,1,1,,2,7,,,,,,,,0,,,10 (2),10 (2),1145,unlim
+Oosthaven,Base,1,Dutch East Indies,"48,96",0,0,3,1,,2,7,,,,,,,,0,,,14 (2),14 (2),1146,unlim
+Toboali,Base,1,Dutch East Indies,"50,93",0,0,2,1,,0,7,,,,,,,,0,,,4 (2),4 (2),1147,unlim
+Bandoeng,Airfield,1,Dutch East Indies,"50,100",0,0,0,0,,3,3,,,,,,,,20,,,12 (2),12 (2),1150,unlim
+Banjoewangi,Base,1,Dutch East Indies,"57,107",0,0,1,0,,0,7,,,,,,,,0,,,2 (2),2 (2),1151,unlim
+Batavia,Base,1,Dutch East Indies,"49,98",0,0,6,4,,4,7,,,,,,,,60,,,70 (5),280 (20),1152,unlim
+Djokjakarta,Base,1,Dutch East Indies,"52,103",0,0,0,0,,2,6,,,,,,,,0,,,8 (2),8 (2),1153,unlim
+Madioen,Airfield,1,Dutch East Indies,"54,104",0,0,0,0,,4,5,,,,,,,,0,,,16 (2),16 (2),1154,unlim
+Loemadjang,Base,1,Dutch East Indies,"56,106",0,0,0,0,,4,7,,,,,,,,0,,,16 (2),16 (2),1155,unlim
+Merak,Base,1,Dutch East Indies,"48,97",0,0,1,1,,1,6,,,,,,,,0,,,6 (2),6 (2),1156,unlim
+Pamekasan,Base,1,Dutch East Indies,"57,105",0,0,1,1,,1,7,,,,,,,,0,,,6 (2),6 (2),1157,unlim
+Probolinggo,Base,1,Dutch East Indies,"56,105",0,0,1,0,,0,6,,,,,,,,0,,,2 (2),2 (2),1158,unlim
+Semarang,Base,1,Dutch East Indies,"53,102",0,0,5,2,,1,7,,,,,,,,0,,,14 (2),14 (2),1159,unlim
+Soerabaja,Base,1,Dutch East Indies,"56,104",0,0,7,5,,4,7,,,,,,,,40,,,75 (5),30 (2),1160,unlim
+Soerakarta,Beach,1,Dutch East Indies,"53,103",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1161,unlim
+Tjilatjap,Base,1,Dutch East Indies,"51,102",0,0,3,2,,2,7,,,,,,,,0,,,14 (2),14 (2),1162,unlim
+Balikpapan,Base,1,Dutch East Indies,"64,97",0,0,4,1,,4,6,,,,,,,,0,,,24 (2),24 (2),1165,unlim
+Bandjermasin,Base,1,Dutch East Indies,"60,99",0,0,2,1,,3,3,,,,,,,,0,,,16 (2),16 (2),1166,unlim
+Pontianak,Base,1,Dutch East Indies,"56,90",0,0,3,2,,1,3,,,,,,,,0,,,10 (2),10 (2),1167,unlim
+Samarinda,Base,1,Dutch East Indies,"65,96",0,0,2,1,,3,6,,,,,,,,0,,,16 (2),16 (2),1168,unlim
+Sampit,Base,1,Dutch East Indies,"58,97",0,0,2,2,,1,5,,,,,,,,0,,,8 (2),8 (2),1169,unlim
+Ketapang,Base,1,Dutch East Indies,"55,93",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),2 (2),1170,unlim
+Sambas,Base,1,Dutch East Indies,"57,88",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),2 (2),1171,unlim
+Singkawang,Base,1,Dutch East Indies,"56,88",0,0,1,1,,3,6,,,,,,,,0,,,14 (2),14 (2),1172,unlim
+Sintang,Beach,1,Dutch East Indies,"59,92",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1173,unlim
+Tandjoengselor,Base,1,Dutch East Indies,"68,92",0,0,1,0,,0,2,,,,,,,,0,,,2 (2),2 (2),1174,unlim
+Tarakan,Base,1,Dutch East Indies,"67,91",0,0,3,1,,3,2,,,,,,,,0,,,18 (2),18 (2),1175,unlim
+Donggala,Base,1,Dutch East Indies,"68,99",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),1178,unlim
+Gorontalo,Base,1,Dutch East Indies,"72,99",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1179,unlim
+Kendari,Base,1,Dutch East Indies,"70,106",0,0,3,2,,4,5,,,,,,,,0,,,22 (2),22 (2),1180,unlim
+Kolaka,Base,1,Dutch East Indies,"68,105",0,0,2,1,,0,4,,,,,,,,0,,,4 (2),4 (2),1181,unlim
+Madjene,Base,1,Dutch East Indies,"65,103",0,0,1,0,,0,6,,,,,,,,0,,,2 (2),2 (2),1182,unlim
+Makassar,Base,1,Dutch East Indies,"65,106",0,0,4,2,,3,6,,,,,,,,0,,,20 (2),20 (2),1183,unlim
+Menado,Base,1,Dutch East Indies,"75,99",0,0,2,2,,3,7,,,,,,,,0,,,16 (2),16 (2),1184,unlim
+Palopo,Base,1,Dutch East Indies,"67,103",0,0,1,1,,0,6,,,,,,,,0,,,2 (2),2 (2),1185,unlim
+Pare Pare,Base,1,Dutch East Indies,"66,104",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),1186,unlim
+Watampone,Base,1,Dutch East Indies,"66,105",0,0,1,0,,0,7,,,,,,,,0,,,2 (2),2 (2),1187,unlim
+Babo,Base,1,Dutch East Indies,"83,111",0,0,1,1,,0,2,,,,,,,,0,,,2 (2),2 (2),1190,unlim
+Biak,Base,1,Dutch East Indies,"87,110",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1191,unlim
+Hollandia,Base,1,Dutch East Indies,"93,116",0,0,1,3,,1,5,,,,,,,,0,,,6 (2),6 (2),1192,unlim
+Kaimana,Base,1,Dutch East Indies,"83,113",0,0,0,2,,0,5,,,,,,,,0,,,0 (2),0 (2),1193,unlim
+Manokwari,Base,1,Dutch East Indies,"85,109",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1194,unlim
+Merauke,Base,1,Dutch East Indies,"89,124",0,0,1,1,,1,5,,,,,,,,0,,,6 (2),6 (2),1195,unlim
+Nabire,Base,1,Dutch East Indies,"86,114",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1196,unlim
+Noemfoor,Base,1,Dutch East Indies,"86,110",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (2),1197,unlim
+Sansapor,Base,1,Dutch East Indies,"83,107",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1198,unlim
+Sarmi,Base,1,Dutch East Indies,"91,114",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1199,unlim
+Sorong,Base,1,Dutch East Indies,"82,107",0,0,1,2,,0,5,,,,,,,,0,,,2 (2),2 (2),1200,unlim
+Timoeka,Base,1,Dutch East Indies,"86,116",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1201,unlim
+Dili,Base,1,Dutch East Indies,"71,115",0,0,1,1,,1,6,,,,,,,,20,,,6 (2),6 (2),1204,unlim
+Koepang,Base,1,Dutch East Indies,"68,116",0,0,3,1,,4,6,,,,,,,,0,,,22 (2),22 (2),1205,unlim
+Lautem,Base,1,Dutch East Indies,"72,115",0,0,1,1,,1,6,,,,,,,,0,,,6 (2),6 (2),1206,unlim
+Alor,Base,1,Dutch East Indies,"70,114",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),2 (2),1209,unlim
+Ambon,Base,1,Dutch East Indies,"76,109",0,0,2,1,,4,3,,,,,,,,0,,,20 (2),20 (2),1210,unlim
+Terempa,Base,1,Dutch East Indies,"54,83",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1211,60K
+Dobo,Base,1,Dutch East Indies,"83,116",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),1212,unlim
+Babar,Base,1,Dutch East Indies,"76,117",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),1213,unlim
+Bara,Base,1,Dutch East Indies,"74,107",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1214,unlim
+Batjan,Base,1,Dutch East Indies,"78,104",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1215,unlim
+Tandjoengpinang,Base,1,Dutch East Indies,"50,85",0,0,3,2,,0,5,,,,,,,,0,,,6 (2),6 (2),1216,unlim
+Boela,Base,1,Dutch East Indies,"80,110",0,0,2,1,,0,5,,,,,,,,0,,,4 (2),4 (2),1217,unlim
+Boeton,Base,1,Dutch East Indies,"69,108",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1218,unlim
+Damar,Base,1,Dutch East Indies,"75,115",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1219,60K
+Denpasar,Base,1,Dutch East Indies,"58,108",0,0,2,1,,3,4,,,,,,,,0,,,16 (2),16 (2),1220,unlim
+Djailolo,Base,1,Dutch East Indies,"78,101",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1221,unlim
+Djemadja,Base,1,Dutch East Indies,"53,83",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1222,60K
+Endeh,Base,1,Dutch East Indies,"65,113",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),1223,unlim
+Enggano,Base,1,Dutch East Indies,"44,94",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1224,unlim
+Galeia,Base,1,Dutch East Indies,"79,101",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1225,unlim
+Gebe,Base,1,Dutch East Indies,"80,105",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1226,30K
+Gorong,Base,1,Dutch East Indies,"81,112",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1227,30K
+Kai-eilanden,Base,1,Dutch East Indies,"81,115",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1228,unlim
+Kalao,Base,1,Dutch East Indies,"66,110",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1229,unlim
+Kangean,Base,1,Dutch East Indies,"59,105",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1230,unlim
+Kofiau,Base,1,Dutch East Indies,"80,106",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1231,60K
+Komodo,Base,1,Dutch East Indies,"63,111",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1232,unlim
+Larantoeka,Base,1,Dutch East Indies,"67,113",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),2 (2),1233,unlim
+Lingga,Base,1,Dutch East Indies,"50,87",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1234,unlim
+Lolobato,Base,1,Dutch East Indies,"79,102",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1235,unlim
+Lomblen,Base,1,Dutch East Indies,"68,113",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1236,unlim
+Mataram,Base,1,Dutch East Indies,"59,109",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),1237,unlim
+Maumere,Base,1,Dutch East Indies,"66,113",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1238,unlim
+Memboro,Base,1,Dutch East Indies,"63,112",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1239,unlim
+Misool,Base,1,Dutch East Indies,"80,108",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1240,unlim
+Moa,Base,1,Dutch East Indies,"74,116",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1241,60K
+Molu,Base,1,Dutch East Indies,"79,116",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1242,60K
+Morotai,Base,1,Dutch East Indies,"80,101",0,0,1,2,,0,3,,,,,,,,0,,,2 (2),2 (2),1243,unlim
+Namlea,Base,1,Dutch East Indies,"76,108",0,0,1,1,,2,3,,,,,,,,0,,,10 (2),10 (2),1244,unlim
+Groot Natoena,Base,1,Dutch East Indies,"57,83",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1245,unlim
+Nias,Base,1,Dutch East Indies,"42,79",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1246,unlim
+Obi,Base,1,Dutch East Indies,"77,106",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1247,unlim
+Pagai-eilanden,Base,1,Dutch East Indies,"43,88",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1248,unlim
+Pantar,Base,1,Dutch East Indies,"69,114",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),2 (2),1249,unlim
+Bima,Base,1,Dutch East Indies,"63,110",0,0,1,1,,0,4,,,,,,,,0,,,2 (2),2 (2),1250,unlim
+Roti,Base,1,Dutch East Indies,"67,116",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),1251,unlim
+Ruteng,Base,1,Dutch East Indies,"64,111",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),1252,unlim
+Sangi,Base,1,Dutch East Indies,"77,97",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1253,unlim
+Saumlaki,Base,1,Dutch East Indies,"78,117",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),1254,unlim
+Sawoe-eilanden,Base,1,Dutch East Indies,"65,115",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1255,unlim
+Selaroe,Base,1,Japan,"78,118",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1256,60K
+Sepandjang,Base,1,Japan,"60,106",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1257,60K
+Serasan,Base,1,Japan,"57,86",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1258,30K
+Siaoe,Base,1,Japan,"77,98",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1259,60K
+Siberoet,Base,1,Japan,"42,85",0,0,1,0,,0,6,,,,,,,,0,,,2 (2),2 (2),1260,unlim
+Singkep,Base,1,Japan,"49,87",0,0,2,1,,1,5,,,,,,,,0,,,8 (2),8 (2),1261,unlim
+Soebi-besar,Base,1,Japan,"57,85",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1262,unlim
+Talaud-eilanden,Base,1,Japan,"79,97",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),1263,unlim
+Taliaboe,Base,1,Japan,"73,104",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1264,unlim
+Tambelan-eilanden,Base,1,Japan,"54,92",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1265,60K
+Tanahdjampea,Base,1,Japan,"65,109",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1266,60K
+Billiton,Base,1,Japan,"52,93",0,0,2,0,,0,5,,,,,,,,0,,,4 (2),4 (2),1267,unlim
+Ternate,Base,1,Japan,"78,102",0,0,3,2,,1,3,,,,,,,,0,,,10 (2),10 (2),1268,unlim
+Tockangbesi-eilanden,Base,1,Japan,"70,109",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1269,60K
+Waigeo,Base,1,Japan,"82,106",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1270,unlim
+Waingapoe,Base,1,Japan,"63,113",0,0,1,1,,0,4,,,,,,,,0,,,2 (2),2 (2),1271,unlim
+Wetar,Base,1,Japan,"72,114",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1272,unlim
+Belep Islands,Base,1,Japan,"112,155",0,0,1,0,,0,3,,,,,,,,0,,,2 (2),1 (1),1276,60K
+Isle of Pines,Base,1,Japan,"115,161",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),1277,60K
+Koumac,Base,1,Japan,"113,156",0,0,1,1,,0,7,,,,,,,,0,,,2 (2),1 (1),1278,unlim
+La Foa,Base,1,Japan,"114,159",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (1),1279,unlim
+Lifou,Base,1,Japan,"116,159",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),1280,unlim
+Mare',Base,1,Japan,"117,160",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),1281,unlim
+Noumea,Base,1,Japan,"115,160",0,0,2,4,,2,5,,,,,,,,0,,,30 (5),300 (50),1282,unlim
+Ouv'ea,Base,1,Japan,"116,158",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (1),1283,unlim
+Ambrym,Base,1,Japan,"121,152",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),1286,unlim
+Anatom,Base,1,Japan,"120,159",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (1),1287,unlim
+Aoba Island,Base,1,Japan,"121,150",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),1288,unlim
+Efate,Base,1,Japan,"120,154",0,0,1,2,,0,5,,,,,,,,0,,,50 (50),1 (1),1289,unlim
+Epi,Base,1,Japan,"120,153",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),1290,unlim
+Erromango,Base,1,Japan,"120,156",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),1291,unlim
+Lakatoro,Base,1,Japan,"119,151",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (1),1292,unlim
+Luganville,Base,1,Japan,"120,150",0,0,1,3,,0,5,,,,,,,,0,,,50 (50),1 (1),1293,unlim
+Pentecost Island,Base,1,Japan,"120,151",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),1294,unlim
+Santa Maria,Base,1,Japan,"120,149",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (1),1295,unlim
+Tanna,Base,1,Japan,"120,157",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),1 (1),1296,unlim
+Torres Islands,Base,1,Japan,"120,147",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (1),1297,unlim
+Vanua Lava,Base,1,Japan,"121,148",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (1),1298,unlim
+Bora Bora,Base,1,Japan,"171,174",0,0,0,2,,0,2,,,,,,,,0,,,0 (1),0 (1),1301,30K
+Maiao,Beach,1,Japan,"171,177",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1302,6K
+Maupiti,Beach,1,Japan,"170,174",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1303,6K
+Moorea,Base,1,Japan,"172,177",0,0,1,1,,0,2,,,,,,,,0,,,1 (1),1 (1),1304,unlim
+Raiatea,Base,1,Japan,"171,175",0,0,1,0,,0,2,,,,,,,,0,,,1 (1),1 (1),1305,unlim
+Tahiti,Base,1,Japan,"173,178",0,0,1,2,,1,3,,,,,,,,0,,,15 (5),60 (20),1306,unlim
+Tetiaroa,Base,1,Japan,"173,176",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1307,30K
+Amanu,Beach,1,Japan,"184,182",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1310,6K
+Anaa,Base,1,Japan,"178,179",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1311,60K
+Apataki,Base,1,Japan,"178,175",0,0,0,1,,0,2,,,,,,,,0,,,0 (1),0 (1),1312,30K
+Aratika,Base,1,Japan,"180,176",0,0,0,1,,0,0,,,,,,,,0,,,0 (1),0 (1),1313,6K
+Fakarava,Base,1,Japan,"179,177",0,0,0,1,,0,2,,,,,,,,0,,,0 (1),0 (1),1314,30K
+Hao,Base,1,Japan,"183,183",0,0,0,1,,0,2,,,,,,,,0,,,0 (1),0 (1),1315,30K
+Hereheretue,Beach,1,Japan,"177,184",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1316,6K
+Hikueru,Base,1,Japan,"181,181",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1317,30K
+Katiu,Beach,1,Japan,"180,178",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1318,6K
+Kauehi,Base,1,Japan,"180,177",0,0,0,1,,0,2,,,,,,,,0,,,0 (1),0 (1),1319,30K
+Makatea,Base,1,Japan,"175,175",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1320,30K
+Makemo,Base,1,Japan,"181,179",0,0,0,1,,0,2,,,,,,,,0,,,0 (1),0 (1),1321,30K
+Mangareva,Base,1,Japan,"185,195",0,0,0,1,,0,2,,,,,,,,0,,,0 (1),0 (1),1322,30K
+Manihi,Base,1,Japan,"180,174",0,0,0,2,,0,2,,,,,,,,0,,,0 (1),0 (1),1323,30K
+Marokau,Base,1,Japan,"182,182",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1324,30K
+Mataiva,Base,1,Japan,"176,173",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1325,30K
+Mururoa,Beach,1,Japan,"182,191",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1326,6K
+Napuka,Beach,1,Japan,"186,176",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1327,6K
+Niau,Beach,1,Japan,"178,177",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1328,6K
+Pukarua,Base,1,Japan,"188,186",0,0,0,1,,0,0,,,,,,,,0,,,0 (1),0 (1),1329,6K
+Rangiroa,Base,1,Japan,"177,174",0,0,1,2,,0,3,,,,,,,,0,,,1 (1),1 (1),1330,60K
+Raroia,Base,1,Japan,"183,178",0,0,0,1,,0,0,,,,,,,,0,,,0 (1),0 (1),1331,6K
+Reao,Beach,1,Japan,"189,186",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1332,6K
+Tahanea,Base,1,Japan,"179,179",0,0,0,1,,0,0,,,,,,,,0,,,0 (1),0 (1),1333,6K
+Takapoto,Base,1,Japan,"180,175",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1334,30K
+Takaroa,Beach,1,Japan,"181,174",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1335,6K
+Tatakoto,Beach,1,Japan,"187,183",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1336,6K
+Temoe,Beach,1,Japan,"187,195",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1337,6K
+Tureia,Beach,1,Japan,"183,189",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1338,6K
+Raevavae,Base,1,Japan,"169,189",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1341,60K
+Rimatara,Beach,1,Japan,"164,183",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1342,6K
+Rurutu,Base,1,Japan,"167,184",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1343,60K
+Tubuai,Base,1,Japan,"168,187",0,0,1,0,,0,3,,,,,,,,0,,,1 (1),1 (1),1344,60K
+Eiao,Base,1,Japan,"191,165",0,0,0,1,,0,3,,,,,,,,0,,,0 (1),0 (1),1347,60K
+Fatu Hiva,Base,1,Japan,"192,170",0,0,1,2,,0,1,,,,,,,,0,,,1 (1),1 (1),1348,60K
+Hiva Oa,Base,1,Japan,"192,169",0,0,1,2,,0,2,,,,,,,,0,,,1 (1),1 (1),1349,unlim
+Nuku Hiva,Base,1,Japan,"191,167",0,0,1,2,,0,2,,,,,,,,0,,,1 (1),1 (1),1350,unlim
+Ua Huka,Base,1,Japan,"192,167",0,0,1,0,,0,3,,,,,,,,0,,,1 (1),1 (1),1351,60K
+Ua Pou,Base,1,Japan,"191,168",0,0,1,1,,0,2,,,,,,,,0,,,1 (1),1 (1),1352,unlim
+Hoorn Islands,Base,1,Japan,"138,157",0,0,1,0,,0,4,,,,,,,,0,,,1 (1),1 (1),1355,unlim
+Kwangchowan,Base,1,Japan,"73,60",0,0,3,3,,2,6,,,,,,,,0,,,7 (1),7 (1),1356,unlim
+Rapa,Base,1,Japan,"170,196",0,0,0,2,,0,2,,,,,,,,0,,,0 (1),0 (1),1357,60K
+Wallis Island,Base,1,Japan,"142,156",0,0,1,1,,0,3,,,,,,,,0,,,5 (5),1 (1),1358,60K
+Abakan,Airfield,1,Japan,"95,5",0,0,0,0,,1,7,,,,,,,,20,,,6 (3),2 (1),1361,unlim
+Aldan,Airfield,1,Japan,"121,22",0,0,0,0,,1,5,,,,,,,,0,,,6 (3),2 (1),1362,unlim
+Anadyr,Base,1,Japan,"158,30",0,0,1,1,,1,5,,,,,,,,0,,,9 (3),3 (1),1363,unlim
+Dalan Dzadagad,Airfield,1,Japan,"90,26",0,0,0,0,,1,4,,,,,,,,0,,,6 (3),2 (1),1364,unlim
+Bering Island,Base,1,Japan,"148,44",0,0,0,0,,0,5,,,,,,,,0,,,0 (3),0 (1),1365,unlim
+Birobidzhan,Airfield,1,Japan,"117,39",0,0,0,0,,4,4,,,,,,,,20,,,24 (3),8 (1),1366,unlim
+Blagoveshchensk,Airfield,1,Japan,"114,33",0,0,0,0,,4,7,,,,,,,,20,,,24 (3),8 (1),1367,unlim
+Borzya,Airfield,1,Japan,"106,26",0,0,0,0,,4,7,,,,,,,,0,,,24 (3),8 (1),1368,unlim
+Chita,Airfield,1,Japan,"106,22",0,0,0,0,,3,5,,,,,,,,40,,,18 (3),6 (1),1369,unlim
+Choybalsan,Airfield,1,Japan,"103,28",0,0,0,0,,4,6,,,,,,,,0,,,24 (3),8 (1),1370,unlim
+Iman,Beach,1,Japan,"116,43",0,0,0,0,,0,6,,,,,,,,0,,,0 (3),0 (1),1371,unlim
+Irkutsk,Airfield,1,Japan,"100,16",0,0,0,0,,4,7,,,,,,,,80,,,80 (10),80 (10),1372,unlim
+Khabarovsk,Airfield,1,Japan,"118,41",0,0,0,0,,5,7,,,,,,,,80,,,30 (3),10 (1),1373,unlim
+Komsomolsk,Base,1,Japan,"121,39",0,0,3,1,,5,6,,,,,,,,20,,,39 (3),13 (1),1374,unlim
+Krasnoyarsk,Airfield,1,Japan,"101,6",0,0,0,0,,3,6,,,,,,,,80,,,180 (30),120 (20),1375,unlim
+Kysyl,Airfield,1,Japan,"94,10",0,0,0,0,,1,6,,,,,,,,20,,,6 (3),2 (1),1376,unlim
+Magadan,Base,1,Japan,"138,32",0,0,2,1,,3,7,,,,,,,,0,,,24 (3),8 (1),1377,unlim
+Markovo,Airfield,1,Japan,"153,29",0,0,0,0,,1,5,,,,,,,,0,,,6 (3),2 (1),1378,unlim
+Medny Island,Base,1,Japan,"149,45",0,0,0,0,,0,3,,,,,,,,0,,,0 (3),0 (1),1379,60K
+Mogocha,Airfield,1,Japan,"112,25",0,0,0,0,,2,7,,,,,,,,0,,,12 (3),4 (1),1380,unlim
+Nikolaevsk,Base,1,Japan,"126,37",0,0,3,1,,4,6,,,,,,,,0,,,33 (3),11 (1),1381,unlim
+Okha,Base,1,Japan,"128,37",0,0,2,1,,4,5,,,,,,,,0,,,30 (3),10 (1),1382,unlim
+Ondorhaan,Airfield,1,Japan,"100,27",0,0,0,0,,4,6,,,,,,,,0,,,24 (3),8 (1),1383,unlim
+Petropavlovsk,Base,1,Japan,"141,44",0,0,3,1,,4,3,,,,,,,,20,,,33 (3),11 (1),1384,unlim
+Seymchan,Airfield,1,Japan,"141,28",0,0,0,0,,1,6,,,,,,,,0,,,6 (3),2 (1),1385,unlim
+Skovorodino,Airfield,1,Japan,"114,27",0,0,0,0,,2,7,,,,,,,,0,,,12 (3),4 (1),1386,unlim
+Sovetskaya Gavan,Base,1,Japan,"124,42",0,0,3,4,,4,4,,,,,,,,0,,,33 (3),11 (1),1387,unlim
+Suchan,Airfield,1,Japan,"113,46",0,0,0,0,,2,5,,,,,,,,0,,,12 (3),4 (1),1388,unlim
+Svobodny,Airfield,1,Japan,"116,32",0,0,0,0,,4,7,,,,,,,,20,,,24 (3),8 (1),1389,unlim
+Tamsag,Airfield,1,Japan,"104,32",0,0,0,0,,4,7,,,,,,,,0,,,24 (3),8 (1),1390,unlim
+Uel Kal,Base,1,Japan,"160,30",0,0,0,0,,0,3,,,,,,,,0,,,0 (3),0 (1),1391,unlim
+Ulan Bator,Airfield,1,Japan,"96,23",0,0,0,0,,4,6,,,,,,,,0,,,24 (3),8 (1),1392,unlim
+Ulan-Ude,Airfield,1,Japan,"102,19",0,0,0,0,,4,7,,,,,,,,40,,,24 (3),8 (1),1393,unlim
+Vladivostok,Base,1,Japan,"112,46",0,0,5,6,,8,7,,,,,,,,80,,,630 (30),21 (1),1394,unlim
+Voroshilov,Airfield,1,Japan,"112,45",0,0,0,0,,4,7,,,,,,,,40,,,24 (3),8 (1),1395,unlim
+Yakutsk,Airfield,1,Japan,"126,20",0,0,0,0,,2,7,,,,,,,,20,,,12 (3),4 (1),1396,unlim
+Alma-Ata,Airfield,1,Japan,"80,3",0,0,0,0,,10,7,,,,,,,,0,,,20 (1),20 (1),1399,unlim
+Soviet Union,Airfield,1,Japan,"101,3",0,0,0,0,,10,7,,,,,,,,0,,,20 (1),20 (1),1400,unlim
+Kagi,Base,0,Japan,"85,64",6555,0,1,1,,4,7,0,0,9,20,112 (112),39 (31),55,0,3645,General Defence Army,9 (1),135 (15),1403,unlim
+Utsonomiya,Base,0,Japan,"115,60",13155,0,2,2,,3,7,0,0,9,12,28 (28),86 (0),233,0,8971,General Defence Army,8 (1),400 (50),1404,unlim
+Haha-jima,Base,0,Japan,"110,75",4200,0,1,0,,1,0,,1,,0,0 (0),0 (0),0,0,0,General Defence Army,3 (1),60 (20),1405,30K
+Hachinohe,Base,0,Japan,"118,55",13155,0,2,1,,3,7,0,0,9,0,112 (112),0 (0),0,0,136,General Defence Army,8 (1),400 (50),1406,unlim
+Tungho,Airfield,0,Japan,"112,40",2100,0,0,0,,2,7,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,4 (1),20 (5),1407,unlim
+Paotow,Beach,0,Japan,"92,34",500,0,0,0,,0,2,,1,,0,0 (0),0 (0),74,0,3132,General Defence Army,0 (1),0 (3),1408,unlim
+Alameda,Base,1,Japan,"219,70",0,0,5,4,,2,7,,,,,,,,0,,,180 (20),9 (1),1409,unlim
+Socotra,Base,1,Japan,"14,8",0,0,2,0,,2,5,,,,,,,,0,,,6 (1),60 (10),1410,unlim
+Abadan,Base,1,Japan,"39,3",0,0,4,4,,5,6,,,,,,,,0,,,14 (1),14 (1),1411,unlim
+Temuloh,Airfield,1,Japan,"50,78",0,0,0,0,,1,4,,,,,,,,0,,,4 (2),4 (2),1412,unlim
+Kalemyo,Beach,1,Japan,"59,42",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1413,unlim
+Ramree Island,Base,1,Japan,"54,48",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1414,unlim
+Mergui,Base,1,Japan,"53,62",0,0,2,0,,1,7,,,,,,,,0,,,8 (2),8 (2),1415,unlim
+Pegu,Base,1,Japan,"55,53",0,0,0,0,,1,7,,,,,,,,0,,,4 (2),4 (2),1416,unlim
+Shwebo,Airfield,1,Japan,"59,45",0,0,0,0,,1,6,,,,,,,,0,,,4 (2),4 (2),1417,unlim
+Bellary,Airfield,1,Japan,"34,33",0,0,0,0,,1,4,,,,,,,,0,,,10 (5),2 (1),1418,unlim
+Bezwada,Airfield,1,Japan,"39,36",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),1419,unlim
+Chanda,Beach,1,Japan,"42,29",0,0,0,0,,0,6,,,,,,,,0,,,0 (5),0 (1),1420,unlim
+Comilla,Airfield,1,Japan,"56,39",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),1421,unlim
+Darjeeling,Airfield,1,Japan,"59,32",0,0,0,0,,1,4,,,,,,,,0,,,10 (5),2 (1),1422,unlim
+Jalgaon,Beach,1,Japan,"41,24",0,0,0,0,,0,7,,,,,,,,0,,,0 (5),0 (1),1423,unlim
+Nander,Beach,1,Japan,"40,29",0,0,0,0,,0,6,,,,,,,,0,,,0 (5),0 (1),1424,unlim
+Silchar,Beach,1,Japan,"59,39",0,0,0,0,,0,7,,,,,,,,0,,,0 (5),0 (1),1425,unlim
+Tezpur,Beach,1,Japan,"60,36",0,0,0,0,,0,7,,,,,,,,0,,,0 (5),0 (1),1426,unlim
+Warangal,Airfield,1,Japan,"40,33",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),1427,unlim
+Flinders Island,Base,1,Japan,"83,175",0,0,1,0,,1,3,,,,,,,,0,,,30 (10),3 (1),1428,unlim
+Praboemoelih,Airfield,1,Japan,"48,92",0,0,0,0,,2,7,,,,,,,,0,,,8 (2),8 (2),1429,unlim
+Taberfane,Base,1,Japan,"82,117",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),1430,unlim
+Ningsia,Beach,1,Japan,"84,33",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),1431,unlim
+Oita,Base,0,Japan,"104,59",13155,0,2,1,,3,5,0,0,9,23,74 (74),180 (12),0,0,5097,General Defence Army,8 (1),400 (50),1432,unlim
+Chiba,Base,0,Japan,"114,61",8430,0,2,1,,2,7,0,0,9,0,24 (24),86 (13),235,0,9557,General Defence Army,6 (1),300 (50),1433,unlim
+Tottori,Base,0,Japan,"109,58",8400,0,2,1,,2,7,0,0,9,0,56 (56),0 (0),235,0,7192,General Defence Army,6 (1),300 (50),1434,unlim
+Bihoro,Base,0,Japan,"123,51",13125,0,1,1,,4,6,0,0,9,11,32 (32),22 (0),0,0,1102,General Defence Army,9 (1),450 (50),1435,unlim
+Kotou,Airfield,0,Japan,"116,42",2250,0,0,0,,1,6,0,3,,11,0 (0),0 (0),101,0,6710,Kwantung Army,2 (1),10 (5),1436,unlim
+Yenki,Airfield,0,Japan,"110,44",5550,0,0,0,,1,4,0,3,,227,0 (0),21 (0),742,0,43064,Kwantung Army,2 (1),10 (5),1437,unlim
+Tunghua,Airfield,0,Japan,"106,44",16800,0,0,0,,4,5,0,3,,11,0 (0),21 (63),41,20,2175,Kwantung Army,8 (1),40 (5),1438,unlim
+Chuhsien,Airfield,1,Japan,"88,56",0,0,0,0,,1,5,,,,,,,,0,,,20 (10),2 (1),1439,unlim
+Pingsiang,Beach,1,Japan,"82,54",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),1440,unlim
+Lungchen,Beach,0,Japan,"112,36",0,0,0,0,,0,6,0,1,,0,0 (0),0 (0),0,0,0,Kwantung Army,0 (1),0 (5),1441,unlim
+Lopei,Beach,0,Japan,"114,39",0,0,0,0,,0,6,0,3,,0,0 (0),0 (0),0,0,0,Kwantung Army,0 (1),0 (5),1442,unlim
+Olga,Base,1,Japan,"115,47",0,0,2,2,,3,7,,,,,,,,0,,,24 (3),8 (1),1443,unlim
+Spassk-Dalniy,Airfield,1,Japan,"114,44",0,0,0,0,,4,7,,,,,,,,0,,,24 (3),8 (1),1444,unlim
+Kuibyshevka,Airfield,1,Japan,"115,33",0,0,0,0,,4,7,,,,,,,,0,,,24 (3),8 (1),1445,unlim
+Shilka,Airfield,1,Japan,"108,24",0,0,0,0,,4,7,,,,,,,,0,,,24 (3),8 (1),1446,unlim
+Kansk,Airfield,1,Japan,"101,7",0,0,0,0,,2,6,,,,,,,,20,,,12 (3),4 (1),1447,unlim
+Cheremkhovo,Airfield,1,Japan,"101,14",0,0,0,0,,2,7,,,,,,,,20,,,12 (3),4 (1),1448,unlim
+Nakhodka,Base,1,Japan,"112,47",0,0,1,4,,0,7,,,,,,,,0,,,3 (3),1 (1),1449,unlim
+Bikin,Airfield,1,Japan,"117,42",0,0,0,0,,4,6,,,,,,,,0,,,24 (3),8 (1),1450,unlim
+Alexandrovsk,Base,1,Japan,"126,41",0,0,2,1,,4,4,,,,,,,,0,,,30 (3),10 (1),1451,unlim
+Rybolov,Airfield,1,Japan,"113,44",0,0,0,0,,2,7,,,,,,,,0,,,12 (3),4 (1),1452,unlim
+San Luis Obispo,Base,1,Japan,"221,75",0,0,2,0,,3,7,,,,,,,,0,,,160 (20),8 (1),1453,unlim
+Corvallis,Airfield,1,Japan,"213,58",0,0,0,0,,3,7,,,,,,,,0,,,120 (20),6 (1),1454,unlim
+Portsea,Base,1,Japan,"81,171",0,0,1,0,,1,7,,,,,,,,0,,,30 (10),3 (1),1455,unlim
+Nakhon Si Thammarat,Base,0,Japan,"51,70",1189,0,2,1,,1,7,0,0,9,3,0 (0),0 (0),137,0,5424,Southern Army,4 (1),4 (1),1456,unlim
+Prachuap Khiri Khan,Base,0,Japan,"54,64",1840,0,1,0,,2,6,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,5 (1),5 (1),1457,unlim
+Chumphon,Base,0,Japan,"52,66",586,0,1,0,,1,7,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,3 (1),3 (1),1458,unlim
+Phuket,Base,0,Japan,"48,69",255,0,1,0,,0,5,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,1 (1),1 (1),1459,unlim
+Petrovskiy,Airfield,1,Japan,"102,20",0,0,0,0,,2,7,,,,,,,,0,,,12 (3),4 (1),1460,unlim
+Beaufort,Base,1,Japan,"66,87",0,0,1,1,,0,4,,,,,,,,0,,,2 (2),2 (2),1461,unlim
+Atimonan,Base,1,Japan,"80,79",0,0,2,1,,0,6,,,,,,,,0,,,4 (2),4 (2),1462,unlim
+Bakersfield,Airfield,1,Japan,"223,74",0,0,0,0,,2,7,,,,,,,,20,,,80 (20),4 (1),1463,unlim
+Coos Bay,Base,1,Japan,"213,60",0,0,3,3,,2,7,,,,,,,,0,,,140 (20),7 (1),1464,unlim
+Kamloops,Airfield,1,Japan,"210,44",0,0,0,0,,2,5,,,,,,,,0,,,40 (10),4 (1),1465,unlim
+Surigao,Base,1,Japan,"81,88",0,0,2,1,,1,4,,,,,,,,0,,,8 (2),8 (2),1466,unlim
+Prince George,Airfield,1,Japan,"204,40",0,0,0,0,,2,5,,,,,,,,0,,,40 (10),4 (1),1467,unlim
+Sambalpur,Airfield,1,Japan,"48,34",0,0,0,0,,1,6,,,,,,,,0,,,10 (5),2 (1),1468,unlim
+Kanoya,Base,0,Japan,"102,61",18900,0,2,2,,4,4,,0,9,12,37 (37),86 (0),0,0,1779,General Defence Army,10 (1),500 (50),1471,unlim
+Duff Islands,Beach,1,Japan,"123,142",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (1),1472,6K
+Salajar,Base,1,Japan,"66,108",0,0,1,1,,0,5,,,,,,,,0,,,2 (2),2 (2),1473,unlim
+Sidate,Base,1,Japan,"75,100",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1474,unlim
+Shasukotan,Base,0,Japan,"135,49",0,0,0,0,,0,3,0,0,9,0,0 (0),0 (0),0,0,0,5th Fleet,0 (1),0 (3),1475,unlim
+Shikotan,Base,0,Japan,"125,53",0,0,0,0,,0,4,0,0,9,0,28 (28),0 (0),0,0,0,5th Fleet,0 (1),0 (3),1476,unlim
+Shemya Island,Base,1,Japan,"154,49",0,0,0,0,,0,4,,,,,,,,0,,,0 (5),0 (1),1477,30K
+Treasury Islands,Base,1,Japan,"109,132",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1478,60K
+Esperance,Base,1,Japan,"56,153",0,0,3,3,,1,6,,,,,,,,0,,,50 (10),5 (1),1479,unlim
+Rambutyo,Base,1,Japan,"102,120",0,0,0,1,,0,4,,,,,,,,0,,,0 (2),0 (2),1480,unlim
+Umboi Island,Base,1,Japan,"100,125",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1481,unlim
+Long Island,Base,1,Japan,"100,124",0,0,0,1,,0,5,,,,,,,,0,,,0 (2),0 (2),1482,unlim
+Vanimo,Base,1,Japan,"93,117",0,0,0,1,,1,5,,,,,,,,0,,,4 (2),4 (2),1483,unlim
+Tagula Island,Base,1,Japan,"104,137",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1484,unlim
+Stewart Island,Base,1,Japan,"100,195",0,0,1,0,,0,5,,,,,,,,0,,,10 (10),1 (1),1485,unlim
+Oboto,Airfield,1,Japan,"99,31",0,0,0,0,,1,4,,,,,,,,0,,,6 (3),2 (1),1486,unlim
+Nagano,Base,0,Japan,"113,58",8430,0,2,1,,2,5,0,0,9,0,52 (52),0 (0),0,0,0,General Defence Army,6 (1),300 (50),1487,unlim
+Kurume,Base,0,Japan,"103,58",8430,0,2,1,,2,7,0,0,9,0,56 (56),0 (0),0,0,0,General Defence Army,6 (1),300 (50),1488,unlim
+Kirensk,Airfield,1,Japan,"110,13",0,0,0,0,,1,6,,,,,,,,0,,,6 (3),2 (1),1489,unlim
+Chinhae,Base,0,Japan,"103,54",3855,500,3,2,,0,7,0,0,9,22,108 (37),22 (4),28,0,3394,Kwantung Army,3 (1),6 (2),1490,unlim
+Yugodzyr,Airfield,1,Japan,"101,32",0,0,0,0,,1,5,,,,,,,,40,,,6 (3),2 (1),1491,unlim
+Wuteh,Beach,1,Japan,"96,30",0,0,0,0,,0,5,,,,,,,,40,,,0 (3),0 (1),1492,unlim
+Tolun,Beach,0,Japan,"98,36",500,0,0,0,,0,6,,1,,0,0 (0),0 (0),22,0,700,China Expeditionary Army,0 (1),0 (3),1493,unlim
+Kyaktah,Airfield,1,Japan,"99,19",0,0,0,0,,1,7,,,,,,,,0,,,6 (3),2 (1),1494,unlim
+Car Nicobar,Base,1,Japan,"44,62",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (1),1495,60K
+Sinabang,Base,1,Japan,"42,76",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),1496,unlim
+Batoe-eilanden,Base,1,Japan,"43,82",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1497,unlim
+Sipora,Base,1,Japan,"43,86",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1498,unlim
+Tioman Island,Base,1,Japan,"51,83",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1499,unlim
+Langkawi,Base,1,Japan,"49,72",0,0,1,0,,0,5,,,,,,,,0,,,2 (2),2 (2),1500,unlim
+Mangole,Base,1,Japan,"74,105",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1502,unlim
+Loewoek,Base,1,Japan,"71,101",0,0,1,0,,0,4,,,,,,,,0,,,2 (2),2 (2),1503,unlim
+Kienko,Airfield,1,Japan,"78,41",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),1504,unlim
+Ankang,Airfield,1,Japan,"82,42",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),2 (1),1505,unlim
+Togian-eilanden,Base,1,Japan,"71,100",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1506,unlim
+Ontong Java,Base,1,Japan,"115,131",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1507,30K
+Dora Harbor,Base,1,Japan,"173,48",0,0,0,1,,0,4,,,,,,,,0,,,0 (10),0 (1),1508,unlim
+Salt Lake City,Airfield,1,Japan,"226,58",0,0,0,0,,3,6,,,,,,,,60,,,15000 (2500),6 (1),1509,unlim
+Raoul Island,Base,1,Japan,"128,177",0,0,0,0,,0,1,,,,,,,,0,,,0 (2),0 (1),1510,60K
+Malaybalay,Airfield,1,Japan,"80,90",0,0,0,0,,1,3,,,,,,,,0,,,4 (2),4 (2),1511,unlim
+Cunderdin,Airfield,1,Japan,"51,147",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),1512,unlim
+Cue,Beach,1,Japan,"53,141",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),1513,unlim
+Busselton,Base,1,Japan,"48,149",0,0,2,2,,1,7,,,,,,,,0,,,40 (10),4 (1),1514,unlim
+Nookanbah,Airfield,1,Japan,"66,130",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),1515,unlim
+Roto,Beach,1,Japan,"85,164",0,0,0,0,,0,6,,,,,,,,0,,,0 (10),0 (1),1516,unlim
+Condamine,Beach,1,Japan,"92,157",0,0,0,0,,0,7,,,,,,,,0,,,0 (10),0 (1),1517,unlim
+Maryborough,Base,1,Japan,"96,157",0,0,2,2,,1,7,,,,,,,,0,,,40 (10),4 (1),1518,unlim
+Coffs Harbour,Base,1,Japan,"94,163",0,0,1,1,,1,4,,,,,,,,0,,,30 (10),3 (1),1519,unlim
+Fukuyama,Base,0,Japan,"107,58",4725,0,2,1,,1,7,0,0,9,0,225 (225),0 (0),0,0,0,General Defence Army,4 (1),200 (50),1520,unlim
+Terapo,Base,1,Japan,"96,127",0,0,0,0,,1,5,,,,,,,,0,,,4 (2),4 (2),1521,unlim
+Gifu,Airfield,0,Japan,"110,59",2100,0,0,0,,2,7,0,0,9,0,0 (0),86 (0),0,0,1345,General Defence Army,4 (1),200 (50),1522,unlim
+Malang,Base,1,Japan,"55,105",0,0,1,0,,1,3,,,,,,,,0,,,6 (2),6 (2),1523,unlim
+Tjepoe,Base,1,Japan,"54,103",0,0,1,0,,1,7,,,,,,,,0,,,6 (2),6 (2),1524,unlim
+Buitenzorg,Base,1,Japan,"48,99",0,0,0,0,,1,3,,,,,,,,0,,,4 (2),4 (2),1525,unlim
+Kalidjati,Base,1,Japan,"50,99",0,0,1,0,,4,7,,,,,,,,0,,,18 (2),18 (2),1526,unlim
+Las Vegas,Airfield,1,Japan,"227,70",0,0,0,0,,1,7,,,,,,,,0,,,40 (20),2 (1),1527,unlim
+Tonopah,Beach,1,Japan,"222,67",0,0,0,0,,0,4,,,,,,,,0,,,0 (20),0 (1),1528,unlim
+Cabanatuan,Airfield,1,Japan,"80,76",0,0,0,0,,2,7,,,,,,,,0,,,8 (2),8 (2),1529,unlim
+Nadzab,Base,1,Japan,"98,125",0,0,0,1,,0,6,,,,,,,,0,,,0 (2),0 (2),1530,unlim
+Ebadon,Beach,0,Japan,"131,114",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,4th Fleet,0 (1),0 (1),1531,6K
+Palm Island,Base,1,Japan,"92,143",0,0,1,0,,0,3,,,,,,,,0,,,10 (10),1 (1),1532,60K
+Fraser Island,Base,1,Japan,"97,156",0,0,0,0,,0,5,,,,,,,,0,,,0 (10),0 (1),1533,unlim
+Tokuyama,Base,0,Japan,"105,58",33600,125600,4,3,,4,6,0,0,9,0,225 (225),0 (0),0,0,0,General Defence Army,12 (1),600 (50),1534,unlim
+Ansi,Airfield,1,Japan,"80,23",0,0,0,0,,1,7,,,,,,,,0,,,20 (10),2 (1),1535,unlim
+Iki-shima,Base,0,Japan,"102,57",4200,0,1,1,,1,4,0,1,,0,44 (44),0 (0),35,0,5510,General Defence Army,3 (1),60 (20),1537,unlim
+Sungei Pantani,Beach,1,Japan,"50,74",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1604,unlim
+Kuala Kangsar,Base,1,Japan,"49,76",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1605,unlim
+Kuala Krai,Beach,1,Japan,"51,76",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1606,unlim
+Kuala Lipis,Beach,1,Japan,"50,77",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1607,unlim
+Port Dickson,Base,1,Japan,"49,80",0,0,0,1,,0,1,,,,,,,,0,,,0 (2),0 (2),1608,unlim
+Kluang,Airfield,1,Japan,"50,82",0,0,0,0,,1,3,,,,,,,,0,,,10 (5),10 (5),1609,unlim
+Ipoh,Beach,1,Japan,"49,77",0,0,0,0,,0,3,,,,,,,,0,,,0 (5),0 (5),1610,unlim
+Batang Padang,Base,1,Japan,"49,78",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1611,unlim
+Bukit Besi,Base,1,Japan,"52,78",0,0,2,1,,1,3,,,,,,,,0,,,4 (1),4 (1),1613,unlim
+Port Swettenham,Base,1,Japan,"48,79",0,0,1,1,,1,4,,,,,,,,0,,,6 (2),6 (2),1614,unlim
+Donbaik,Base,1,Japan,"55,44",0,0,0,1,,0,2,,,,,,,,0,,,0 (2),0 (2),1619,unlim
+Sittang Bridge,Base,1,Japan,"56,54",0,0,0,1,,0,3,,,,,,,,0,,,0 (2),0 (2),1620,unlim
+Papun,Beach,1,Japan,"56,53",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1621,unlim
+Karen Hills,Beach,1,Japan,"56,50",0,0,0,0,,0,3,,,,,,,,5,,,0 (2),0 (2),1622,unlim
+Kachin Hills,Beach,1,Japan,"61,45",0,0,0,0,,0,2,,,,,,,,5,,,0 (2),0 (2),1623,unlim
+Gokteik Viaduct,Beach,1,Japan,"61,46",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1624,unlim
+Yamethin,Beach,1,Japan,"58,48",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1625,unlim
+Myingyan,Beach,1,Japan,"58,46",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1626,unlim
+Pauk,Beach,1,Japan,"57,46",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1627,unlim
+Kawludo,Beach,1,Japan,"57,51",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1628,unlim
+Phyu,Beach,1,Japan,"56,51",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1629,unlim
+Daik - u,Beach,1,Japan,"56,52",0,0,0,0,,0,5,,,,,,,,0,,,0 (2),0 (2),1630,unlim
+Chin Hills,Beach,1,Japan,"57,44",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1631,unlim
+Mount Victoria,Beach,1,Japan,"56,45",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1632,unlim
+Arakan Yoma (N),Beach,1,Japan,"56,46",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1633,unlim
+Arakan Yoma,Beach,1,Japan,"55,47",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1634,unlim
+Arakan Yoma (S),Beach,1,Japan,"55,48",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1635,unlim
+Thanbyuzayat,Base,1,Japan,"55,56",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1636,unlim
+Ye,Base,1,Japan,"54,57",0,0,1,1,,0,4,,,,,,,,0,,,2 (2),2 (2),1637,unlim
+Tanbaya,Beach,1,Japan,"55,57",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1638,unlim
+Three Pagodas Pass,Beach,0,Japan,"55,58",2000,0,0,0,,0,2,0,1,,0,0 (0),0 (0),0,0,0,Southern Army,0 (2),0 (2),1639,unlim
+Nieke,Beach,0,Japan,"55,59",2000,0,0,0,,0,2,0,1,,0,0 (0),0 (0),0,0,0,Southern Army,0 (2),0 (2),1640,unlim
+Bampong,Beach,0,Japan,"55,61",2000,0,0,0,,0,5,0,1,,0,0 (0),0 (0),0,0,0,Southern Army,0 (2),0 (2),1641,unlim
+Tenchung,Beach,1,Japan,"63,43",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1642,unlim
+Fort Hertz,Beach,1,Japan,"66,38",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1643,unlim
+Lushai Hills,Beach,1,Japan,"56,43",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1644,unlim
+Gangaw,Beach,1,Japan,"58,44",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1645,unlim
+Tiddim,Beach,1,Japan,"58,42",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1646,unlim
+Naga Hills,Beach,1,Japan,"61,40",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1647,unlim
+Kabaw Valley,Beach,1,Japan,"59,41",0,0,0,0,,0,3,,,,,,,,0,,,0 (2),0 (2),1648,unlim
+Pangsau Pass,Beach,1,Japan,"64,39",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1649,unlim
+Hukawng Valley,Beach,1,Japan,"64,40",0,0,0,0,,0,2,,,,,,,,0,,,0 (2),0 (2),1650,unlim
+Wilcannia,Beach,1,Japan,"83,160",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (2),1654,unlim
+Ivanhoe,Beach,1,Japan,"83,163",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (2),1655,unlim
+Jervis Bay,Base,1,Japan,"89,169",0,0,1,3,,1,6,,,,,,,,0,,,30 (10),6 (2),1656,unlim
+Wodonga,Airfield,1,Japan,"84,169",0,0,0,0,,1,5,,,,,,,,0,,,20 (10),4 (2),1657,unlim
+Yaraka,Beach,1,Japan,"86,151",0,0,0,0,,0,3,,,,,,,,0,,,0 (10),0 (1),1658,unlim
+Quilpie,Beach,1,Japan,"85,153",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1659,unlim
+Eucla,Base,1,Japan,"66,153",0,0,0,1,,0,4,,,,,,,,0,,,0 (10),0 (2),1660,unlim
+Norseman,Beach,1,Japan,"57,150",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1661,unlim
+Rawlinna,Beach,1,Japan,"62,149",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (2),1662,unlim
+Leonora,Beach,1,Japan,"57,144",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (2),1663,unlim
+Wiluna,Beach,1,Japan,"57,140",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1664,unlim
+Sandstone,Beach,1,Japan,"55,142",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1665,unlim
+Fitzroy,Beach,1,Japan,"73,129",0,0,0,0,,0,5,,,,,,,,0,,,0 (10),0 (2),1666,unlim
+Carnegie,Beach,1,Japan,"62,141",0,0,0,0,,0,3,,,,,,,,0,,,0 (10),0 (2),1667,unlim
+Kokoda Trail,Beach,1,Japan,"99,130",0,0,0,0,,0,2,,,,,,,,0,,,0 (5),0 (2),1668,unlim
+Ballarat,Airfield,1,Japan,"80,169",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),2 (1),1669,unlim
+Ararat,Airfield,1,Japan,"79,168",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),4 (2),1670,unlim
+Clare,Airfield,1,Japan,"75,161",0,0,0,0,,1,6,,,,,,,,0,,,20 (10),4 (2),1671,unlim
+Warnambool,Base,1,Japan,"79,170",0,0,1,1,,1,4,,,,,,,,0,,,15 (5),3 (1),1672,unlim
+Reid River,Airfield,1,Japan,"92,145",0,0,0,0,,1,3,,,,,,,,0,,,20 (10),4 (2),1673,unlim
+Port Macquarie,Base,1,Japan,"94,164",0,0,1,2,,1,4,,,,,,,,0,,,30 (10),6 (2),1674,unlim
+Mackay,Base,1,Japan,"94,148",0,0,1,1,,1,4,,,,,,,,0,,,30 (10),6 (2),1675,unlim
+Lithglow,Airfield,1,Japan,"89,166",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),4 (2),1676,unlim
+Goulburn,Airfield,1,Japan,"88,168",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),4 (2),1677,unlim
+Lismore,Base,1,Japan,"95,161",0,0,1,2,,1,4,,,,,,,,0,,,30 (10),3 (1),1678,unlim
+Croydon,Beach,1,Japan,"87,140",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1679,unlim
+Forsayth,Beach,1,Japan,"89,142",0,0,0,0,,0,3,,,,,,,,0,,,0 (10),0 (1),1680,unlim
+Puckapunyal,Airfield,1,Japan,"82,169",0,0,0,0,,2,5,,,,,,,,0,,,40 (10),4 (1),1681,unlim
+Greta,Airfield,1,Japan,"91,166",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),2 (1),1682,unlim
+Glendambo,Beach,1,Japan,"73,155",0,0,0,0,,0,2,,,,,,,,0,,,0 (10),0 (1),1683,unlim
+Oamaru,Base,1,Japan,"106,194",0,0,1,1,,1,4,,,,,,,,0,,,30 (10),3 (1),1685,unlim
+Westport,Base,1,Japan,"109,190",0,0,1,0,,1,4,,,,,,,,0,,,30 (10),3 (1),1686,unlim
+Wanganui,Base,1,Japan,"113,189",0,0,1,1,,1,3,,,,,,,,0,,,30 (10),3 (1),1687,unlim
+Tauranga,Base,1,Japan,"116,187",0,0,1,2,,1,4,,,,,,,,0,,,30 (10),3 (1),1688,unlim
+Waiouru,Base,1,Japan,"114,189",0,0,0,0,,1,3,,,,,,,,0,,,20 (10),2 (1),1689,unlim
+Queenstown NZ,Airfield,1,Japan,"103,193",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),2 (1),1690,unlim
+Plaine Des Gaiacs,Base,1,Japan,"114,158",0,0,0,0,,1,3,,,,,,,,0,,,8 (4),8 (4),1691,unlim
+New Plymouth,Base,1,Japan,"113,188",0,0,1,1,,1,4,,,,,,,,0,,,30 (10),3 (1),1692,unlim
+Tahakopa,Base,1,Japan,"102,195",0,0,0,1,,0,2,,,,,,,,0,,,0 (10),0 (1),1693,unlim
+Yaowang Mtn,Beach,1,Japan,"84,42",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1695,unlim
+Yuntsi,Beach,1,Japan,"85,42",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1696,unlim
+Yuanku,Beach,1,Japan,"85,43",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1697,unlim
+Tsingsing,Beach,1,Japan,"90,40",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1698,unlim
+Yutze,Beach,1,Japan,"88,41",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1699,unlim
+Pingyao,Beach,1,Japan,"87,41",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1700,unlim
+Linfan,Beach,1,Japan,"86,41",0,0,0,0,,0,4,,,,,,,,0,,,0 (1),0 (1),1701,unlim
+Anyi,Beach,1,Japan,"85,41",0,0,0,0,,0,5,,,,,,,,0,,,0 (1),0 (1),1702,unlim
+Ban'an,Beach,1,Japan,"76,46",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1703,unlim
+Zunyi,Beach,1,Japan,"75,48",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1704,unlim
+Nanchuan,Beach,1,Japan,"76,47",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1705,unlim
+Wulong,Beach,1,Japan,"78,47",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1706,unlim
+Aurukun,Base,1,Japan,"89,132",0,0,0,1,,0,1,,,,,,,,0,,,0 (10),0 (2),1710,unlim
+Bumaga,Base,1,Japan,"90,130",0,0,0,1,,0,1,,,,,,,,0,,,0 (10),0 (2),1711,unlim
+Kowanyama,Base,1,Japan,"87,135",0,0,0,1,,0,3,,,,,,,,0,,,0 (10),0 (2),1712,unlim
+Lakeland,Beach,1,Japan,"91,137",0,0,0,0,,0,5,,,,,,,,0,,,0 (10),0 (2),1713,unlim
+Mitchell River,Beach,1,Japan,"88,137",0,0,0,0,,0,5,,,,,,,,0,,,0 (10),0 (2),1714,unlim
+Truscott,Base,1,Japan,"70,124",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1715,unlim
+Armidale,Airfield,1,Japan,"92,163",0,0,0,0,,2,4,,,,,,,,0,,,40 (10),4 (1),1716,unlim
+Laverton,Beach,1,Japan,"58,145",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1717,unlim
+Birdum,Beach,1,Japan,"76,130",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1718,unlim
+Mount Isa,Airfield,1,Japan,"83,142",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),2 (1),1719,unlim
+Moranbah,Beach,1,Japan,"91,149",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1720,unlim
+Cunnamulla,Beach,1,Japan,"87,156",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1721,unlim
+Dirranbandi,Beach,1,Japan,"90,158",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1722,unlim
+Pokataroo,Beach,1,Japan,"90,160",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1723,unlim
+Inverell,Beach,1,Japan,"92,161",0,0,0,0,,0,3,,,,,,,,0,,,0 (10),0 (1),1724,unlim
+Cobar,Beach,1,Japan,"85,161",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1725,unlim
+Bairnsdale,Base,1,Japan,"85,172",0,0,1,1,,1,5,,,,,,,,0,,,30 (10),3 (1),1726,unlim
+Hay,Airfield,1,Japan,"82,165",0,0,0,0,,1,5,,,,,,,,0,,,20 (10),2 (1),1727,unlim
+Stanley,Base,1,Japan,"80,175",0,0,1,0,,1,4,,,,,,,,0,,,30 (10),3 (1),1728,unlim
+Port Lincoln,Base,1,Japan,"72,161",0,0,1,0,,1,4,,,,,,,,0,,,30 (10),3 (1),1729,unlim
+Longreach,Airfield,1,Japan,"87,149",0,0,0,0,,1,4,,,,,,,,0,,,20 (10),2 (1),1731,unlim
+Penong,Beach,1,Japan,"70,155",0,0,0,0,,0,4,,,,,,,,0,,,0 (10),0 (1),1732,unlim
+Scawfell Island,Base,1,Japan,"95,148",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1733,30K
+Percy Islands,Base,1,Japan,"95,149",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1734,30K
+Kushimoto,Base,0,Japan,"108,61",1500,100,2,3,0,1,4,0,0,9,0,44 (44),0 (0),0,0,0,General Defence Army,4 (1),4 (1),1748,unlim
+Nemuro,Base,0,Japan,"124,53",150,100,2,3,0,1,5,0,0,9,0,32 (32),0 (0),0,0,0,General Defence Army,4 (1),4 (1),1749,unlim
+Choshi,Base,0,Japan,"115,61",150,100,2,3,0,1,6,0,0,9,0,28 (28),0 (0),0,0,0,General Defence Army,4 (1),4 (1),1750,unlim
+Miyako,Base,0,Japan,"119,56",75,0,3,4,0,1,6,0,0,9,0,74 (74),0 (0),0,0,0,General Defence Army,5 (1),5 (1),1751,unlim
+Kamaishi,Base,0,Japan,"118,57",75,0,2,4,0,1,6,0,0,9,0,56 (56),0 (0),0,0,0,General Defence Army,4 (1),4 (1),1752,unlim
+Tehchow,Airfield,0,Japan,"93,43",150,0,0,0,,1,5,,0,9,0,0 (0),0 (0),0,20,0,China Expeditionary Army,2 (1),6 (3),1755,unlim
+Chuyeh,Airfield,0,Japan,"91,45",150,0,0,0,,1,4,,0,9,0,0 (0),0 (0),0,0,0,China Expeditionary Army,2 (1),6 (3),1756,unlim
+Puluwat,Beach,0,Japan,"108,107",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,0 (1),0 (1),1757,6K
+Namonuito,Beach,0,Japan,"110,105",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,0 (1),0 (1),1758,6K
+Hall Islands,Beach,0,Japan,"113,106",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,Southeast Area Fleet,0 (1),0 (1),1759,6K
+Paracel Islands,Beach,0,Japan,"71,67",0,0,0,0,,0,0,,0,9,0,0 (0),0 (0),0,0,0,General Defence Army,0 (1),0 (1),1760,6K
+Pulo Condore,Base,0,Japan,"59,75",750,200,2,2,,1,4,0,0,9,0,0 (0),0 (0),0,0,0,Southern Army,4 (1),4 (1),1761,60K
+Bremerton,Base,1,Japan,"211,52",0,0,6,7,,4,4,,,,,,,,50,,,700 (50),14 (1),1801,unlim
+Bellingham,Base,1,Japan,"210,50",0,0,2,2,,2,8,,,,,,,,0,,,120 (20),6 (1),1802,unlim
+Northway,Beach,1,Japan,"184,31",0,0,0,0,,0,4,,,,,,,,0,,,0 (1),0 (1),1803,unlim
+Pearl & Hermes Reef,Beach,1,Japan,"160,92",0,0,0,0,,0,0,,,,,,,,0,,,0 (3),0 (1),1807,6K
+Lisianski Island,Beach,1,Japan,"161,95",0,0,0,0,,0,0,,,,,,,,0,,,0 (3),0 (1),1808,6K
+Jacobabad,Airfield,1,Japan,"47,6",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),1850,unlim
+Gilgit,Airfield,1,Japan,"62,5",0,0,0,0,,1,2,,,,,,,,0,,,10 (5),2 (1),1854,unlim
+Rajshashi,Airfield,1,Japan,"55,35",0,0,0,0,,1,7,,,,,,,,0,,,10 (5),2 (1),1855,unlim
+Talcher,Airfield,1,Japan,"48,36",0,0,0,0,,1,3,,,,,,,,0,,,2 (1),2 (1),1856,unlim
+Halebid,Beach,1,Japan,"32,34",0,0,0,0,,0,1,,,,,,,,0,,,0 (1),0 (1),1857,unlim
+Mahuva,Base,1,Japan,"37,19",0,0,1,1,,0,3,,,,,,,,0,,,1 (1),1 (1),1858,unlim
+Veraval,Base,1,Japan,"37,16",0,0,1,1,,0,3,,,,,,,,0,,,1 (1),1 (1),1859,unlim
+Dwarka,Base,1,Japan,"38,14",0,0,1,1,,0,3,,,,,,,,0,,,1 (1),1 (1),1860,unlim
+Matli,Airfield,1,Japan,"41,11",0,0,0,0,,1,5,,,,,,,,0,,,2 (1),2 (1),1861,unlim
+Jammu,Airfield,1,Japan,"57,9",0,0,0,0,,1,2,,,,,,,,0,,,2 (1),2 (1),1862,unlim
+Nanpara,Beach,1,Japan,"54,23",0,0,0,0,,0,2,,,,,,,,0,,,0 (1),0 (1),1863,unlim
+Ambikapur,Airfield,1,Japan,"49,30",0,0,0,0,,1,3,,,,,,,,0,,,2 (1),2 (1),1864,unlim
+Bina,Airfield,1,Japan,"47,24",0,0,0,0,,1,3,,,,,,,,0,,,2 (1),2 (1),1865,unlim
+Katni,Airfield,1,Japan,"48,26",0,0,0,0,,1,3,,,,,,,,0,,,2 (1),2 (1),1866,unlim
+Kota,Airfield,1,Japan,"46,20",0,0,0,0,,1,5,,,,,,,,0,,,2 (1),2 (1),1867,unlim
+Khulna,Base,1,Japan,"54,38",0,0,1,1,,1,3,,,,,,,,0,,,3 (1),3 (1),1868,unlim
+Latur,Beach,1,Japan,"39,28",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (1),1869,unlim
+Guntakal,Airfield,1,Japan,"35,34",0,0,0,0,,1,4,,,,,,,,0,,,2 (1),2 (1),1870,unlim
+Puttalam,Base,1,Japan,"30,46",0,0,1,3,,1,4,,,,,,,,0,,,6 (2),6 (2),1873,unlim
+Badulla,Beach,1,Japan,"30,49",0,0,0,0,,0,4,,,,,,,,0,,,0 (2),0 (2),1874,unlim
+Batticaloa,Base,1,Japan,"31,48",0,0,1,2,,1,4,,,,,,,,0,,,6 (2),6 (2),1875,unlim
+Sandoway,Base,1,Japan,"53,51",0,0,1,2,,1,4,,,,,,,,0,,,3 (1),3 (1),1878,unlim
+Monywa,Beach,1,Japan,"58,45",0,0,0,0,,0,5,,,,,,,,0,,,0 (1),0 (1),1879,unlim
+Elphinstone Island,Base,1,Japan,"52,62",0,0,0,0,,0,1,,,,,,,,0,,,0 (2),0 (1),1881,unlim
+Lampi Island,Base,1,Japan,"51,64",0,0,0,0,,0,1,,,,,,,,0,,,0 (2),0 (1),1882,unlim
+Rameswaram,Base,1,Japan,"31,44",0,0,1,1,,1,3,,,,,,,,0,,,6 (2),6 (2),1883,60K
+Mannar,Base,1,Japan,"30,45",0,0,1,1,,1,3,,,,,,,,0,,,6 (2),6 (2),1884,unlim
+Dawson Creek,Beach,1,Japan,"204,35",0,0,0,0,,0,5,,,,,,,,0,,,0 (1),0 (1),1898,unlim
+Fort McMurray,Airfield,1,Japan,"208,28",0,0,0,0,,2,4,,,,,,,,0,,,4 (1),4 (1),1899,unlim
+Saskatoon,Airfield,1,Japan,"216,32",0,0,0,0,,2,6,,,,,,,,0,,,4 (1),4 (1),1900,unlim
+Watson Lake,Beach,1,Japan,"195,32",0,0,0,0,,0,5,,,,,,,,0,,,0 (1),0 (1),1901,unlim
+Rendova,Base,1,Japan,"110,135",0,0,0,2,,0,3,,,,,,,,0,,,0 (2),0 (2),1904,unlim
+Abd al Kuri,Base,1,Japan,"12,5",0,0,0,0,,0,5,,,,,,,,0,,,0 (5),0 (1),1906,unlim
+Dante,Base,1,Japan,"9,7",0,0,1,0,,1,5,,,,,,,,0,,,3 (1),30 (10),1907,unlim
+Laamu,Beach,1,Japan,"18,48",0,0,0,0,,0,0,,,,,,,,0,,,0 (2),0 (1),1908,6K
+Buin,Base,1,Japan,"109,131",0,0,1,1,,0,3,,,,,,,,0,,,2 (2),2 (2),1909,unlim
+Napier,Base,1,Japan,"116,190",0,0,1,1,,1,4,,,,,,,,0,,,9 (3),3 (1),1911,unlim
+Tingchow,Airfield,1,Japan,"83,58",0,0,0,0,,1,4,,,,,,,,10,,,2 (1),2 (1),1914,unlim
+Yingchow,Beach,0,Japan,"89,48",0,0,0,0,,0,2,,1,,0,0 (0),0 (0),0,10,0,China Expeditionary Army,0 (1),0 (3),1915,unlim
+Su-Hsien,Airfield,0,Japan,"91,48",0,0,0,0,,1,2,,1,,0,0 (0),0 (0),0,20,0,China Expeditionary Army,2 (1),6 (3),1916,unlim
+Chuching,Beach,1,Japan,"71,48",0,0,0,0,,0,3,,,,,,,,0,,,0 (1),0 (3),1917,unlim
+Chian,Beach,1,Japan,"83,54",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1918,unlim
+Chin-Hua,Beach,1,Japan,"89,56",0,0,0,0,,0,0,,,,,,,,0,,,0 (1),0 (1),1919,unlim
